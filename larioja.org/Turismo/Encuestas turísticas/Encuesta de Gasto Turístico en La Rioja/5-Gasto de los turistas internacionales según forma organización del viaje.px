@@ -1,0 +1,54 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="iso-8859-15";
+LANGUAGE="es";
+CREATION-DATE="20240304 12:03";
+UPDATE-FREQUENCY="Anual";
+DECIMALS=2;
+SHOWDECIMALS=0;
+MATRIX="20612007";
+AGGREGALLOWED="NO";
+AUTOPEN="NO";
+SUBJECT-CODE="20612";
+SUBJECT-AREA="Turismo > Encuesta de gasto turístico de internacionales en La Rioja";
+COPYRIGHT=YES;
+DESCRIPTION="Gasto de los turistas internacionales según forma de  organización del viaje";
+TITLE="Gasto de los turistas internacionales según forma de organización del viaje";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Gasto";
+UNITS="Según indicadores";
+STUB="Forma de organización del viaje";
+HEADING="Indicador","Periodo";
+CONTVARIABLE="Indicador";
+VALUES("Periodo")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("Forma de organización del viaje")="TOTAL","Con paquete turístico","Sin paquete turístico";
+VALUES("Indicador")="Gasto total","Gasto medio por persona","Gasto medio diario por persona","Duración media de los viajes";
+LAST-UPDATED="20240304 12:03:15";
+CONTACT="Instituto de Estadística de La Rioja#Teléfono: +34 941 291 196#Mail: estadistica.haci@larioja.org#http://www.larioja.org/estadistica";
+SOURCE="Instituto de Estadística de La Rioja a partir de datos del Instituto Nacional de Estadística";
+SURVEY="Encuesta de gasto turístico. Egatur";
+INFO="File generated using R and package pxR (http://pxr.r-forge.r-project.org/)";
+NOTEX="";
+NOTE="".." dato no disponible";
+PRECISION("Indicador","Gasto total")=2;
+PRECISION("Indicador","Gasto medio por persona")=0;
+PRECISION("Indicador","Gasto medio diario por persona")=0;
+PRECISION("Indicador","Duración media de los viajes")=2;
+UNITS("Gasto total")="Miles de euros";
+UNITS("Gasto medio por persona")="Euros";
+UNITS("Gasto medio diario por persona")="Euros";
+UNITS("Duración media de los viajes")="Dias";
+REFPERIOD("Gasto total")="Anual";
+REFPERIOD("Gasto medio por persona")="Anual";
+REFPERIOD("Gasto medio diario por persona")="Anual";
+REFPERIOD("Duración media de los viajes")="Anual";
+DATA=
+93087.88 101962.17 101126.5 98201.73 21835.28 42027.48 108604.09 86729.82 650.63 778.49 707.54 703.97
+481.43 877.16 966.32 733.71 98.8 99.29 104.29 103.32 73.44 116.83 134.45 131.99
+6.59 7.84 6.78 6.81 6.56 7.51 7.19 5.56 10333.17 1556.93 4018.9 10649.82
+".."  1132.44 1756.67 36.86 1399.42 916.24 1258.37 3416.89 ".."  1069.9 982.23 599.05
+215.14 274.74 182.79 291.74 ".."  250.13 245.56 74.88 6.5 3.33 6.88 11.71
+".."  4.28 4 8 82754.71 100405.25 97107.6 87551.92 21835.28 40895.05 106847.42 86692.95
+609.88 776.68 694.95 641.97 481.43 872.81 966.06 733.78 92.55 98.31 102.47 95.8
+73.44 115.13 133.46 132.03 6.59 7.9 6.78 6.7 6.56 7.58 7.24 5.56
+;

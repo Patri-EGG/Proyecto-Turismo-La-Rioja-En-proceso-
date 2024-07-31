@@ -1,0 +1,36 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="iso-8859-15";
+LANGUAGE="es";
+CREATION-DATE="20240304 10:03";
+UPDATE-FREQUENCY="Anual";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="20611003";
+AGGREGALLOWED="NO";
+AUTOPEN="NO";
+SUBJECT-CODE="20611";
+SUBJECT-AREA="Turismo > Estadística de movimientos turísticos en frontera para La Rioja";
+COPYRIGHT=YES;
+DESCRIPTION="Número de turistas según alojamiento principal";
+TITLE="Número de turistas según alojamiento principal";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Número de turistas";
+UNITS="Turistas";
+STUB="Tipo de alojamiento";
+HEADING="Periodo";
+VALUES("Periodo")="2016","2017","2018","2019","2020","2021","2022","2023";
+
+VALUES("Tipo de alojamiento")="TOTAL","De Mercado","No de Mercado";
+LAST-UPDATED="20240304 10:23:00";
+CONTACT="Instituto de Estadística de La Rioja#Teléfono: +34 941 291 196#Mail: estadistica.haci@larioja.org#http://www.larioja.org/estadistica";
+REFPERIOD="Año";
+SOURCE="Instituto de Estadística de La Rioja a partir de datos del Instituto Nacional de Estadística.";
+SURVEY="Estadística de movimientos turísticos en frontera";
+INFO="File generated using R and package pxR (http://pxr.r-forge.r-project.org/)";
+NOTE="".." dato no disponible";
+DATA=
+150778.8 124188.8 142926.4 139497.3 45355.2 47913 105909.8 118207.9
+104346.3 68325.4 99113.8 95501.2 22736.9 33676.5 79058.4 80533.9
+46432.4 55863.4 43812.6 43996.2 22618.4 14236.5 26851.3 37673.9
+;

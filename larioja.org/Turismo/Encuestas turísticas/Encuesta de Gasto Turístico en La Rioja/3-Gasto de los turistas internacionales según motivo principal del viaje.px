@@ -1,0 +1,57 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="iso-8859-15";
+LANGUAGE="es";
+CREATION-DATE="20240304 12:03";
+UPDATE-FREQUENCY="Anual";
+DECIMALS=2;
+SHOWDECIMALS=0;
+MATRIX="20612006";
+AGGREGALLOWED="NO";
+AUTOPEN="NO";
+SUBJECT-CODE="20612";
+SUBJECT-AREA="Turismo > Encuesta de gasto turístico de internacionales en La Rioja";
+COPYRIGHT=YES;
+DESCRIPTION="Gasto de los turistas internacionales según motivo principal del viaje";
+TITLE="Gasto de los turistas internacionales según motivo principal del viaje";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Gasto";
+UNITS="Según indicadores";
+STUB="Motivo del viaje";
+HEADING="Indicador","Periodo";
+CONTVARIABLE="Indicador";
+VALUES("Periodo")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("Motivo del viaje")="TOTAL","Ocio, recreo y vacaciones","Negocios","Otros motivos ";
+VALUES("Indicador")="Gasto total","Gasto medio por persona","Gasto medio diario por persona","Duración media de los viajes";
+LAST-UPDATED="20240304 12:03:14";
+CONTACT="Instituto de Estadística de La Rioja#Teléfono: +34 941 291 196#Mail: estadistica.haci@larioja.org#http://www.larioja.org/estadistica";
+SOURCE="Instituto de Estadística de La Rioja a partir de datos del Instituto Nacional de Estadística";
+SURVEY="Encuesta de gasto turístico. Egatur";
+INFO="File generated using R and package pxR (http://pxr.r-forge.r-project.org/)";
+NOTEX="";
+NOTE="".." dato no disponible";
+PRECISION("Indicador","Gasto total")=2;
+PRECISION("Indicador","Gasto medio por persona")=0;
+PRECISION("Indicador","Gasto medio diario por persona")=0;
+PRECISION("Indicador","Duración media de los viajes")=2;
+UNITS("Gasto total")="Miles de euros";
+UNITS("Gasto medio por persona")="Euros";
+UNITS("Gasto medio diario por persona")="Euros";
+UNITS("Duración media de los viajes")="Dias";
+REFPERIOD("Gasto total")="Anual";
+REFPERIOD("Gasto medio por persona")="Anual";
+REFPERIOD("Gasto medio diario por persona")="Anual";
+REFPERIOD("Duración media de los viajes")="Anual";
+DATA=
+93087.88 101962.17 101126.5 98201.73 21835.28 42027.48 108604.09 86729.82 650.63 778.49 707.54 703.97
+481.43 877.16 966.32 733.71 98.8 99.29 104.29 103.32 73.44 116.83 134.45 131.99
+6.59 7.84 6.78 6.81 6.56 7.51 7.19 5.56 39232.44 55458.02 52469.7 58276.35
+10229.85 21035.59 59445.82 36179.05 481.26 650.13 797.28 706.17 580.27 794.36 993.66 959.1
+95.27 144.49 119.58 128.54 70.16 152.48 196.08 156.65 5.05 4.5 6.67 5.49
+8.27 5.21 5.07 6.12 18162.78 26965.87 22474.96 12308.8 3952.61 3155.42 13086.44 19027.09
+814.34 1559.79 810.9 815.19 366.57 515.85 770.35 757.85 159.84 75.82 164.68 242.49
+216.06 214.79 227.05 305.6 5.09 20.57 4.92 3.36 1.7 2.4 3.39 2.48
+35692.66 19538.28 26181.84 27616.58 7652.82 17836.47 36071.83 31523.68 909.39 688.38 530 659.53
+451.68 1164.65 1013.93 569.23 85.64 67.97 66.38 61.88 57.45 86.13 80.71 86.64
+10.62 10.13 7.98 10.66 7.86 13.52 12.56 6.57
+;

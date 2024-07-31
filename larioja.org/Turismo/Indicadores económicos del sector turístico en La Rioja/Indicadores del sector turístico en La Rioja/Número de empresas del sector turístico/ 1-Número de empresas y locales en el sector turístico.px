@@ -1,0 +1,47 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="iso-8859-15";
+LANGUAGE="es";
+CREATION-DATE="20220712 10:07";
+UPDATE-FREQUENCY="Anual";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="20609001";
+AGGREGALLOWED="NO";
+AUTOPEN="NO";
+SUBJECT-CODE="20609";
+SUBJECT-AREA="Economía>Turismo";
+COPYRIGHT=YES;
+DESCRIPTION="Número de empresas y locales en el sector turístico";
+TITLE="Número de empresas y locales en el sector turístico";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Número de empresas y locales";
+UNITS="Empresas y locales";
+STUB="Grupo actividad sector turístico","Indicador";
+HEADING="Periodo";
+VALUES("Periodo")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES("Grupo actividad sector turístico")="TOTAL SECTOR SERVICIOS","SECTOR TURÍSTICOS","55 Servicios de alojamiento","56 Servicios de comidas y bebidas","(491, 493, 501, 503, 511, 522) Transporte de pasajeros","Otras actividades turísticas: Agencias de viaje, alquiler de vehículos, actividades culturales, actividades deportivas","RESTO DE SECTOR SERVICIOS";
+VALUES("Indicador")="Número de empresas","Número de locales";
+LAST-UPDATED="20220712 10:35:41";
+CONTACT="Instituto de Estadística de La Rioja#Teléfono: +34 941 291 196#Mail: estadistica.haci@larioja.org#http://www.larioja.org/estadistica";
+REFPERIOD="Año";
+SOURCE="Instituto de Estadística de La Rioja a partir de datos del Instituto Nacional de Estadística (INE).";
+SURVEY="Directorio de empresas (DIRCE)";
+INFO="File generated using R and package pxR (http://pxr.r-forge.r-project.org/)";
+NOTE="";
+DATA=
+16501 16522 16666 16614 16508 16625 16741 17609 17715 17906 17940 17573 17692 17398
+".." ".." 19318 19233 19000 19204 19268 20154 20313 20560 20619 20548 20720 20419
+2891 2903 2894 2872 2891 2897 2856 2837 2865 2907 2946 2922 3021 2939
+".." ".." 3196 3168 3179 3200 3143 3152 3186 3235 3265 3294 3433 3349
+181 181 183 177 182 189 187 202 200 207 215 213 232 233
+".." ".." 204 200 207 212 209 229 226 238 246 248 281 286
+1934 1943 1936 1901 1905 1901 1836 1786 1761 1789 1765 1716 1737 1677
+".." ".." 2060 2015 2023 2027 1960 1916 1895 1917 1898 1858 1906 1843
+246 244 241 243 235 233 225 231 237 232 227 218 227 225
+".." ".." 279 281 276 278 263 273 281 279 270 274 282 284
+530 535 534 551 569 574 608 618 667 679 739 775 825 804
+".." ".." 653 672 673 683 711 734 784 801 851 914 964 936
+13610 13619 13772 13742 13617 13728 13885 14772 14850 14999 14994 14651 14671 14459
+".." ".." 16122 16065 15821 16004 16125 17002 17127 17325 17354 17254 17287 17070
+;

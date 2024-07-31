@@ -1,0 +1,38 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="iso-8859-15";
+LANGUAGE="es";
+CREATION-DATE="20240304 12:03";
+UPDATE-FREQUENCY="Anual";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="20612007";
+AGGREGALLOWED="NO";
+AUTOPEN="NO";
+SUBJECT-CODE="20612";
+SUBJECT-AREA="Turismo > Encuesta de gasto turístico de internacionales en La Rioja";
+COPYRIGHT=YES;
+DESCRIPTION="Gasto de los turistas internacionales según partidas de gasto";
+TITLE="Gasto de los turistas internacionales según partidas de gasto";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Gasto";
+UNITS="Miles de euros";
+STUB="Tipo de gasto";
+HEADING="Periodo";
+VALUES("Periodo")="2016","2017","2018","2019","2020","2021","2022","2023";
+
+VALUES("Tipo de gasto")="TOTAL","Gasto en paquete turístico","Gasto en transporte","Gasto en alojamiento","Otros gastos";
+LAST-UPDATED="20240304 12:03:16";
+CONTACT="Instituto de Estadística de La Rioja#Teléfono: +34 941 291 196#Mail: estadistica.haci@larioja.org#http://www.larioja.org/estadistica";
+REFPERIOD="Año";
+SOURCE="Instituto de Estadística de La Rioja a partir de datos del Instituto Nacional de Estadística";
+SURVEY="Encuesta de gasto turístico. Egatur";
+INFO="File generated using R and package pxR (http://pxr.r-forge.r-project.org/)";
+NOTE="".." dato no disponible";
+DATA=
+93087.88 101962.17 101126.5 98201.73 21835.28 42027.48 108604.09 86729.82
+7425.98 1225.69 3351.39 4893.82 0 934.58 707.33 0.96
+21250.75 31671.72 24390.25 21126.7 2973.94 7166.91 23793.02 23685.41
+14751.71 13865.22 15301.56 14261.12 3247.47 8898.29 19166.54 11902.08
+49659.45 55199.55 58083.3 57920.1 15613.87 25027.71 64937.2 51141.37
+;

@@ -1,0 +1,583 @@
+Periodo,Tarifa,Variable,DATA
+2016M01,TOTAL,Índice,150.89
+2016M01,TOTAL,Var (%) anual,2.06
+2016M01,Normal,Índice,147.67
+2016M01,Normal,Var (%) anual,3.17
+2016M01,Fin de semana,Índice,150.13
+2016M01,Fin de semana,Var (%) anual,1.48
+2016M02,TOTAL,Índice,133.72
+2016M02,TOTAL,Var (%) anual,3.3
+2016M02,Normal,Índice,138.17
+2016M02,Normal,Var (%) anual,5.09
+2016M02,Fin de semana,Índice,125.42
+2016M02,Fin de semana,Var (%) anual,3.19
+2016M03,TOTAL,Índice,137.36
+2016M03,TOTAL,Var (%) anual,2.47
+2016M03,Normal,Índice,124.72
+2016M03,Normal,Var (%) anual,2.62
+2016M03,Fin de semana,Índice,142.05
+2016M03,Fin de semana,Var (%) anual,2.43
+2016M04,TOTAL,Índice,132.45
+2016M04,TOTAL,Var (%) anual,2.07
+2016M04,Normal,Índice,134.08
+2016M04,Normal,Var (%) anual,2.21
+2016M04,Fin de semana,Índice,131.26
+2016M04,Fin de semana,Var (%) anual,1.98
+2016M05,TOTAL,Índice,120.17
+2016M05,TOTAL,Var (%) anual,1.32
+2016M05,Normal,Índice,133.02
+2016M05,Normal,Var (%) anual,2.92
+2016M05,Fin de semana,Índice,119.42
+2016M05,Fin de semana,Var (%) anual,1.18
+2016M06,TOTAL,Índice,122.16
+2016M06,TOTAL,Var (%) anual,3.34
+2016M06,Normal,Índice,136.13
+2016M06,Normal,Var (%) anual,2.31
+2016M06,Fin de semana,Índice,122.57
+2016M06,Fin de semana,Var (%) anual,3.73
+2016M07,TOTAL,Índice,133.58
+2016M07,TOTAL,Var (%) anual,4.66
+2016M07,Normal,Índice,132.74
+2016M07,Normal,Var (%) anual,4.7
+2016M07,Fin de semana,Índice,133.97
+2016M07,Fin de semana,Var (%) anual,4.62
+2016M08,TOTAL,Índice,126.39
+2016M08,TOTAL,Var (%) anual,2.39
+2016M08,Normal,Índice,128.49
+2016M08,Normal,Var (%) anual,2.28
+2016M08,Fin de semana,Índice,127.8
+2016M08,Fin de semana,Var (%) anual,2.57
+2016M09,TOTAL,Índice,115.63
+2016M09,TOTAL,Var (%) anual,1.06
+2016M09,Normal,Índice,118.43
+2016M09,Normal,Var (%) anual,-0
+2016M09,Fin de semana,Índice,115.74
+2016M09,Fin de semana,Var (%) anual,1.44
+2016M10,TOTAL,Índice,130.63
+2016M10,TOTAL,Var (%) anual,2.36
+2016M10,Normal,Índice,141.27
+2016M10,Normal,Var (%) anual,2.75
+2016M10,Fin de semana,Índice,128.99
+2016M10,Fin de semana,Var (%) anual,2.23
+2016M11,TOTAL,Índice,132.25
+2016M11,TOTAL,Var (%) anual,3.31
+2016M11,Normal,Índice,131.09
+2016M11,Normal,Var (%) anual,2.76
+2016M11,Fin de semana,Índice,130.23
+2016M11,Fin de semana,Var (%) anual,3.37
+2016M12,TOTAL,Índice,128.78
+2016M12,TOTAL,Var (%) anual,3.77
+2016M12,Normal,Índice,124.84
+2016M12,Normal,Var (%) anual,4.04
+2016M12,Fin de semana,Índice,129.06
+2016M12,Fin de semana,Var (%) anual,3.55
+2017M01,TOTAL,Índice,151.79
+2017M01,TOTAL,Var (%) anual,0.6
+2017M01,Normal,Índice,148.49
+2017M01,Normal,Var (%) anual,0.56
+2017M01,Fin de semana,Índice,151.04
+2017M01,Fin de semana,Var (%) anual,0.6
+2017M02,TOTAL,Índice,132.46
+2017M02,TOTAL,Var (%) anual,-0.94
+2017M02,Normal,Índice,134.64
+2017M02,Normal,Var (%) anual,-2.55
+2017M02,Fin de semana,Índice,124.51
+2017M02,Fin de semana,Var (%) anual,-0.73
+2017M03,TOTAL,Índice,142.08
+2017M03,TOTAL,Var (%) anual,3.44
+2017M03,Normal,Índice,128.67
+2017M03,Normal,Var (%) anual,3.17
+2017M03,Fin de semana,Índice,147.16
+2017M03,Fin de semana,Var (%) anual,3.6
+2017M04,TOTAL,Índice,137.83
+2017M04,TOTAL,Var (%) anual,4.06
+2017M04,Normal,Índice,132.1
+2017M04,Normal,Var (%) anual,-1.47
+2017M04,Fin de semana,Índice,136.94
+2017M04,Fin de semana,Var (%) anual,4.33
+2017M05,TOTAL,Índice,124.9
+2017M05,TOTAL,Var (%) anual,3.94
+2017M05,Normal,Índice,136.21
+2017M05,Normal,Var (%) anual,2.4
+2017M05,Fin de semana,Índice,124.7
+2017M05,Fin de semana,Var (%) anual,4.43
+2017M06,TOTAL,Índice,125.44
+2017M06,TOTAL,Var (%) anual,2.69
+2017M06,Normal,Índice,140.43
+2017M06,Normal,Var (%) anual,3.16
+2017M06,Fin de semana,Índice,125.68
+2017M06,Fin de semana,Var (%) anual,2.54
+2017M07,TOTAL,Índice,134.46
+2017M07,TOTAL,Var (%) anual,0.66
+2017M07,Normal,Índice,134.09
+2017M07,Normal,Var (%) anual,1.01
+2017M07,Fin de semana,Índice,134.62
+2017M07,Fin de semana,Var (%) anual,0.49
+2017M08,TOTAL,Índice,131.53
+2017M08,TOTAL,Var (%) anual,4.07
+2017M08,Normal,Índice,133.82
+2017M08,Normal,Var (%) anual,4.15
+2017M08,Fin de semana,Índice,132.82
+2017M08,Fin de semana,Var (%) anual,3.92
+2017M09,TOTAL,Índice,120.07
+2017M09,TOTAL,Var (%) anual,3.84
+2017M09,Normal,Índice,124.03
+2017M09,Normal,Var (%) anual,4.72
+2017M09,Fin de semana,Índice,119.92
+2017M09,Fin de semana,Var (%) anual,3.61
+2017M10,TOTAL,Índice,134.08
+2017M10,TOTAL,Var (%) anual,2.64
+2017M10,Normal,Índice,144.33
+2017M10,Normal,Var (%) anual,2.17
+2017M10,Fin de semana,Índice,132.58
+2017M10,Fin de semana,Var (%) anual,2.78
+2017M11,TOTAL,Índice,136.28
+2017M11,TOTAL,Var (%) anual,3.05
+2017M11,Normal,Índice,135.27
+2017M11,Normal,Var (%) anual,3.19
+2017M11,Fin de semana,Índice,134.18
+2017M11,Fin de semana,Var (%) anual,3.03
+2017M12,TOTAL,Índice,132.25
+2017M12,TOTAL,Var (%) anual,2.7
+2017M12,Normal,Índice,128.2
+2017M12,Normal,Var (%) anual,2.69
+2017M12,Fin de semana,Índice,132.55
+2017M12,Fin de semana,Var (%) anual,2.71
+2018M01,TOTAL,Índice,156.68
+2018M01,TOTAL,Var (%) anual,3.22
+2018M01,Normal,Índice,150.61
+2018M01,Normal,Var (%) anual,1.43
+2018M01,Fin de semana,Índice,157.09
+2018M01,Fin de semana,Var (%) anual,4.01
+2018M02,TOTAL,Índice,136.57
+2018M02,TOTAL,Var (%) anual,3.1
+2018M02,Normal,Índice,139.67
+2018M02,Normal,Var (%) anual,3.74
+2018M02,Fin de semana,Índice,128.33
+2018M02,Fin de semana,Var (%) anual,3.07
+2018M03,TOTAL,Índice,147.59
+2018M03,TOTAL,Var (%) anual,3.88
+2018M03,Normal,Índice,132.16
+2018M03,Normal,Var (%) anual,2.71
+2018M03,Fin de semana,Índice,153.11
+2018M03,Fin de semana,Var (%) anual,4.04
+2018M04,TOTAL,Índice,141.67
+2018M04,TOTAL,Var (%) anual,2.78
+2018M04,Normal,Índice,134.77
+2018M04,Normal,Var (%) anual,2.02
+2018M04,Fin de semana,Índice,141.42
+2018M04,Fin de semana,Var (%) anual,3.27
+2018M05,TOTAL,Índice,127.99
+2018M05,TOTAL,Var (%) anual,2.47
+2018M05,Normal,Índice,138.43
+2018M05,Normal,Var (%) anual,1.63
+2018M05,Fin de semana,Índice,128.03
+2018M05,Fin de semana,Var (%) anual,2.66
+2018M06,TOTAL,Índice,124.24
+2018M06,TOTAL,Var (%) anual,-0.95
+2018M06,Normal,Índice,137.21
+2018M06,Normal,Var (%) anual,-2.29
+2018M06,Fin de semana,Índice,124.81
+2018M06,Fin de semana,Var (%) anual,-0.69
+2018M07,TOTAL,Índice,135.13
+2018M07,TOTAL,Var (%) anual,0.49
+2018M07,Normal,Índice,133.57
+2018M07,Normal,Var (%) anual,-0.39
+2018M07,Fin de semana,Índice,136.14
+2018M07,Fin de semana,Var (%) anual,1.13
+2018M08,TOTAL,Índice,128.35
+2018M08,TOTAL,Var (%) anual,-2.42
+2018M08,Normal,Índice,130.01
+2018M08,Normal,Var (%) anual,-2.85
+2018M08,Fin de semana,Índice,130.51
+2018M08,Fin de semana,Var (%) anual,-1.74
+2018M09,TOTAL,Índice,123.24
+2018M09,TOTAL,Var (%) anual,2.64
+2018M09,Normal,Índice,124.34
+2018M09,Normal,Var (%) anual,0.25
+2018M09,Fin de semana,Índice,123.63
+2018M09,Fin de semana,Var (%) anual,3.1
+2018M10,TOTAL,Índice,139.34
+2018M10,TOTAL,Var (%) anual,3.92
+2018M10,Normal,Índice,147.68
+2018M10,Normal,Var (%) anual,2.32
+2018M10,Fin de semana,Índice,138.48
+2018M10,Fin de semana,Var (%) anual,4.45
+2018M11,TOTAL,Índice,141.16
+2018M11,TOTAL,Var (%) anual,3.58
+2018M11,Normal,Índice,136.72
+2018M11,Normal,Var (%) anual,1.07
+2018M11,Fin de semana,Índice,139.25
+2018M11,Fin de semana,Var (%) anual,3.78
+2018M12,TOTAL,Índice,138.76
+2018M12,TOTAL,Var (%) anual,4.92
+2018M12,Normal,Índice,133.12
+2018M12,Normal,Var (%) anual,3.83
+2018M12,Fin de semana,Índice,140.22
+2018M12,Fin de semana,Var (%) anual,5.78
+2019M01,TOTAL,Índice,167.17
+2019M01,TOTAL,Var (%) anual,6.69
+2019M01,Normal,Índice,152.2
+2019M01,Normal,Var (%) anual,1.05
+2019M01,Fin de semana,Índice,168.64
+2019M01,Fin de semana,Var (%) anual,7.35
+2019M02,TOTAL,Índice,145.95
+2019M02,TOTAL,Var (%) anual,6.86
+2019M02,Normal,Índice,151.72
+2019M02,Normal,Var (%) anual,8.63
+2019M02,Fin de semana,Índice,136.91
+2019M02,Fin de semana,Var (%) anual,6.69
+2019M03,TOTAL,Índice,154.57
+2019M03,TOTAL,Var (%) anual,4.73
+2019M03,Normal,Índice,138.92
+2019M03,Normal,Var (%) anual,5.11
+2019M03,Fin de semana,Índice,160.12
+2019M03,Fin de semana,Var (%) anual,4.58
+2019M04,TOTAL,Índice,151.08
+2019M04,TOTAL,Var (%) anual,6.65
+2019M04,Normal,Índice,142.09
+2019M04,Normal,Var (%) anual,5.43
+2019M04,Fin de semana,Índice,151.89
+2019M04,Fin de semana,Var (%) anual,7.4
+2019M05,TOTAL,Índice,134.97
+2019M05,TOTAL,Var (%) anual,5.45
+2019M05,Normal,Índice,144.66
+2019M05,Normal,Var (%) anual,4.5
+2019M05,Fin de semana,Índice,135.28
+2019M05,Fin de semana,Var (%) anual,5.66
+2019M06,TOTAL,Índice,143.3
+2019M06,TOTAL,Var (%) anual,15.34
+2019M06,Normal,Índice,149.92
+2019M06,Normal,Var (%) anual,9.27
+2019M06,Fin de semana,Índice,145.3
+2019M06,Fin de semana,Var (%) anual,16.42
+2019M07,TOTAL,Índice,153.71
+2019M07,TOTAL,Var (%) anual,13.75
+2019M07,Normal,Índice,150.16
+2019M07,Normal,Var (%) anual,12.42
+2019M07,Fin de semana,Índice,156.52
+2019M07,Fin de semana,Var (%) anual,14.97
+2019M08,TOTAL,Índice,149.48
+2019M08,TOTAL,Var (%) anual,16.46
+2019M08,Normal,Índice,151.73
+2019M08,Normal,Var (%) anual,16.71
+2019M08,Fin de semana,Índice,151.45
+2019M08,Fin de semana,Var (%) anual,16.04
+2019M09,TOTAL,Índice,136.31
+2019M09,TOTAL,Var (%) anual,10.6
+2019M09,Normal,Índice,132.9
+2019M09,Normal,Var (%) anual,6.88
+2019M09,Fin de semana,Índice,137.69
+2019M09,Fin de semana,Var (%) anual,11.36
+2019M10,TOTAL,Índice,155.5
+2019M10,TOTAL,Var (%) anual,11.6
+2019M10,Normal,Índice,162.78
+2019M10,Normal,Var (%) anual,10.22
+2019M10,Fin de semana,Índice,155.29
+2019M10,Fin de semana,Var (%) anual,12.14
+2019M11,TOTAL,Índice,158.09
+2019M11,TOTAL,Var (%) anual,12.57
+2019M11,Normal,Índice,150.49
+2019M11,Normal,Var (%) anual,10.46
+2019M11,Fin de semana,Índice,156.59
+2019M11,Fin de semana,Var (%) anual,13.05
+2019M12,TOTAL,Índice,155.72
+2019M12,TOTAL,Var (%) anual,12.62
+2019M12,Normal,Índice,150.74
+2019M12,Normal,Var (%) anual,13.65
+2019M12,Fin de semana,Índice,155.58
+2019M12,Fin de semana,Var (%) anual,11.35
+2020M01,TOTAL,Índice,174.68
+2020M01,TOTAL,Var (%) anual,4.5
+2020M01,Normal,Índice,160.08
+2020M01,Normal,Var (%) anual,5.18
+2020M01,Fin de semana,Índice,175.66
+2020M01,Fin de semana,Var (%) anual,4.16
+2020M02,TOTAL,Índice,154.4
+2020M02,TOTAL,Var (%) anual,5.79
+2020M02,Normal,Índice,157.65
+2020M02,Normal,Var (%) anual,3.91
+2020M02,Fin de semana,Índice,144.98
+2020M02,Fin de semana,Var (%) anual,5.9
+2020M03,TOTAL,Índice,164.54
+2020M03,TOTAL,Var (%) anual,6.45
+2020M03,Normal,Índice,144.67
+2020M03,Normal,Var (%) anual,4.14
+2020M03,Fin de semana,Índice,170.68
+2020M03,Fin de semana,Var (%) anual,6.59
+2020M04,TOTAL,Índice,151.08
+2020M04,TOTAL,Var (%) anual,0
+2020M04,Normal,Índice,142.09
+2020M04,Normal,Var (%) anual,0
+2020M04,Fin de semana,Índice,151.89
+2020M04,Fin de semana,Var (%) anual,0
+2020M07,TOTAL,Índice,158.4
+2020M07,TOTAL,Var (%) anual,3.05
+2020M07,Normal,Índice,155.88
+2020M07,Normal,Var (%) anual,3.81
+2020M07,Fin de semana,Índice,160.49
+2020M07,Fin de semana,Var (%) anual,2.54
+2020M08,TOTAL,Índice,152.51
+2020M08,TOTAL,Var (%) anual,2.03
+2020M08,Normal,Índice,155.49
+2020M08,Normal,Var (%) anual,2.48
+2020M08,Fin de semana,Índice,153.43
+2020M08,Fin de semana,Var (%) anual,1.31
+2020M09,TOTAL,Índice,136.64
+2020M09,TOTAL,Var (%) anual,0.24
+2020M09,Normal,Índice,134.64
+2020M09,Normal,Var (%) anual,1.31
+2020M09,Fin de semana,Índice,137.66
+2020M09,Fin de semana,Var (%) anual,-0.02
+2020M10,TOTAL,Índice,152.57
+2020M10,TOTAL,Var (%) anual,-1.89
+2020M10,Normal,Índice,161.65
+2020M10,Normal,Var (%) anual,-0.69
+2020M10,Fin de semana,Índice,151.82
+2020M10,Fin de semana,Var (%) anual,-2.23
+2020M11,TOTAL,Índice,152.72
+2020M11,TOTAL,Var (%) anual,-3.39
+2020M11,Normal,Índice,147.39
+2020M11,Normal,Var (%) anual,-2.06
+2020M11,Fin de semana,Índice,151.08
+2020M11,Fin de semana,Var (%) anual,-3.52
+2020M12,TOTAL,Índice,148.6
+2020M12,TOTAL,Var (%) anual,-4.57
+2020M12,Normal,Índice,144.28
+2020M12,Normal,Var (%) anual,-4.29
+2020M12,Fin de semana,Índice,147.88
+2020M12,Fin de semana,Var (%) anual,-4.95
+2021M01,TOTAL,Índice,188.05
+2021M01,TOTAL,Var (%) anual,7.65
+2021M01,Normal,Índice,173.24
+2021M01,Normal,Var (%) anual,8.23
+2021M01,Fin de semana,Índice,188.72
+2021M01,Fin de semana,Var (%) anual,7.43
+2021M02,TOTAL,Índice,171.85
+2021M02,TOTAL,Var (%) anual,11.3
+2021M02,Normal,Índice,172.3
+2021M02,Normal,Var (%) anual,9.29
+2021M02,Fin de semana,Índice,161.69
+2021M02,Fin de semana,Var (%) anual,11.52
+2021M03,TOTAL,Índice,178.16
+2021M03,TOTAL,Var (%) anual,8.28
+2021M03,Normal,Índice,157.7
+2021M03,Normal,Var (%) anual,9
+2021M03,Fin de semana,Índice,184.31
+2021M03,Fin de semana,Var (%) anual,7.99
+2021M04,TOTAL,Índice,145.25
+2021M04,TOTAL,Var (%) anual,-3.86
+2021M04,Normal,Índice,136.89
+2021M04,Normal,Var (%) anual,-3.66
+2021M04,Fin de semana,Índice,145.88
+2021M04,Fin de semana,Var (%) anual,-3.95
+2021M05,TOTAL,Índice,120.69
+2021M05,TOTAL,Var (%) anual,0
+2021M05,Normal,Índice,131.28
+2021M05,Normal,Var (%) anual,0
+2021M05,Fin de semana,Índice,118.72
+2021M05,Fin de semana,Var (%) anual,0
+2021M06,TOTAL,Índice,145.42
+2021M06,TOTAL,Var (%) anual,0
+2021M06,Normal,Índice,155.76
+2021M06,Normal,Var (%) anual,0
+2021M06,Fin de semana,Índice,147.24
+2021M06,Fin de semana,Var (%) anual,0
+2021M07,TOTAL,Índice,151.34
+2021M07,TOTAL,Var (%) anual,-4.46
+2021M07,Normal,Índice,151.14
+2021M07,Normal,Var (%) anual,-3.04
+2021M07,Fin de semana,Índice,151.85
+2021M07,Fin de semana,Var (%) anual,-5.39
+2021M08,TOTAL,Índice,154.65
+2021M08,TOTAL,Var (%) anual,1.4
+2021M08,Normal,Índice,157.98
+2021M08,Normal,Var (%) anual,1.6
+2021M08,Fin de semana,Índice,155.15
+2021M08,Fin de semana,Var (%) anual,1.12
+2021M09,TOTAL,Índice,140.78
+2021M09,TOTAL,Var (%) anual,3.03
+2021M09,Normal,Índice,139.38
+2021M09,Normal,Var (%) anual,3.52
+2021M09,Fin de semana,Índice,141.11
+2021M09,Fin de semana,Var (%) anual,2.51
+2021M10,TOTAL,Índice,159.86
+2021M10,TOTAL,Var (%) anual,4.78
+2021M10,Normal,Índice,169.07
+2021M10,Normal,Var (%) anual,4.59
+2021M10,Fin de semana,Índice,159.52
+2021M10,Fin de semana,Var (%) anual,5.07
+2021M11,TOTAL,Índice,163.84
+2021M11,TOTAL,Var (%) anual,7.28
+2021M11,Normal,Índice,158.13
+2021M11,Normal,Var (%) anual,7.28
+2021M11,Fin de semana,Índice,162.05
+2021M11,Fin de semana,Var (%) anual,7.26
+2021M12,TOTAL,Índice,158.2
+2021M12,TOTAL,Var (%) anual,6.46
+2021M12,Normal,Índice,153.04
+2021M12,Normal,Var (%) anual,6.07
+2021M12,Fin de semana,Índice,159.35
+2021M12,Fin de semana,Var (%) anual,7.76
+2022M01,TOTAL,Índice,177.94
+2022M01,TOTAL,Var (%) anual,-5.38
+2022M01,Normal,Índice,163.78
+2022M01,Normal,Var (%) anual,-5.46
+2022M01,Fin de semana,Índice,180.12
+2022M01,Fin de semana,Var (%) anual,-4.56
+2022M02,TOTAL,Índice,172.7
+2022M02,TOTAL,Var (%) anual,0.49
+2022M02,Normal,Índice,175.41
+2022M02,Normal,Var (%) anual,1.81
+2022M02,Fin de semana,Índice,159.21
+2022M02,Fin de semana,Var (%) anual,-1.53
+2022M03,TOTAL,Índice,184.25
+2022M03,TOTAL,Var (%) anual,3.42
+2022M03,Normal,Índice,164.54
+2022M03,Normal,Var (%) anual,4.34
+2022M03,Fin de semana,Índice,189.2
+2022M03,Fin de semana,Var (%) anual,2.65
+2022M04,TOTAL,Índice,155.29
+2022M04,TOTAL,Var (%) anual,6.91
+2022M04,Normal,Índice,145.8
+2022M04,Normal,Var (%) anual,6.51
+2022M04,Fin de semana,Índice,156.94
+2022M04,Fin de semana,Var (%) anual,7.58
+2022M05,TOTAL,Índice,128.11
+2022M05,TOTAL,Var (%) anual,6.15
+2022M05,Normal,Índice,139.01
+2022M05,Normal,Var (%) anual,5.89
+2022M05,Fin de semana,Índice,126.41
+2022M05,Fin de semana,Var (%) anual,6.48
+2022M06,TOTAL,Índice,148.81
+2022M06,TOTAL,Var (%) anual,2.33
+2022M06,Normal,Índice,160.2
+2022M06,Normal,Var (%) anual,2.85
+2022M06,Fin de semana,Índice,150.24
+2022M06,Fin de semana,Var (%) anual,2.03
+2022M07,TOTAL,Índice,162.07
+2022M07,TOTAL,Var (%) anual,7.09
+2022M07,Normal,Índice,161.4
+2022M07,Normal,Var (%) anual,6.79
+2022M07,Fin de semana,Índice,162.87
+2022M07,Fin de semana,Var (%) anual,7.26
+2022M08,TOTAL,Índice,161.88
+2022M08,TOTAL,Var (%) anual,4.67
+2022M08,Normal,Índice,165.25
+2022M08,Normal,Var (%) anual,4.6
+2022M08,Fin de semana,Índice,162.56
+2022M08,Fin de semana,Var (%) anual,4.77
+2022M09,TOTAL,Índice,140.72
+2022M09,TOTAL,Var (%) anual,-0.05
+2022M09,Normal,Índice,140.75
+2022M09,Normal,Var (%) anual,0.98
+2022M09,Fin de semana,Índice,140.52
+2022M09,Fin de semana,Var (%) anual,-0.42
+2022M10,TOTAL,Índice,160.25
+2022M10,TOTAL,Var (%) anual,0.24
+2022M10,Normal,Índice,171.04
+2022M10,Normal,Var (%) anual,1.16
+2022M10,Fin de semana,Índice,159.41
+2022M10,Fin de semana,Var (%) anual,-0.07
+2022M11,TOTAL,Índice,162.33
+2022M11,TOTAL,Var (%) anual,-0.92
+2022M11,Normal,Índice,158.35
+2022M11,Normal,Var (%) anual,0.14
+2022M11,Fin de semana,Índice,160.32
+2022M11,Fin de semana,Var (%) anual,-1.07
+2022M12,TOTAL,Índice,150.83
+2022M12,TOTAL,Var (%) anual,-4.66
+2022M12,Normal,Índice,146.9
+2022M12,Normal,Var (%) anual,-4.01
+2022M12,Fin de semana,Índice,150.97
+2022M12,Fin de semana,Var (%) anual,-5.26
+2023M01,TOTAL,Índice,204.9
+2023M01,TOTAL,Var (%) anual,10.44
+2023M01,Normal,Índice,187.03
+2023M01,Normal,Var (%) anual,9.47
+2023M01,Fin de semana,Índice,207.08
+2023M01,Fin de semana,Var (%) anual,10.77
+2023M02,TOTAL,Índice,187.49
+2023M02,TOTAL,Var (%) anual,8.57
+2023M02,Normal,Índice,185.77
+2023M02,Normal,Var (%) anual,5.91
+2023M02,Fin de semana,Índice,173.42
+2023M02,Fin de semana,Var (%) anual,8.93
+2023M03,TOTAL,Índice,194.06
+2023M03,TOTAL,Var (%) anual,5.32
+2023M03,Normal,Índice,171.02
+2023M03,Normal,Var (%) anual,3.94
+2023M03,Fin de semana,Índice,199.81
+2023M03,Fin de semana,Var (%) anual,5.61
+2023M04,TOTAL,Índice,164.36
+2023M04,TOTAL,Var (%) anual,5.84
+2023M04,Normal,Índice,155.58
+2023M04,Normal,Var (%) anual,6.71
+2023M04,Fin de semana,Índice,165.6
+2023M04,Fin de semana,Var (%) anual,5.52
+2023M05,TOTAL,Índice,136.79
+2023M05,TOTAL,Var (%) anual,6.78
+2023M05,Normal,Índice,144.32
+2023M05,Normal,Var (%) anual,3.82
+2023M05,Fin de semana,Índice,136.34
+2023M05,Fin de semana,Var (%) anual,7.85
+2023M06,TOTAL,Índice,165.78
+2023M06,TOTAL,Var (%) anual,11.41
+2023M06,Normal,Índice,173.77
+2023M06,Normal,Var (%) anual,8.47
+2023M06,Fin de semana,Índice,168.82
+2023M06,Fin de semana,Var (%) anual,12.37
+2023M07,TOTAL,Índice,165.37
+2023M07,TOTAL,Var (%) anual,2.04
+2023M07,Normal,Índice,162.66
+2023M07,Normal,Var (%) anual,0.78
+2023M07,Fin de semana,Índice,167.1
+2023M07,Fin de semana,Var (%) anual,2.59
+2023M08,TOTAL,Índice,170.5
+2023M08,TOTAL,Var (%) anual,5.33
+2023M08,Normal,Índice,171.97
+2023M08,Normal,Var (%) anual,4.07
+2023M08,Fin de semana,Índice,174.53
+2023M08,Fin de semana,Var (%) anual,7.36
+2023M09,TOTAL,Índice,157.21
+2023M09,TOTAL,Var (%) anual,11.72
+2023M09,Normal,Índice,150.25
+2023M09,Normal,Var (%) anual,6.75
+2023M09,Fin de semana,Índice,159.82
+2023M09,Fin de semana,Var (%) anual,13.74
+2023M10,TOTAL,Índice,171.65
+2023M10,TOTAL,Var (%) anual,7.11
+2023M10,Normal,Índice,179.33
+2023M10,Normal,Var (%) anual,4.85
+2023M10,Fin de semana,Índice,171.95
+2023M10,Fin de semana,Var (%) anual,7.86
+2023M11,TOTAL,Índice,158.11
+2023M11,TOTAL,Var (%) anual,-2.6
+2023M11,Normal,Índice,155.6
+2023M11,Normal,Var (%) anual,-1.74
+2023M11,Fin de semana,Índice,155.85
+2023M11,Fin de semana,Var (%) anual,-2.79
+2023M12,TOTAL,Índice,164.62
+2023M12,TOTAL,Var (%) anual,9.15
+2023M12,Normal,Índice,160.15
+2023M12,Normal,Var (%) anual,9.02
+2023M12,Fin de semana,Índice,164.88
+2023M12,Fin de semana,Var (%) anual,9.22
+2024M01,TOTAL,Índice,187.32
+2024M01,TOTAL,Var (%) anual,-8.58
+2024M01,Normal,Índice,172.06
+2024M01,Normal,Var (%) anual,-8
+2024M01,Fin de semana,Índice,188.86
+2024M01,Fin de semana,Var (%) anual,-8.8
+2024M02,TOTAL,Índice,174.45
+2024M02,TOTAL,Var (%) anual,-6.96
+2024M02,Normal,Índice,182.58
+2024M02,Normal,Var (%) anual,-1.72
+2024M02,Fin de semana,Índice,159.59
+2024M02,Fin de semana,Var (%) anual,-7.98
+2024M03,TOTAL,Índice,180.37
+2024M03,TOTAL,Var (%) anual,-7.05
+2024M03,Normal,Índice,159.75
+2024M03,Normal,Var (%) anual,-6.59
+2024M03,Fin de semana,Índice,185.41
+2024M03,Fin de semana,Var (%) anual,-7.2

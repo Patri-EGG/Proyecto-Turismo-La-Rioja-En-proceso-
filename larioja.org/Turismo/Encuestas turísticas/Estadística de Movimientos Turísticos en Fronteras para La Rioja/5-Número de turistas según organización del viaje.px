@@ -1,0 +1,36 @@
+CHARSET="ANSI";
+AXIS-VERSION="2006";
+CODEPAGE="iso-8859-15";
+LANGUAGE="es";
+CREATION-DATE="20240304 10:03";
+UPDATE-FREQUENCY="Anual";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="20611005";
+AGGREGALLOWED="NO";
+AUTOPEN="NO";
+SUBJECT-CODE="20611";
+SUBJECT-AREA="Turismo > Estadística de movimientos turísticos en frontera para La Rioja";
+COPYRIGHT=YES;
+DESCRIPTION="Número de turistas según organización del viaje";
+TITLE="Número de turistas según organización del viaje";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Número de turistas";
+UNITS="Turistas";
+STUB="Forma de organización del viaje";
+HEADING="Periodo";
+VALUES("Periodo")="2016","2017","2018","2019","2020","2021","2022","2023";
+
+VALUES("Forma de organización del viaje")="TOTAL","Con paquete turístico","Sin paquete turístico";
+LAST-UPDATED="20240304 10:23:01";
+CONTACT="Instituto de Estadística de La Rioja#Teléfono: +34 941 291 196#Mail: estadistica.haci@larioja.org#http://www.larioja.org/estadistica";
+REFPERIOD="Año";
+SOURCE="Instituto de Estadística de La Rioja a partir de datos del Instituto Nacional de Estadística.";
+SURVEY="Estadística de movimientos turísticos en frontera";
+INFO="File generated using R and package pxR (http://pxr.r-forge.r-project.org/)";
+NOTE="".." dato no disponible";
+DATA=
+150778.8 124188.8 142926.4 139497.3 45355.2 47913 105909.8 118207.9
+44565.6 7088.6 15141.2 6100.9 1521.2 2255.1 8356.2 1961.1
+106213.2 117100.2 127785.2 133396.5 43834.1 45657.8 97553.6 116246.8
+;

@@ -1,0 +1,35 @@
+﻿"Año";"Periodo";"Plazas hoteleras";"Total plazas VUT"
+"2009";"Año";"348.048";"18"
+"2010";"Año";"358.804";"536"
+"2011";"Año";"368.406";"3.564"
+"2012";"Año";"370.340";"16.122"
+"2013";"Año";"379.593";"37.310"
+"2014";"Año";"381.042";"75.377"
+"2015";"Año";"387.256";"152.258"
+"2016";"Año";"391.407";"289.945"
+"2017";"Año";"400.216";"393.707"
+"2018";"Año";"406.905";"430.350"
+"2019";"Año";"415.404";"413.033"
+;;;
+;;;
+"Métrica":"Plazas hoteleras"
+"Fuente":"Exceltur"
+"Clasificación":""
+"Unidad":"Nº de plazas"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"Total plazas VUT"
+"Fuente":"Exceltur"
+"Clasificación":""
+"Unidad":"Nº de plazas"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/evolucion-numero-plazas-hoteles-viviendas-uso-turistico-espana/611dfa19-8432-465a-b40c-1f0040b8273c"
+"Titulo":"Evolución del número de plazas en hoteles y viviendas de uso turístico en España"
+"Subtitulo":""

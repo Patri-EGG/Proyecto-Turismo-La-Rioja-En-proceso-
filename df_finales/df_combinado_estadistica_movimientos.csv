@@ -1,0 +1,169 @@
+Subcategoria,Periodo,Numero de Turistas,Categoria,Fecha
+TOTAL,2016,150778.8,Via de acceso,2016-01-01
+TOTAL,2017,124188.8,Via de acceso,2017-01-01
+TOTAL,2018,142926.4,Via de acceso,2018-01-01
+TOTAL,2019,139497.3,Via de acceso,2019-01-01
+TOTAL,2020,45355.2,Via de acceso,2020-01-01
+TOTAL,2021,47913.0,Via de acceso,2021-01-01
+TOTAL,2022,105909.8,Via de acceso,2022-01-01
+TOTAL,2023,118207.9,Via de acceso,2023-01-01
+Carretera,2016,75866.4,Via de acceso,2016-01-01
+Carretera,2017,64393.2,Via de acceso,2017-01-01
+Carretera,2018,85380.3,Via de acceso,2018-01-01
+Carretera,2019,75282.2,Via de acceso,2019-01-01
+Carretera,2020,33919.3,Via de acceso,2020-01-01
+Carretera,2021,33188.7,Via de acceso,2021-01-01
+Carretera,2022,53083.2,Via de acceso,2022-01-01
+Carretera,2023,76892.9,Via de acceso,2023-01-01
+Otra vía,2016,74912.4,Via de acceso,2016-01-01
+Otra vía,2017,59795.7,Via de acceso,2017-01-01
+Otra vía,2018,57546.1,Via de acceso,2018-01-01
+Otra vía,2019,64215.2,Via de acceso,2019-01-01
+Otra vía,2020,11436.0,Via de acceso,2020-01-01
+Otra vía,2021,14724.3,Via de acceso,2021-01-01
+Otra vía,2022,52826.6,Via de acceso,2022-01-01
+Otra vía,2023,41315.0,Via de acceso,2023-01-01
+TOTAL,2016,150778.8,Tipo de alojamiento,2016-01-01
+TOTAL,2017,124188.8,Tipo de alojamiento,2017-01-01
+TOTAL,2018,142926.4,Tipo de alojamiento,2018-01-01
+TOTAL,2019,139497.3,Tipo de alojamiento,2019-01-01
+TOTAL,2020,45355.2,Tipo de alojamiento,2020-01-01
+TOTAL,2021,47913.0,Tipo de alojamiento,2021-01-01
+TOTAL,2022,105909.8,Tipo de alojamiento,2022-01-01
+TOTAL,2023,118207.9,Tipo de alojamiento,2023-01-01
+De Mercado,2016,104346.3,Tipo de alojamiento,2016-01-01
+De Mercado,2017,68325.4,Tipo de alojamiento,2017-01-01
+De Mercado,2018,99113.8,Tipo de alojamiento,2018-01-01
+De Mercado,2019,95501.2,Tipo de alojamiento,2019-01-01
+De Mercado,2020,22736.9,Tipo de alojamiento,2020-01-01
+De Mercado,2021,33676.5,Tipo de alojamiento,2021-01-01
+De Mercado,2022,79058.4,Tipo de alojamiento,2022-01-01
+De Mercado,2023,80533.9,Tipo de alojamiento,2023-01-01
+No de Mercado,2016,46432.4,Tipo de alojamiento,2016-01-01
+No de Mercado,2017,55863.4,Tipo de alojamiento,2017-01-01
+No de Mercado,2018,43812.6,Tipo de alojamiento,2018-01-01
+No de Mercado,2019,43996.2,Tipo de alojamiento,2019-01-01
+No de Mercado,2020,22618.4,Tipo de alojamiento,2020-01-01
+No de Mercado,2021,14236.5,Tipo de alojamiento,2021-01-01
+No de Mercado,2022,26851.3,Tipo de alojamiento,2022-01-01
+No de Mercado,2023,37673.9,Tipo de alojamiento,2023-01-01
+TOTAL,2016,150778.8,Motivo del viaje,2016-01-01
+TOTAL,2017,124188.8,Motivo del viaje,2017-01-01
+TOTAL,2018,142926.4,Motivo del viaje,2018-01-01
+TOTAL,2019,139497.3,Motivo del viaje,2019-01-01
+TOTAL,2020,45355.2,Motivo del viaje,2020-01-01
+TOTAL,2021,47913.0,Motivo del viaje,2021-01-01
+TOTAL,2022,105909.8,Motivo del viaje,2022-01-01
+TOTAL,2023,118207.9,Motivo del viaje,2023-01-01
+"Ocio, recreo y vacaciones",2016,95878.8,Motivo del viaje,2016-01-01
+"Ocio, recreo y vacaciones",2017,77794.7,Motivo del viaje,2017-01-01
+"Ocio, recreo y vacaciones",2018,89030.3,Motivo del viaje,2018-01-01
+"Ocio, recreo y vacaciones",2019,87047.4,Motivo del viaje,2019-01-01
+"Ocio, recreo y vacaciones",2020,18074.5,Motivo del viaje,2020-01-01
+"Ocio, recreo y vacaciones",2021,29082.1,Motivo del viaje,2021-01-01
+"Ocio, recreo y vacaciones",2022,66072.5,Motivo del viaje,2022-01-01
+"Ocio, recreo y vacaciones",2023,62736.1,Motivo del viaje,2023-01-01
+Negocios,2016,20824.4,Motivo del viaje,2016-01-01
+Negocios,2017,14391.0,Motivo del viaje,2017-01-01
+Negocios,2018,23316.2,Motivo del viaje,2018-01-01
+Negocios,2019,19797.0,Motivo del viaje,2019-01-01
+Negocios,2020,7859.7,Motivo del viaje,2020-01-01
+Negocios,2021,7004.0,Motivo del viaje,2021-01-01
+Negocios,2022,17943.1,Motivo del viaje,2022-01-01
+Negocios,2023,22517.8,Motivo del viaje,2023-01-01
+Otros motivos,2016,34075.6,Motivo del viaje,2016-01-01
+Otros motivos,2017,32003.1,Motivo del viaje,2017-01-01
+Otros motivos,2018,30579.9,Motivo del viaje,2018-01-01
+Otros motivos,2019,32652.9,Motivo del viaje,2019-01-01
+Otros motivos,2020,19421.0,Motivo del viaje,2020-01-01
+Otros motivos,2021,11826.9,Motivo del viaje,2021-01-01
+Otros motivos,2022,21894.3,Motivo del viaje,2022-01-01
+Otros motivos,2023,32954.0,Motivo del viaje,2023-01-01
+TOTAL,2016,150778.8,País de residencia,2016-01-01
+TOTAL,2017,124188.8,País de residencia,2017-01-01
+TOTAL,2018,142926.4,País de residencia,2018-01-01
+TOTAL,2019,139497.3,País de residencia,2019-01-01
+TOTAL,2020,45355.2,País de residencia,2020-01-01
+TOTAL,2021,47913.0,País de residencia,2021-01-01
+TOTAL,2022,105909.8,País de residencia,2022-01-01
+TOTAL,2023,118207.9,País de residencia,2023-01-01
+Europa,2016,139899.5,País de residencia,2016-01-01
+Europa,2017,108641.0,País de residencia,2017-01-01
+Europa,2018,130519.2,País de residencia,2018-01-01
+Europa,2019,122458.5,País de residencia,2019-01-01
+Europa,2020,43698.3,País de residencia,2020-01-01
+Europa,2021,43738.6,País de residencia,2021-01-01
+Europa,2022,92888.1,País de residencia,2022-01-01
+Europa,2023,106099.7,País de residencia,2023-01-01
+- UE27,2016,120389.2,País de residencia,2016-01-01
+- UE27,2017,85601.2,País de residencia,2017-01-01
+- UE27,2018,107388.3,País de residencia,2018-01-01
+- UE27,2019,104715.8,País de residencia,2019-01-01
+- UE27,2020,39080.7,País de residencia,2020-01-01
+- UE27,2021,38984.9,País de residencia,2021-01-01
+- UE27,2022,76246.5,País de residencia,2022-01-01
+- UE27,2023,90503.1,País de residencia,2023-01-01
+- Resto de Europa,2016,19510.3,País de residencia,2016-01-01
+- Resto de Europa,2017,23039.9,País de residencia,2017-01-01
+- Resto de Europa,2018,23131.0,País de residencia,2018-01-01
+- Resto de Europa,2019,17742.7,País de residencia,2019-01-01
+- Resto de Europa,2020,4617.6,País de residencia,2020-01-01
+- Resto de Europa,2021,4753.6,País de residencia,2021-01-01
+- Resto de Europa,2022,16641.5,País de residencia,2022-01-01
+- Resto de Europa,2023,15596.6,País de residencia,2023-01-01
+Resto del Mundo,2016,10879.3,País de residencia,2016-01-01
+Resto del Mundo,2017,15547.8,País de residencia,2017-01-01
+Resto del Mundo,2018,12407.2,País de residencia,2018-01-01
+Resto del Mundo,2019,17038.9,País de residencia,2019-01-01
+Resto del Mundo,2020,1657.0,País de residencia,2020-01-01
+Resto del Mundo,2021,4174.4,País de residencia,2021-01-01
+Resto del Mundo,2022,13021.7,País de residencia,2022-01-01
+Resto del Mundo,2023,12108.2,País de residencia,2023-01-01
+TOTAL,2016,150778.8,Forma de organización,2016-01-01
+TOTAL,2017,124188.8,Forma de organización,2017-01-01
+TOTAL,2018,142926.4,Forma de organización,2018-01-01
+TOTAL,2019,139497.3,Forma de organización,2019-01-01
+TOTAL,2020,45355.2,Forma de organización,2020-01-01
+TOTAL,2021,47913.0,Forma de organización,2021-01-01
+TOTAL,2022,105909.8,Forma de organización,2022-01-01
+TOTAL,2023,118207.9,Forma de organización,2023-01-01
+Con paquete turístico,2016,44565.6,Forma de organización,2016-01-01
+Con paquete turístico,2017,7088.6,Forma de organización,2017-01-01
+Con paquete turístico,2018,15141.2,Forma de organización,2018-01-01
+Con paquete turístico,2019,6100.9,Forma de organización,2019-01-01
+Con paquete turístico,2020,1521.2,Forma de organización,2020-01-01
+Con paquete turístico,2021,2255.1,Forma de organización,2021-01-01
+Con paquete turístico,2022,8356.2,Forma de organización,2022-01-01
+Con paquete turístico,2023,1961.1,Forma de organización,2023-01-01
+Sin paquete turístico,2016,106213.2,Forma de organización,2016-01-01
+Sin paquete turístico,2017,117100.2,Forma de organización,2017-01-01
+Sin paquete turístico,2018,127785.2,Forma de organización,2018-01-01
+Sin paquete turístico,2019,133396.5,Forma de organización,2019-01-01
+Sin paquete turístico,2020,43834.1,Forma de organización,2020-01-01
+Sin paquete turístico,2021,45657.8,Forma de organización,2021-01-01
+Sin paquete turístico,2022,97553.6,Forma de organización,2022-01-01
+Sin paquete turístico,2023,116246.8,Forma de organización,2023-01-01
+TOTAL,2016,150778.8,Duración del viaje,2016-01-01
+TOTAL,2017,124188.8,Duración del viaje,2017-01-01
+TOTAL,2018,142926.4,Duración del viaje,2018-01-01
+TOTAL,2019,139497.3,Duración del viaje,2019-01-01
+TOTAL,2020,45355.2,Duración del viaje,2020-01-01
+TOTAL,2021,47913.0,Duración del viaje,2021-01-01
+TOTAL,2022,105909.8,Duración del viaje,2022-01-01
+TOTAL,2023,118207.9,Duración del viaje,2023-01-01
+De 1 a 3 noches,2016,57894.5,Duración del viaje,2016-01-01
+De 1 a 3 noches,2017,46325.0,Duración del viaje,2017-01-01
+De 1 a 3 noches,2018,73762.6,Duración del viaje,2018-01-01
+De 1 a 3 noches,2019,63612.3,Duración del viaje,2019-01-01
+De 1 a 3 noches,2020,22865.3,Duración del viaje,2020-01-01
+De 1 a 3 noches,2021,19531.7,Duración del viaje,2021-01-01
+De 1 a 3 noches,2022,43842.0,Duración del viaje,2022-01-01
+De 1 a 3 noches,2023,54137.7,Duración del viaje,2023-01-01
+Más de 3 noches,2016,92884.3,Duración del viaje,2016-01-01
+Más de 3 noches,2017,77863.8,Duración del viaje,2017-01-01
+Más de 3 noches,2018,69163.8,Duración del viaje,2018-01-01
+Más de 3 noches,2019,75885.0,Duración del viaje,2019-01-01
+Más de 3 noches,2020,22489.9,Duración del viaje,2020-01-01
+Más de 3 noches,2021,28381.3,Duración del viaje,2021-01-01
+Más de 3 noches,2022,62067.8,Duración del viaje,2022-01-01
+Más de 3 noches,2023,64070.2,Duración del viaje,2023-01-01

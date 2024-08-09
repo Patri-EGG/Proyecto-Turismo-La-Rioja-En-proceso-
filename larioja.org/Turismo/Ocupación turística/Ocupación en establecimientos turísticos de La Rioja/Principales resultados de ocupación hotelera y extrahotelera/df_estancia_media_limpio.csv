@@ -1,0 +1,2548 @@
+Periodo,Tipo de establecimiento,CCAA,DATA,Fecha
+1999M01,Hoteles,La Rioja,1.70,1999-01-01
+1999M01,Hoteles,Espańa,3.80,1999-01-01
+1999M01,Camping,La Rioja,18.60,1999-01-01
+1999M01,Camping,Espańa,75.10,1999-01-01
+1999M02,Hoteles,La Rioja,1.80,1999-02-01
+1999M02,Hoteles,Espańa,3.60,1999-02-01
+1999M02,Camping,La Rioja,16.40,1999-02-01
+1999M02,Camping,Espańa,60.20,1999-02-01
+1999M03,Hoteles,La Rioja,1.60,1999-03-01
+1999M03,Hoteles,Espańa,3.40,1999-03-01
+1999M03,Camping,La Rioja,15.90,1999-03-01
+1999M03,Camping,Espańa,42.90,1999-03-01
+1999M04,Hoteles,La Rioja,1.80,1999-04-01
+1999M04,Hoteles,Espańa,3.50,1999-04-01
+1999M04,Camping,La Rioja,29.10,1999-04-01
+1999M04,Camping,Espańa,38.30,1999-04-01
+1999M05,Hoteles,La Rioja,1.70,1999-05-01
+1999M05,Hoteles,Espańa,3.80,1999-05-01
+1999M05,Camping,La Rioja,19.30,1999-05-01
+1999M05,Camping,Espańa,34.50,1999-05-01
+1999M06,Hoteles,La Rioja,1.70,1999-06-01
+1999M06,Hoteles,Espańa,4.20,1999-06-01
+1999M06,Camping,La Rioja,17.70,1999-06-01
+1999M06,Camping,Espańa,40.80,1999-06-01
+1999M07,Hoteles,La Rioja,1.80,1999-07-01
+1999M07,Hoteles,Espańa,4.50,1999-07-01
+1999M07,Camping,La Rioja,29.70,1999-07-01
+1999M07,Camping,Espańa,52.20,1999-07-01
+1999M08,Hoteles,La Rioja,1.90,1999-08-01
+1999M08,Hoteles,Espańa,4.60,1999-08-01
+1999M08,Camping,La Rioja,82.60,1999-08-01
+1999M08,Camping,Espańa,56.10,1999-08-01
+1999M09,Hoteles,La Rioja,1.80,1999-09-01
+1999M09,Hoteles,Espańa,4.20,1999-09-01
+1999M09,Camping,La Rioja,24.90,1999-09-01
+1999M09,Camping,Espańa,43.40,1999-09-01
+1999M10,Hoteles,La Rioja,1.80,1999-10-01
+1999M10,Hoteles,Espańa,3.90,1999-10-01
+1999M10,Camping,La Rioja,23.40,1999-10-01
+1999M10,Camping,Espańa,41.70,1999-10-01
+1999M11,Hoteles,La Rioja,0.20,1999-11-01
+1999M11,Hoteles,Espańa,3.30,1999-11-01
+1999M11,Camping,La Rioja,16.70,1999-11-01
+1999M11,Camping,Espańa,56.20,1999-11-01
+1999M12,Hoteles,La Rioja,1.90,1999-12-01
+1999M12,Hoteles,Espańa,3.20,1999-12-01
+1999M12,Camping,La Rioja,35.80,1999-12-01
+1999M12,Camping,Espańa,6.50,1999-12-01
+2000M01,Hoteles,La Rioja,1.90,2000-01-01
+2000M01,Hoteles,Espańa,3.50,2000-01-01
+2000M01,Camping,La Rioja,0.10,2000-01-01
+2000M01,Camping,Espańa,0.70,2000-01-01
+2000M01,Apartamentos,Espańa,0.90,2000-01-01
+2000M02,Hoteles,La Rioja,1.70,2000-02-01
+2000M02,Hoteles,Espańa,3.40,2000-02-01
+2000M02,Camping,La Rioja,0.10,2000-02-01
+2000M02,Camping,Espańa,0.50,2000-02-01
+2000M02,Apartamentos,Espańa,8.50,2000-02-01
+2000M03,Hoteles,La Rioja,1.80,2000-03-01
+2000M03,Hoteles,Espańa,3.40,2000-03-01
+2000M03,Camping,La Rioja,0.10,2000-03-01
+2000M03,Camping,Espańa,0.50,2000-03-01
+2000M03,Apartamentos,Espańa,9.10,2000-03-01
+2000M04,Hoteles,La Rioja,1.90,2000-04-01
+2000M04,Hoteles,Espańa,3.40,2000-04-01
+2000M04,Camping,La Rioja,0.20,2000-04-01
+2000M04,Camping,Espańa,0.30,2000-04-01
+2000M04,Apartamentos,Espańa,7.90,2000-04-01
+2000M05,Hoteles,La Rioja,1.80,2000-05-01
+2000M05,Hoteles,Espańa,3.80,2000-05-01
+2000M05,Camping,La Rioja,0.10,2000-05-01
+2000M05,Camping,Espańa,0.30,2000-05-01
+2000M05,Apartamentos,Espańa,0.80,2000-05-01
+2000M06,Hoteles,La Rioja,1.70,2000-06-01
+2000M06,Hoteles,Espańa,4.20,2000-06-01
+2000M06,Camping,La Rioja,0.10,2000-06-01
+2000M06,Camping,Espańa,0.40,2000-06-01
+2000M06,Apartamentos,Espańa,8.60,2000-06-01
+2000M07,Hoteles,La Rioja,1.80,2000-07-01
+2000M07,Hoteles,Espańa,4.40,2000-07-01
+2000M07,Camping,La Rioja,0.50,2000-07-01
+2000M07,Camping,Espańa,0.50,2000-07-01
+2000M07,Apartamentos,Espańa,10.10,2000-07-01
+2000M08,Hoteles,La Rioja,2.10,2000-08-01
+2000M08,Hoteles,Espańa,4.50,2000-08-01
+2000M08,Camping,La Rioja,0.80,2000-08-01
+2000M08,Camping,Espańa,0.50,2000-08-01
+2000M08,Apartamentos,Espańa,11.20,2000-08-01
+2000M09,Hoteles,La Rioja,1.90,2000-09-01
+2000M09,Hoteles,Espańa,4.10,2000-09-01
+2000M09,Camping,La Rioja,0.20,2000-09-01
+2000M09,Camping,Espańa,46.30,2000-09-01
+2000M09,Apartamentos,Espańa,1.00,2000-09-01
+2000M10,Hoteles,La Rioja,1.80,2000-10-01
+2000M10,Hoteles,Espańa,3.80,2000-10-01
+2000M10,Camping,La Rioja,0.20,2000-10-01
+2000M10,Camping,Espańa,0.40,2000-10-01
+2000M10,Apartamentos,Espańa,1.00,2000-10-01
+2000M11,Hoteles,La Rioja,1.80,2000-11-01
+2000M11,Hoteles,Espańa,3.20,2000-11-01
+2000M11,Camping,La Rioja,0.10,2000-11-01
+2000M11,Camping,Espańa,0.60,2000-11-01
+2000M11,Apartamentos,Espańa,9.70,2000-11-01
+2000M12,Hoteles,La Rioja,0.20,2000-12-01
+2000M12,Hoteles,Espańa,3.10,2000-12-01
+2000M12,Camping,La Rioja,0.20,2000-12-01
+2000M12,Camping,Espańa,0.60,2000-12-01
+2000M12,Apartamentos,Espańa,9.30,2000-12-01
+2001M01,Hoteles,La Rioja,1.80,2001-01-01
+2001M01,Hoteles,Espańa,33.70,2001-01-01
+2001M01,Camping,La Rioja,15.60,2001-01-01
+2001M01,Camping,Espańa,82.40,2001-01-01
+2001M01,Turismo Rural,La Rioja,16.90,2001-01-01
+2001M01,Turismo Rural,Espańa,2.50,2001-01-01
+2001M01,Apartamentos,Espańa,97.30,2001-01-01
+2001M02,Hoteles,La Rioja,17.70,2001-02-01
+2001M02,Hoteles,Espańa,33.40,2001-02-01
+2001M02,Camping,La Rioja,16.80,2001-02-01
+2001M02,Camping,Espańa,70.30,2001-02-01
+2001M02,Turismo Rural,La Rioja,17.20,2001-02-01
+2001M02,Turismo Rural,Espańa,22.20,2001-02-01
+2001M02,Apartamentos,Espańa,90.40,2001-02-01
+2001M03,Hoteles,La Rioja,18.60,2001-03-01
+2001M03,Hoteles,Espańa,33.50,2001-03-01
+2001M03,Camping,La Rioja,16.80,2001-03-01
+2001M03,Camping,Espańa,50.10,2001-03-01
+2001M03,Turismo Rural,La Rioja,18.10,2001-03-01
+2001M03,Turismo Rural,Espańa,21.30,2001-03-01
+2001M03,Apartamentos,Espańa,88.70,2001-03-01
+2001M04,Hoteles,La Rioja,19.40,2001-04-01
+2001M04,Hoteles,Espańa,33.60,2001-04-01
+2001M04,Camping,La Rioja,40.80,2001-04-01
+2001M04,Camping,Espańa,3.60,2001-04-01
+2001M04,Turismo Rural,La Rioja,28.10,2001-04-01
+2001M04,Turismo Rural,Espańa,29.70,2001-04-01
+2001M04,Apartamentos,Espańa,0.80,2001-04-01
+2001M05,Hoteles,La Rioja,17.20,2001-05-01
+2001M05,Hoteles,Espańa,37.10,2001-05-01
+2001M05,Camping,La Rioja,15.70,2001-05-01
+2001M05,Camping,Espańa,36.90,2001-05-01
+2001M05,Turismo Rural,La Rioja,19.10,2001-05-01
+2001M05,Turismo Rural,Espańa,22.70,2001-05-01
+2001M05,Apartamentos,Espańa,92.10,2001-05-01
+2001M06,Hoteles,La Rioja,18.40,2001-06-01
+2001M06,Hoteles,Espańa,40.40,2001-06-01
+2001M06,Camping,La Rioja,20.10,2001-06-01
+2001M06,Camping,Espańa,37.10,2001-06-01
+2001M06,Turismo Rural,La Rioja,18.50,2001-06-01
+2001M06,Turismo Rural,Espańa,23.20,2001-06-01
+2001M06,Apartamentos,Espańa,93.10,2001-06-01
+2001M07,Hoteles,La Rioja,17.90,2001-07-01
+2001M07,Hoteles,Espańa,44.70,2001-07-01
+2001M07,Camping,La Rioja,38.40,2001-07-01
+2001M07,Camping,Espańa,51.60,2001-07-01
+2001M07,Turismo Rural,La Rioja,23.70,2001-07-01
+2001M07,Turismo Rural,Espańa,37.20,2001-07-01
+2001M07,Apartamentos,Espańa,105.60,2001-07-01
+2001M08,Hoteles,La Rioja,0.20,2001-08-01
+2001M08,Hoteles,Espańa,44.60,2001-08-01
+2001M08,Camping,La Rioja,63.30,2001-08-01
+2001M08,Camping,Espańa,58.60,2001-08-01
+2001M08,Turismo Rural,La Rioja,39.40,2001-08-01
+2001M08,Turismo Rural,Espańa,47.70,2001-08-01
+2001M08,Apartamentos,Espańa,111.10,2001-08-01
+2001M09,Hoteles,La Rioja,17.90,2001-09-01
+2001M09,Hoteles,Espańa,42.20,2001-09-01
+2001M09,Camping,La Rioja,26.10,2001-09-01
+2001M09,Camping,Espańa,46.90,2001-09-01
+2001M09,Turismo Rural,La Rioja,17.50,2001-09-01
+2001M09,Turismo Rural,Espańa,29.50,2001-09-01
+2001M09,Apartamentos,Espańa,98.20,2001-09-01
+2001M10,Hoteles,La Rioja,17.90,2001-10-01
+2001M10,Hoteles,Espańa,37.70,2001-10-01
+2001M10,Camping,La Rioja,2.40,2001-10-01
+2001M10,Camping,Espańa,44.20,2001-10-01
+2001M10,Turismo Rural,La Rioja,20.50,2001-10-01
+2001M10,Turismo Rural,Espańa,25.10,2001-10-01
+2001M10,Apartamentos,Espańa,9.40,2001-10-01
+2001M11,Hoteles,La Rioja,18.80,2001-11-01
+2001M11,Hoteles,Espańa,32.60,2001-11-01
+2001M11,Camping,La Rioja,28.60,2001-11-01
+2001M11,Camping,Espańa,62.40,2001-11-01
+2001M11,Turismo Rural,La Rioja,23.90,2001-11-01
+2001M11,Turismo Rural,Espańa,25.60,2001-11-01
+2001M11,Apartamentos,Espańa,88.50,2001-11-01
+2001M12,Hoteles,La Rioja,19.40,2001-12-01
+2001M12,Hoteles,Espańa,31.30,2001-12-01
+2001M12,Camping,La Rioja,29.60,2001-12-01
+2001M12,Camping,Espańa,72.30,2001-12-01
+2001M12,Turismo Rural,La Rioja,29.10,2001-12-01
+2001M12,Turismo Rural,Espańa,28.10,2001-12-01
+2001M12,Apartamentos,Espańa,87.90,2001-12-01
+2002M01,Hoteles,La Rioja,18.10,2002-01-01
+2002M01,Hoteles,Espańa,34.10,2002-01-01
+2002M01,Camping,La Rioja,15.50,2002-01-01
+2002M01,Camping,Espańa,85.10,2002-01-01
+2002M01,Turismo Rural,La Rioja,20.60,2002-01-01
+2002M01,Turismo Rural,Espańa,24.80,2002-01-01
+2002M01,Apartamentos,La Rioja,27.70,2002-01-01
+2002M01,Apartamentos,Espańa,89.80,2002-01-01
+2002M02,Hoteles,La Rioja,18.50,2002-02-01
+2002M02,Hoteles,Espańa,32.80,2002-02-01
+2002M02,Camping,La Rioja,16.30,2002-02-01
+2002M02,Camping,Espańa,7.10,2002-02-01
+2002M02,Turismo Rural,La Rioja,18.90,2002-02-01
+2002M02,Turismo Rural,Espańa,21.70,2002-02-01
+2002M02,Apartamentos,La Rioja,17.80,2002-02-01
+2002M02,Apartamentos,Espańa,81.80,2002-02-01
+2002M03,Hoteles,La Rioja,19.10,2002-03-01
+2002M03,Hoteles,Espańa,33.10,2002-03-01
+2002M03,Camping,La Rioja,29.10,2002-03-01
+2002M03,Camping,Espańa,45.50,2002-03-01
+2002M03,Turismo Rural,La Rioja,24.10,2002-03-01
+2002M03,Turismo Rural,Espańa,28.80,2002-03-01
+2002M03,Apartamentos,La Rioja,24.70,2002-03-01
+2002M03,Apartamentos,Espańa,80.70,2002-03-01
+2002M04,Hoteles,La Rioja,18.10,2002-04-01
+2002M04,Hoteles,Espańa,32.50,2002-04-01
+2002M04,Camping,La Rioja,23.30,2002-04-01
+2002M04,Camping,Espańa,37.20,2002-04-01
+2002M04,Turismo Rural,La Rioja,20.40,2002-04-01
+2002M04,Turismo Rural,Espańa,24.60,2002-04-01
+2002M04,Apartamentos,La Rioja,1.60,2002-04-01
+2002M04,Apartamentos,Espańa,83.20,2002-04-01
+2002M05,Hoteles,La Rioja,17.40,2002-05-01
+2002M05,Hoteles,Espańa,3.60,2002-05-01
+2002M05,Camping,La Rioja,18.30,2002-05-01
+2002M05,Camping,Espańa,36.40,2002-05-01
+2002M05,Turismo Rural,La Rioja,25.40,2002-05-01
+2002M05,Turismo Rural,Espańa,24.60,2002-05-01
+2002M05,Apartamentos,La Rioja,24.90,2002-05-01
+2002M05,Apartamentos,Espańa,88.10,2002-05-01
+2002M06,Hoteles,La Rioja,18.40,2002-06-01
+2002M06,Hoteles,Espańa,39.80,2002-06-01
+2002M06,Camping,La Rioja,19.80,2002-06-01
+2002M06,Camping,Espańa,37.30,2002-06-01
+2002M06,Turismo Rural,La Rioja,19.70,2002-06-01
+2002M06,Turismo Rural,Espańa,24.90,2002-06-01
+2002M06,Apartamentos,La Rioja,17.90,2002-06-01
+2002M06,Apartamentos,Espańa,89.10,2002-06-01
+2002M07,Hoteles,La Rioja,1.80,2002-07-01
+2002M07,Hoteles,Espańa,43.20,2002-07-01
+2002M07,Camping,La Rioja,42.40,2002-07-01
+2002M07,Camping,Espańa,53.10,2002-07-01
+2002M07,Turismo Rural,La Rioja,23.40,2002-07-01
+2002M07,Turismo Rural,Espańa,36.10,2002-07-01
+2002M07,Apartamentos,La Rioja,48.10,2002-07-01
+2002M07,Apartamentos,Espańa,104.60,2002-07-01
+2002M08,Hoteles,La Rioja,19.30,2002-08-01
+2002M08,Hoteles,Espańa,43.50,2002-08-01
+2002M08,Camping,La Rioja,67.90,2002-08-01
+2002M08,Camping,Espańa,62.10,2002-08-01
+2002M08,Turismo Rural,La Rioja,37.20,2002-08-01
+2002M08,Turismo Rural,Espańa,47.70,2002-08-01
+2002M08,Apartamentos,La Rioja,64.60,2002-08-01
+2002M08,Apartamentos,Espańa,102.50,2002-08-01
+2002M09,Hoteles,La Rioja,17.80,2002-09-01
+2002M09,Hoteles,Espańa,40.90,2002-09-01
+2002M09,Camping,La Rioja,2.50,2002-09-01
+2002M09,Camping,Espańa,48.80,2002-09-01
+2002M09,Turismo Rural,La Rioja,23.10,2002-09-01
+2002M09,Turismo Rural,Espańa,0.30,2002-09-01
+2002M09,Apartamentos,La Rioja,29.90,2002-09-01
+2002M09,Apartamentos,Espańa,96.50,2002-09-01
+2002M10,Hoteles,La Rioja,1.80,2002-10-01
+2002M10,Hoteles,Espańa,36.20,2002-10-01
+2002M10,Camping,La Rioja,20.40,2002-10-01
+2002M10,Camping,Espańa,41.50,2002-10-01
+2002M10,Turismo Rural,La Rioja,19.70,2002-10-01
+2002M10,Turismo Rural,Espańa,22.50,2002-10-01
+2002M10,Apartamentos,La Rioja,19.10,2002-10-01
+2002M10,Apartamentos,Espańa,88.90,2002-10-01
+2002M11,Hoteles,La Rioja,18.60,2002-11-01
+2002M11,Hoteles,Espańa,31.10,2002-11-01
+2002M11,Camping,La Rioja,20.70,2002-11-01
+2002M11,Camping,Espańa,55.50,2002-11-01
+2002M11,Turismo Rural,La Rioja,21.60,2002-11-01
+2002M11,Turismo Rural,Espańa,22.60,2002-11-01
+2002M11,Apartamentos,La Rioja,21.20,2002-11-01
+2002M11,Apartamentos,Espańa,85.10,2002-11-01
+2002M12,Hoteles,La Rioja,19.30,2002-12-01
+2002M12,Hoteles,Espańa,30.30,2002-12-01
+2002M12,Camping,La Rioja,21.10,2002-12-01
+2002M12,Camping,Espańa,67.20,2002-12-01
+2002M12,Turismo Rural,La Rioja,21.60,2002-12-01
+2002M12,Turismo Rural,Espańa,22.60,2002-12-01
+2002M12,Apartamentos,La Rioja,29.30,2002-12-01
+2002M12,Apartamentos,Espańa,82.70,2002-12-01
+2003M01,Hoteles,La Rioja,17.40,2003-01-01
+2003M01,Hoteles,Espańa,3.40,2003-01-01
+2003M01,Camping,La Rioja,20.50,2003-01-01
+2003M01,Camping,Espańa,70.90,2003-01-01
+2003M01,Turismo Rural,La Rioja,2.50,2003-01-01
+2003M01,Turismo Rural,Espańa,26.20,2003-01-01
+2003M01,Apartamentos,La Rioja,27.80,2003-01-01
+2003M01,Apartamentos,Espańa,91.60,2003-01-01
+2003M02,Hoteles,La Rioja,1.90,2003-02-01
+2003M02,Hoteles,Espańa,32.10,2003-02-01
+2003M02,Camping,La Rioja,21.50,2003-02-01
+2003M02,Camping,Espańa,64.80,2003-02-01
+2003M02,Turismo Rural,La Rioja,16.10,2003-02-01
+2003M02,Turismo Rural,Espańa,19.80,2003-02-01
+2003M02,Apartamentos,La Rioja,17.10,2003-02-01
+2003M02,Apartamentos,Espańa,83.60,2003-02-01
+2003M03,Hoteles,La Rioja,17.60,2003-03-01
+2003M03,Hoteles,Espańa,32.60,2003-03-01
+2003M03,Camping,La Rioja,20.50,2003-03-01
+2003M03,Camping,Espańa,51.70,2003-03-01
+2003M03,Turismo Rural,La Rioja,15.30,2003-03-01
+2003M03,Turismo Rural,Espańa,22.90,2003-03-01
+2003M03,Apartamentos,La Rioja,16.70,2003-03-01
+2003M03,Apartamentos,Espańa,85.60,2003-03-01
+2003M04,Hoteles,La Rioja,18.40,2003-04-01
+2003M04,Hoteles,Espańa,32.30,2003-04-01
+2003M04,Camping,La Rioja,30.20,2003-04-01
+2003M04,Camping,Espańa,34.80,2003-04-01
+2003M04,Turismo Rural,La Rioja,23.90,2003-04-01
+2003M04,Turismo Rural,Espańa,29.90,2003-04-01
+2003M04,Apartamentos,La Rioja,27.40,2003-04-01
+2003M04,Apartamentos,Espańa,77.30,2003-04-01
+2003M05,Hoteles,La Rioja,18.40,2003-05-01
+2003M05,Hoteles,Espańa,35.10,2003-05-01
+2003M05,Camping,La Rioja,23.80,2003-05-01
+2003M05,Camping,Espańa,33.40,2003-05-01
+2003M05,Turismo Rural,La Rioja,30.20,2003-05-01
+2003M05,Turismo Rural,Espańa,28.10,2003-05-01
+2003M05,Apartamentos,La Rioja,1.70,2003-05-01
+2003M05,Apartamentos,Espańa,79.30,2003-05-01
+2003M06,Hoteles,La Rioja,17.60,2003-06-01
+2003M06,Hoteles,Espańa,38.30,2003-06-01
+2003M06,Camping,La Rioja,22.60,2003-06-01
+2003M06,Camping,Espańa,35.20,2003-06-01
+2003M06,Turismo Rural,La Rioja,18.80,2003-06-01
+2003M06,Turismo Rural,Espańa,25.50,2003-06-01
+2003M06,Apartamentos,La Rioja,24.10,2003-06-01
+2003M06,Apartamentos,Espańa,86.50,2003-06-01
+2003M07,Hoteles,La Rioja,19.60,2003-07-01
+2003M07,Hoteles,Espańa,4.20,2003-07-01
+2003M07,Camping,La Rioja,32.90,2003-07-01
+2003M07,Camping,Espańa,45.60,2003-07-01
+2003M07,Turismo Rural,La Rioja,22.80,2003-07-01
+2003M07,Turismo Rural,Espańa,35.50,2003-07-01
+2003M07,Apartamentos,La Rioja,28.90,2003-07-01
+2003M07,Apartamentos,Espańa,99.50,2003-07-01
+2003M08,Hoteles,La Rioja,19.20,2003-08-01
+2003M08,Hoteles,Espańa,4.40,2003-08-01
+2003M08,Camping,La Rioja,42.90,2003-08-01
+2003M08,Camping,Espańa,47.80,2003-08-01
+2003M08,Turismo Rural,La Rioja,42.60,2003-08-01
+2003M08,Turismo Rural,Espańa,50.30,2003-08-01
+2003M08,Apartamentos,La Rioja,48.30,2003-08-01
+2003M08,Apartamentos,Espańa,99.30,2003-08-01
+2003M09,Hoteles,La Rioja,18.50,2003-09-01
+2003M09,Hoteles,Espańa,39.80,2003-09-01
+2003M09,Camping,La Rioja,27.20,2003-09-01
+2003M09,Camping,Espańa,40.10,2003-09-01
+2003M09,Turismo Rural,La Rioja,21.60,2003-09-01
+2003M09,Turismo Rural,Espańa,30.40,2003-09-01
+2003M09,Apartamentos,La Rioja,26.20,2003-09-01
+2003M09,Apartamentos,Espańa,91.30,2003-09-01
+2003M10,Hoteles,La Rioja,1.80,2003-10-01
+2003M10,Hoteles,Espańa,35.50,2003-10-01
+2003M10,Camping,La Rioja,24.70,2003-10-01
+2003M10,Camping,Espańa,43.40,2003-10-01
+2003M10,Turismo Rural,La Rioja,21.20,2003-10-01
+2003M10,Turismo Rural,Espańa,2.40,2003-10-01
+2003M10,Apartamentos,La Rioja,25.10,2003-10-01
+2003M10,Apartamentos,Espańa,85.70,2003-10-01
+2003M11,Hoteles,La Rioja,18.70,2003-11-01
+2003M11,Hoteles,Espańa,0.30,2003-11-01
+2003M11,Camping,La Rioja,28.80,2003-11-01
+2003M11,Camping,Espańa,55.90,2003-11-01
+2003M11,Turismo Rural,La Rioja,17.60,2003-11-01
+2003M11,Turismo Rural,Espańa,22.70,2003-11-01
+2003M11,Apartamentos,La Rioja,20.50,2003-11-01
+2003M11,Apartamentos,Espańa,84.70,2003-11-01
+2003M12,Hoteles,La Rioja,18.30,2003-12-01
+2003M12,Hoteles,Espańa,29.10,2003-12-01
+2003M12,Camping,La Rioja,2.90,2003-12-01
+2003M12,Camping,Espańa,65.30,2003-12-01
+2003M12,Turismo Rural,La Rioja,23.60,2003-12-01
+2003M12,Turismo Rural,Espańa,26.50,2003-12-01
+2003M12,Apartamentos,La Rioja,25.60,2003-12-01
+2003M12,Apartamentos,Espańa,8.60,2003-12-01
+2004M01,Hoteles,La Rioja,18.20,2004-01-01
+2004M01,Hoteles,Espańa,3.30,2004-01-01
+2004M01,Camping,La Rioja,25.70,2004-01-01
+2004M01,Camping,Espańa,69.60,2004-01-01
+2004M01,Turismo Rural,La Rioja,22.50,2004-01-01
+2004M01,Turismo Rural,Espańa,29.30,2004-01-01
+2004M01,Apartamentos,La Rioja,26.50,2004-01-01
+2004M01,Apartamentos,Espańa,0.90,2004-01-01
+2004M02,Hoteles,La Rioja,19.20,2004-02-01
+2004M02,Hoteles,Espańa,30.90,2004-02-01
+2004M02,Camping,La Rioja,25.60,2004-02-01
+2004M02,Camping,Espańa,68.80,2004-02-01
+2004M02,Turismo Rural,La Rioja,20.10,2004-02-01
+2004M02,Turismo Rural,Espańa,22.60,2004-02-01
+2004M02,Apartamentos,La Rioja,21.10,2004-02-01
+2004M02,Apartamentos,Espańa,83.70,2004-02-01
+2004M03,Hoteles,La Rioja,18.10,2004-03-01
+2004M03,Hoteles,Espańa,31.10,2004-03-01
+2004M03,Camping,La Rioja,2.70,2004-03-01
+2004M03,Camping,Espańa,5.30,2004-03-01
+2004M03,Turismo Rural,La Rioja,20.50,2004-03-01
+2004M03,Turismo Rural,Espańa,24.40,2004-03-01
+2004M03,Apartamentos,La Rioja,23.20,2004-03-01
+2004M03,Apartamentos,Espańa,85.90,2004-03-01
+2004M04,Hoteles,La Rioja,19.90,2004-04-01
+2004M04,Hoteles,Espańa,31.40,2004-04-01
+2004M04,Camping,La Rioja,32.40,2004-04-01
+2004M04,Camping,Espańa,35.60,2004-04-01
+2004M04,Turismo Rural,La Rioja,29.80,2004-04-01
+2004M04,Turismo Rural,Espańa,2.90,2004-04-01
+2004M04,Apartamentos,La Rioja,24.90,2004-04-01
+2004M04,Apartamentos,Espańa,7.50,2004-04-01
+2004M05,Hoteles,La Rioja,17.20,2004-05-01
+2004M05,Hoteles,Espańa,33.20,2004-05-01
+2004M05,Camping,La Rioja,24.50,2004-05-01
+2004M05,Camping,Espańa,34.60,2004-05-01
+2004M05,Turismo Rural,La Rioja,22.50,2004-05-01
+2004M05,Turismo Rural,Espańa,24.10,2004-05-01
+2004M05,Apartamentos,La Rioja,16.10,2004-05-01
+2004M05,Apartamentos,Espańa,76.90,2004-05-01
+2004M06,Hoteles,La Rioja,17.60,2004-06-01
+2004M06,Hoteles,Espańa,36.40,2004-06-01
+2004M06,Camping,La Rioja,2.50,2004-06-01
+2004M06,Camping,Espańa,36.40,2004-06-01
+2004M06,Turismo Rural,La Rioja,23.60,2004-06-01
+2004M06,Turismo Rural,Espańa,26.40,2004-06-01
+2004M06,Apartamentos,La Rioja,21.10,2004-06-01
+2004M06,Apartamentos,Espańa,85.40,2004-06-01
+2004M07,Hoteles,La Rioja,18.90,2004-07-01
+2004M07,Hoteles,Espańa,40.30,2004-07-01
+2004M07,Camping,La Rioja,30.50,2004-07-01
+2004M07,Camping,Espańa,46.70,2004-07-01
+2004M07,Turismo Rural,La Rioja,22.10,2004-07-01
+2004M07,Turismo Rural,Espańa,38.20,2004-07-01
+2004M07,Apartamentos,La Rioja,31.70,2004-07-01
+2004M07,Apartamentos,Espańa,92.30,2004-07-01
+2004M08,Hoteles,La Rioja,19.80,2004-08-01
+2004M08,Hoteles,Espańa,42.20,2004-08-01
+2004M08,Camping,La Rioja,0.40,2004-08-01
+2004M08,Camping,Espańa,49.50,2004-08-01
+2004M08,Turismo Rural,La Rioja,39.10,2004-08-01
+2004M08,Turismo Rural,Espańa,5.10,2004-08-01
+2004M08,Apartamentos,La Rioja,4.30,2004-08-01
+2004M08,Apartamentos,Espańa,98.80,2004-08-01
+2004M09,Hoteles,La Rioja,18.60,2004-09-01
+2004M09,Hoteles,Espańa,38.40,2004-09-01
+2004M09,Camping,La Rioja,28.30,2004-09-01
+2004M09,Camping,Espańa,40.60,2004-09-01
+2004M09,Turismo Rural,La Rioja,21.60,2004-09-01
+2004M09,Turismo Rural,Espańa,30.30,2004-09-01
+2004M09,Apartamentos,La Rioja,22.50,2004-09-01
+2004M09,Apartamentos,Espańa,89.60,2004-09-01
+2004M10,Hoteles,La Rioja,18.50,2004-10-01
+2004M10,Hoteles,Espańa,3.40,2004-10-01
+2004M10,Camping,La Rioja,32.30,2004-10-01
+2004M10,Camping,Espańa,41.10,2004-10-01
+2004M10,Turismo Rural,La Rioja,2.50,2004-10-01
+2004M10,Turismo Rural,Espańa,26.50,2004-10-01
+2004M10,Apartamentos,La Rioja,21.90,2004-10-01
+2004M10,Apartamentos,Espańa,81.10,2004-10-01
+2004M11,Hoteles,La Rioja,1.80,2004-11-01
+2004M11,Hoteles,Espańa,29.70,2004-11-01
+2004M11,Camping,La Rioja,26.20,2004-11-01
+2004M11,Camping,Espańa,55.60,2004-11-01
+2004M11,Turismo Rural,La Rioja,20.40,2004-11-01
+2004M11,Turismo Rural,Espańa,22.80,2004-11-01
+2004M11,Apartamentos,La Rioja,17.40,2004-11-01
+2004M11,Apartamentos,Espańa,88.90,2004-11-01
+2004M12,Hoteles,La Rioja,18.40,2004-12-01
+2004M12,Hoteles,Espańa,29.40,2004-12-01
+2004M12,Camping,La Rioja,32.80,2004-12-01
+2004M12,Camping,Espańa,68.20,2004-12-01
+2004M12,Turismo Rural,La Rioja,30.90,2004-12-01
+2004M12,Turismo Rural,Espańa,30.90,2004-12-01
+2004M12,Apartamentos,La Rioja,28.50,2004-12-01
+2004M12,Apartamentos,Espańa,82.30,2004-12-01
+2005M01,Hoteles,La Rioja,19.50,2005-01-01
+2005M01,Hoteles,Espańa,3.30,2005-01-01
+2005M01,Camping,La Rioja,27.30,2005-01-01
+2005M01,Camping,Espańa,78.80,2005-01-01
+2005M01,Turismo Rural,La Rioja,19.50,2005-01-01
+2005M01,Turismo Rural,Espańa,27.80,2005-01-01
+2005M01,Apartamentos,La Rioja,2.10,2005-01-01
+2005M01,Apartamentos,Espańa,92.50,2005-01-01
+2005M02,Hoteles,La Rioja,17.10,2005-02-01
+2005M02,Hoteles,Espańa,30.70,2005-02-01
+2005M02,Camping,La Rioja,23.60,2005-02-01
+2005M02,Camping,Espańa,7.30,2005-02-01
+2005M02,Turismo Rural,La Rioja,20.20,2005-02-01
+2005M02,Turismo Rural,Espańa,2.50,2005-02-01
+2005M02,Apartamentos,La Rioja,20.50,2005-02-01
+2005M02,Apartamentos,Espańa,83.20,2005-02-01
+2005M03,Hoteles,La Rioja,18.60,2005-03-01
+2005M03,Hoteles,Espańa,30.80,2005-03-01
+2005M03,Camping,La Rioja,32.20,2005-03-01
+2005M03,Camping,Espańa,46.40,2005-03-01
+2005M03,Turismo Rural,La Rioja,31.60,2005-03-01
+2005M03,Turismo Rural,Espańa,30.90,2005-03-01
+2005M03,Apartamentos,La Rioja,25.90,2005-03-01
+2005M03,Apartamentos,Espańa,84.60,2005-03-01
+2005M04,Hoteles,La Rioja,17.20,2005-04-01
+2005M04,Hoteles,Espańa,29.90,2005-04-01
+2005M04,Camping,La Rioja,25.70,2005-04-01
+2005M04,Camping,Espańa,34.10,2005-04-01
+2005M04,Turismo Rural,La Rioja,18.90,2005-04-01
+2005M04,Turismo Rural,Espańa,22.60,2005-04-01
+2005M04,Apartamentos,La Rioja,15.90,2005-04-01
+2005M04,Apartamentos,Espańa,73.60,2005-04-01
+2005M05,Hoteles,La Rioja,16.90,2005-05-01
+2005M05,Hoteles,Espańa,33.10,2005-05-01
+2005M05,Camping,La Rioja,25.60,2005-05-01
+2005M05,Camping,Espańa,36.60,2005-05-01
+2005M05,Turismo Rural,La Rioja,22.70,2005-05-01
+2005M05,Turismo Rural,Espańa,26.30,2005-05-01
+2005M05,Apartamentos,La Rioja,17.40,2005-05-01
+2005M05,Apartamentos,Espańa,76.10,2005-05-01
+2005M06,Hoteles,La Rioja,16.20,2005-06-01
+2005M06,Hoteles,Espańa,35.90,2005-06-01
+2005M06,Camping,La Rioja,23.90,2005-06-01
+2005M06,Camping,Espańa,38.50,2005-06-01
+2005M06,Turismo Rural,La Rioja,22.70,2005-06-01
+2005M06,Turismo Rural,Espańa,26.60,2005-06-01
+2005M06,Apartamentos,La Rioja,26.60,2005-06-01
+2005M06,Apartamentos,Espańa,78.40,2005-06-01
+2005M07,Hoteles,La Rioja,1.70,2005-07-01
+2005M07,Hoteles,Espańa,39.80,2005-07-01
+2005M07,Camping,La Rioja,32.40,2005-07-01
+2005M07,Camping,Espańa,47.80,2005-07-01
+2005M07,Turismo Rural,La Rioja,28.80,2005-07-01
+2005M07,Turismo Rural,Espańa,38.90,2005-07-01
+2005M07,Apartamentos,La Rioja,39.10,2005-07-01
+2005M07,Apartamentos,Espańa,85.50,2005-07-01
+2005M08,Hoteles,La Rioja,18.30,2005-08-01
+2005M08,Hoteles,Espańa,41.90,2005-08-01
+2005M08,Camping,La Rioja,36.80,2005-08-01
+2005M08,Camping,Espańa,52.30,2005-08-01
+2005M08,Turismo Rural,La Rioja,39.40,2005-08-01
+2005M08,Turismo Rural,Espańa,51.20,2005-08-01
+2005M08,Apartamentos,La Rioja,62.10,2005-08-01
+2005M08,Apartamentos,Espańa,9.50,2005-08-01
+2005M09,Hoteles,La Rioja,16.40,2005-09-01
+2005M09,Hoteles,Espańa,3.80,2005-09-01
+2005M09,Camping,La Rioja,28.30,2005-09-01
+2005M09,Camping,Espańa,43.80,2005-09-01
+2005M09,Turismo Rural,La Rioja,22.30,2005-09-01
+2005M09,Turismo Rural,Espańa,30.30,2005-09-01
+2005M09,Apartamentos,La Rioja,20.10,2005-09-01
+2005M09,Apartamentos,Espańa,8.30,2005-09-01
+2005M10,Hoteles,La Rioja,17.50,2005-10-01
+2005M10,Hoteles,Espańa,34.60,2005-10-01
+2005M10,Camping,La Rioja,26.60,2005-10-01
+2005M10,Camping,Espańa,43.90,2005-10-01
+2005M10,Turismo Rural,La Rioja,21.50,2005-10-01
+2005M10,Turismo Rural,Espańa,27.20,2005-10-01
+2005M10,Apartamentos,La Rioja,24.60,2005-10-01
+2005M10,Apartamentos,Espańa,79.60,2005-10-01
+2005M11,Hoteles,La Rioja,17.20,2005-11-01
+2005M11,Hoteles,Espańa,29.20,2005-11-01
+2005M11,Camping,La Rioja,25.90,2005-11-01
+2005M11,Camping,Espańa,59.10,2005-11-01
+2005M11,Turismo Rural,La Rioja,20.60,2005-11-01
+2005M11,Turismo Rural,Espańa,23.30,2005-11-01
+2005M11,Apartamentos,La Rioja,21.20,2005-11-01
+2005M11,Apartamentos,Espańa,82.90,2005-11-01
+2005M12,Hoteles,La Rioja,18.80,2005-12-01
+2005M12,Hoteles,Espańa,28.70,2005-12-01
+2005M12,Camping,La Rioja,36.10,2005-12-01
+2005M12,Camping,Espańa,6.90,2005-12-01
+2005M12,Turismo Rural,La Rioja,23.30,2005-12-01
+2005M12,Turismo Rural,Espańa,27.20,2005-12-01
+2005M12,Apartamentos,La Rioja,30.70,2005-12-01
+2005M12,Apartamentos,Espańa,79.60,2005-12-01
+2006M01,Hoteles,La Rioja,17.20,2006-01-01
+2006M01,Hoteles,Espańa,30.20,2006-01-01
+2006M01,Camping,La Rioja,26.70,2006-01-01
+2006M01,Camping,Espańa,81.60,2006-01-01
+2006M01,Turismo Rural,La Rioja,25.60,2006-01-01
+2006M01,Turismo Rural,Espańa,26.70,2006-01-01
+2006M01,Apartamentos,La Rioja,24.10,2006-01-01
+2006M01,Apartamentos,Espańa,89.20,2006-01-01
+2006M02,Hoteles,La Rioja,17.90,2006-02-01
+2006M02,Hoteles,Espańa,28.10,2006-02-01
+2006M02,Camping,La Rioja,22.50,2006-02-01
+2006M02,Camping,Espańa,67.90,2006-02-01
+2006M02,Turismo Rural,La Rioja,21.40,2006-02-01
+2006M02,Turismo Rural,Espańa,2.40,2006-02-01
+2006M02,Apartamentos,La Rioja,2.20,2006-02-01
+2006M02,Apartamentos,Espańa,80.30,2006-02-01
+2006M03,Hoteles,La Rioja,17.50,2006-03-01
+2006M03,Hoteles,Espańa,28.40,2006-03-01
+2006M03,Camping,La Rioja,24.40,2006-03-01
+2006M03,Camping,Espańa,0.50,2006-03-01
+2006M03,Turismo Rural,La Rioja,21.40,2006-03-01
+2006M03,Turismo Rural,Espańa,24.10,2006-03-01
+2006M03,Apartamentos,La Rioja,2.40,2006-03-01
+2006M03,Apartamentos,Espańa,84.30,2006-03-01
+2006M04,Hoteles,La Rioja,18.30,2006-04-01
+2006M04,Hoteles,Espańa,2.90,2006-04-01
+2006M04,Camping,La Rioja,27.30,2006-04-01
+2006M04,Camping,Espańa,36.20,2006-04-01
+2006M04,Turismo Rural,La Rioja,29.40,2006-04-01
+2006M04,Turismo Rural,Espańa,29.40,2006-04-01
+2006M04,Apartamentos,La Rioja,25.10,2006-04-01
+2006M04,Apartamentos,Espańa,67.50,2006-04-01
+2006M05,Hoteles,La Rioja,16.70,2006-05-01
+2006M05,Hoteles,Espańa,31.30,2006-05-01
+2006M05,Camping,La Rioja,25.10,2006-05-01
+2006M05,Camping,Espańa,39.20,2006-05-01
+2006M05,Turismo Rural,La Rioja,22.60,2006-05-01
+2006M05,Turismo Rural,Espańa,2.50,2006-05-01
+2006M05,Apartamentos,La Rioja,19.60,2006-05-01
+2006M05,Apartamentos,Espańa,72.50,2006-05-01
+2006M06,Hoteles,La Rioja,18.40,2006-06-01
+2006M06,Hoteles,Espańa,34.30,2006-06-01
+2006M06,Camping,La Rioja,2.60,2006-06-01
+2006M06,Camping,Espańa,38.20,2006-06-01
+2006M06,Turismo Rural,La Rioja,22.50,2006-06-01
+2006M06,Turismo Rural,Espańa,2.50,2006-06-01
+2006M06,Apartamentos,La Rioja,0.20,2006-06-01
+2006M06,Apartamentos,Espańa,76.80,2006-06-01
+2006M07,Hoteles,La Rioja,18.10,2006-07-01
+2006M07,Hoteles,Espańa,37.70,2006-07-01
+2006M07,Camping,La Rioja,23.70,2006-07-01
+2006M07,Camping,Espańa,48.30,2006-07-01
+2006M07,Turismo Rural,La Rioja,29.60,2006-07-01
+2006M07,Turismo Rural,Espańa,36.70,2006-07-01
+2006M07,Apartamentos,La Rioja,28.50,2006-07-01
+2006M07,Apartamentos,Espańa,88.20,2006-07-01
+2006M08,Hoteles,La Rioja,19.60,2006-08-01
+2006M08,Hoteles,Espańa,38.70,2006-08-01
+2006M08,Camping,La Rioja,26.90,2006-08-01
+2006M08,Camping,Espańa,55.20,2006-08-01
+2006M08,Turismo Rural,La Rioja,43.40,2006-08-01
+2006M08,Turismo Rural,Espańa,49.40,2006-08-01
+2006M08,Apartamentos,La Rioja,48.90,2006-08-01
+2006M08,Apartamentos,Espańa,91.90,2006-08-01
+2006M09,Hoteles,La Rioja,17.60,2006-09-01
+2006M09,Hoteles,Espańa,35.50,2006-09-01
+2006M09,Camping,La Rioja,22.60,2006-09-01
+2006M09,Camping,Espańa,44.10,2006-09-01
+2006M09,Turismo Rural,La Rioja,0.20,2006-09-01
+2006M09,Turismo Rural,Espańa,2.90,2006-09-01
+2006M09,Apartamentos,La Rioja,22.20,2006-09-01
+2006M09,Apartamentos,Espańa,77.40,2006-09-01
+2006M10,Hoteles,La Rioja,17.40,2006-10-01
+2006M10,Hoteles,Espańa,31.80,2006-10-01
+2006M10,Camping,La Rioja,26.80,2006-10-01
+2006M10,Camping,Espańa,4.60,2006-10-01
+2006M10,Turismo Rural,La Rioja,28.50,2006-10-01
+2006M10,Turismo Rural,Espańa,26.90,2006-10-01
+2006M10,Apartamentos,La Rioja,22.20,2006-10-01
+2006M10,Apartamentos,Espańa,76.50,2006-10-01
+2006M11,Hoteles,La Rioja,17.70,2006-11-01
+2006M11,Hoteles,Espańa,27.90,2006-11-01
+2006M11,Camping,La Rioja,26.50,2006-11-01
+2006M11,Camping,Espańa,5.60,2006-11-01
+2006M11,Turismo Rural,La Rioja,22.80,2006-11-01
+2006M11,Turismo Rural,Espańa,22.80,2006-11-01
+2006M11,Apartamentos,La Rioja,2.10,2006-11-01
+2006M11,Apartamentos,Espańa,82.10,2006-11-01
+2006M12,Hoteles,La Rioja,18.60,2006-12-01
+2006M12,Hoteles,Espańa,28.10,2006-12-01
+2006M12,Camping,La Rioja,24.20,2006-12-01
+2006M12,Camping,Espańa,58.60,2006-12-01
+2006M12,Turismo Rural,La Rioja,22.80,2006-12-01
+2006M12,Turismo Rural,Espańa,27.90,2006-12-01
+2006M12,Apartamentos,La Rioja,27.10,2006-12-01
+2006M12,Apartamentos,Espańa,78.20,2006-12-01
+2007M01,Hoteles,La Rioja,16.90,2007-01-01
+2007M01,Hoteles,Espańa,29.70,2007-01-01
+2007M01,Camping,La Rioja,27.30,2007-01-01
+2007M01,Camping,Espańa,82.80,2007-01-01
+2007M01,Turismo Rural,La Rioja,21.20,2007-01-01
+2007M01,Turismo Rural,Espańa,25.80,2007-01-01
+2007M01,Apartamentos,La Rioja,23.60,2007-01-01
+2007M01,Apartamentos,Espańa,93.30,2007-01-01
+2007M02,Hoteles,La Rioja,17.20,2007-02-01
+2007M02,Hoteles,Espańa,27.90,2007-02-01
+2007M02,Camping,La Rioja,21.70,2007-02-01
+2007M02,Camping,Espańa,0.70,2007-02-01
+2007M02,Turismo Rural,La Rioja,20.80,2007-02-01
+2007M02,Turismo Rural,Espańa,23.30,2007-02-01
+2007M02,Apartamentos,La Rioja,2.40,2007-02-01
+2007M02,Apartamentos,Espańa,84.30,2007-02-01
+2007M03,Hoteles,La Rioja,17.20,2007-03-01
+2007M03,Hoteles,Espańa,28.30,2007-03-01
+2007M03,Camping,La Rioja,2.50,2007-03-01
+2007M03,Camping,Espańa,47.10,2007-03-01
+2007M03,Turismo Rural,La Rioja,22.20,2007-03-01
+2007M03,Turismo Rural,Espańa,22.80,2007-03-01
+2007M03,Apartamentos,La Rioja,2.50,2007-03-01
+2007M03,Apartamentos,Espańa,8.30,2007-03-01
+2007M04,Hoteles,La Rioja,1.80,2007-04-01
+2007M04,Hoteles,Espańa,29.30,2007-04-01
+2007M04,Camping,La Rioja,28.20,2007-04-01
+2007M04,Camping,Espańa,38.60,2007-04-01
+2007M04,Turismo Rural,La Rioja,2.90,2007-04-01
+2007M04,Turismo Rural,Espańa,30.30,2007-04-01
+2007M04,Apartamentos,La Rioja,24.10,2007-04-01
+2007M04,Apartamentos,Espańa,70.20,2007-04-01
+2007M05,Hoteles,La Rioja,16.30,2007-05-01
+2007M05,Hoteles,Espańa,30.70,2007-05-01
+2007M05,Camping,La Rioja,21.20,2007-05-01
+2007M05,Camping,Espańa,40.10,2007-05-01
+2007M05,Turismo Rural,La Rioja,21.50,2007-05-01
+2007M05,Turismo Rural,Espańa,24.10,2007-05-01
+2007M05,Apartamentos,La Rioja,29.10,2007-05-01
+2007M05,Apartamentos,Espańa,73.90,2007-05-01
+2007M06,Hoteles,La Rioja,17.80,2007-06-01
+2007M06,Hoteles,Espańa,33.30,2007-06-01
+2007M06,Camping,La Rioja,23.80,2007-06-01
+2007M06,Camping,Espańa,3.80,2007-06-01
+2007M06,Turismo Rural,La Rioja,25.70,2007-06-01
+2007M06,Turismo Rural,Espańa,2.40,2007-06-01
+2007M06,Apartamentos,La Rioja,19.10,2007-06-01
+2007M06,Apartamentos,Espańa,74.70,2007-06-01
+2007M07,Hoteles,La Rioja,18.60,2007-07-01
+2007M07,Hoteles,Espańa,37.40,2007-07-01
+2007M07,Camping,La Rioja,34.40,2007-07-01
+2007M07,Camping,Espańa,50.10,2007-07-01
+2007M07,Turismo Rural,La Rioja,28.80,2007-07-01
+2007M07,Turismo Rural,Espańa,36.40,2007-07-01
+2007M07,Apartamentos,La Rioja,3.60,2007-07-01
+2007M07,Apartamentos,Espańa,88.60,2007-07-01
+2007M08,Hoteles,La Rioja,20.10,2007-08-01
+2007M08,Hoteles,Espańa,3.80,2007-08-01
+2007M08,Camping,La Rioja,48.70,2007-08-01
+2007M08,Camping,Espańa,53.30,2007-08-01
+2007M08,Turismo Rural,La Rioja,0.40,2007-08-01
+2007M08,Turismo Rural,Espańa,45.80,2007-08-01
+2007M08,Apartamentos,La Rioja,59.50,2007-08-01
+2007M08,Apartamentos,Espańa,92.90,2007-08-01
+2007M09,Hoteles,La Rioja,16.80,2007-09-01
+2007M09,Hoteles,Espańa,3.50,2007-09-01
+2007M09,Camping,La Rioja,22.40,2007-09-01
+2007M09,Camping,Espańa,44.40,2007-09-01
+2007M09,Turismo Rural,La Rioja,23.30,2007-09-01
+2007M09,Turismo Rural,Espańa,28.50,2007-09-01
+2007M09,Apartamentos,La Rioja,24.90,2007-09-01
+2007M09,Apartamentos,Espańa,79.70,2007-09-01
+2007M10,Hoteles,La Rioja,1.70,2007-10-01
+2007M10,Hoteles,Espańa,31.10,2007-10-01
+2007M10,Camping,La Rioja,24.20,2007-10-01
+2007M10,Camping,Espańa,4.60,2007-10-01
+2007M10,Turismo Rural,La Rioja,22.80,2007-10-01
+2007M10,Turismo Rural,Espańa,25.80,2007-10-01
+2007M10,Apartamentos,La Rioja,24.90,2007-10-01
+2007M10,Apartamentos,Espańa,77.30,2007-10-01
+2007M11,Hoteles,La Rioja,18.20,2007-11-01
+2007M11,Hoteles,Espańa,27.60,2007-11-01
+2007M11,Camping,La Rioja,26.80,2007-11-01
+2007M11,Camping,Espańa,53.80,2007-11-01
+2007M11,Turismo Rural,La Rioja,26.80,2007-11-01
+2007M11,Turismo Rural,Espańa,26.30,2007-11-01
+2007M11,Apartamentos,La Rioja,2.60,2007-11-01
+2007M11,Apartamentos,Espańa,0.80,2007-11-01
+2007M12,Hoteles,La Rioja,19.50,2007-12-01
+2007M12,Hoteles,Espańa,2.80,2007-12-01
+2007M12,Camping,La Rioja,27.50,2007-12-01
+2007M12,Camping,Espańa,65.90,2007-12-01
+2007M12,Turismo Rural,La Rioja,29.10,2007-12-01
+2007M12,Turismo Rural,Espańa,28.50,2007-12-01
+2007M12,Apartamentos,La Rioja,35.20,2007-12-01
+2007M12,Apartamentos,Espańa,79.40,2007-12-01
+2008M01,Hoteles,La Rioja,17.20,2008-01-01
+2008M01,Hoteles,Espańa,29.40,2008-01-01
+2008M01,Camping,La Rioja,24.90,2008-01-01
+2008M01,Camping,Espańa,81.60,2008-01-01
+2008M01,Turismo Rural,La Rioja,21.30,2008-01-01
+2008M01,Turismo Rural,Espańa,26.40,2008-01-01
+2008M01,Apartamentos,La Rioja,31.60,2008-01-01
+2008M01,Apartamentos,Espańa,92.90,2008-01-01
+2008M02,Hoteles,La Rioja,16.50,2008-02-01
+2008M02,Hoteles,Espańa,28.30,2008-02-01
+2008M02,Camping,La Rioja,21.10,2008-02-01
+2008M02,Camping,Espańa,66.30,2008-02-01
+2008M02,Turismo Rural,La Rioja,17.50,2008-02-01
+2008M02,Turismo Rural,Espańa,22.60,2008-02-01
+2008M02,Apartamentos,La Rioja,23.90,2008-02-01
+2008M02,Apartamentos,Espańa,84.90,2008-02-01
+2008M03,Hoteles,La Rioja,1.90,2008-03-01
+2008M03,Hoteles,Espańa,29.10,2008-03-01
+2008M03,Camping,La Rioja,30.90,2008-03-01
+2008M03,Camping,Espańa,46.60,2008-03-01
+2008M03,Turismo Rural,La Rioja,3.10,2008-03-01
+2008M03,Turismo Rural,Espańa,31.40,2008-03-01
+2008M03,Apartamentos,La Rioja,30.70,2008-03-01
+2008M03,Apartamentos,Espańa,79.70,2008-03-01
+2008M04,Hoteles,La Rioja,16.60,2008-04-01
+2008M04,Hoteles,Espańa,2.90,2008-04-01
+2008M04,Camping,La Rioja,19.60,2008-04-01
+2008M04,Camping,Espańa,40.40,2008-04-01
+2008M04,Turismo Rural,La Rioja,18.50,2008-04-01
+2008M04,Turismo Rural,Espańa,23.20,2008-04-01
+2008M04,Apartamentos,La Rioja,20.80,2008-04-01
+2008M04,Apartamentos,Espańa,74.10,2008-04-01
+2008M05,Hoteles,La Rioja,16.40,2008-05-01
+2008M05,Hoteles,Espańa,30.90,2008-05-01
+2008M05,Camping,La Rioja,23.40,2008-05-01
+2008M05,Camping,Espańa,41.40,2008-05-01
+2008M05,Turismo Rural,La Rioja,31.10,2008-05-01
+2008M05,Turismo Rural,Espańa,27.70,2008-05-01
+2008M05,Apartamentos,La Rioja,26.70,2008-05-01
+2008M05,Apartamentos,Espańa,70.20,2008-05-01
+2008M06,Hoteles,La Rioja,16.70,2008-06-01
+2008M06,Hoteles,Espańa,33.50,2008-06-01
+2008M06,Camping,La Rioja,23.50,2008-06-01
+2008M06,Camping,Espańa,39.60,2008-06-01
+2008M06,Turismo Rural,La Rioja,22.60,2008-06-01
+2008M06,Turismo Rural,Espańa,25.50,2008-06-01
+2008M06,Apartamentos,La Rioja,25.50,2008-06-01
+2008M06,Apartamentos,Espańa,7.70,2008-06-01
+2008M07,Hoteles,La Rioja,18.20,2008-07-01
+2008M07,Hoteles,Espańa,37.50,2008-07-01
+2008M07,Camping,La Rioja,28.50,2008-07-01
+2008M07,Camping,Espańa,51.20,2008-07-01
+2008M07,Turismo Rural,La Rioja,25.10,2008-07-01
+2008M07,Turismo Rural,Espańa,3.60,2008-07-01
+2008M07,Apartamentos,La Rioja,3.40,2008-07-01
+2008M07,Apartamentos,Espańa,8.90,2008-07-01
+2008M08,Hoteles,La Rioja,18.10,2008-08-01
+2008M08,Hoteles,Espańa,38.10,2008-08-01
+2008M08,Camping,La Rioja,44.50,2008-08-01
+2008M08,Camping,Espańa,52.60,2008-08-01
+2008M08,Turismo Rural,La Rioja,4.40,2008-08-01
+2008M08,Turismo Rural,Espańa,47.30,2008-08-01
+2008M08,Apartamentos,La Rioja,54.20,2008-08-01
+2008M08,Apartamentos,Espańa,90.30,2008-08-01
+2008M09,Hoteles,La Rioja,17.20,2008-09-01
+2008M09,Hoteles,Espańa,35.10,2008-09-01
+2008M09,Camping,La Rioja,21.80,2008-09-01
+2008M09,Camping,Espańa,46.20,2008-09-01
+2008M09,Turismo Rural,La Rioja,23.90,2008-09-01
+2008M09,Turismo Rural,Espańa,28.40,2008-09-01
+2008M09,Apartamentos,La Rioja,23.40,2008-09-01
+2008M09,Apartamentos,Espańa,8.20,2008-09-01
+2008M10,Hoteles,La Rioja,17.40,2008-10-01
+2008M10,Hoteles,Espańa,31.60,2008-10-01
+2008M10,Camping,La Rioja,22.40,2008-10-01
+2008M10,Camping,Espańa,49.60,2008-10-01
+2008M10,Turismo Rural,La Rioja,21.10,2008-10-01
+2008M10,Turismo Rural,Espańa,23.30,2008-10-01
+2008M10,Apartamentos,La Rioja,20.80,2008-10-01
+2008M10,Apartamentos,Espańa,79.70,2008-10-01
+2008M11,Hoteles,La Rioja,17.80,2008-11-01
+2008M11,Hoteles,Espańa,28.10,2008-11-01
+2008M11,Camping,La Rioja,21.20,2008-11-01
+2008M11,Camping,Espańa,60.60,2008-11-01
+2008M11,Turismo Rural,La Rioja,2.10,2008-11-01
+2008M11,Turismo Rural,Espańa,21.90,2008-11-01
+2008M11,Apartamentos,La Rioja,18.70,2008-11-01
+2008M11,Apartamentos,Espańa,82.80,2008-11-01
+2008M12,Hoteles,La Rioja,17.40,2008-12-01
+2008M12,Hoteles,Espańa,27.60,2008-12-01
+2008M12,Camping,La Rioja,22.60,2008-12-01
+2008M12,Camping,Espańa,68.20,2008-12-01
+2008M12,Turismo Rural,La Rioja,29.50,2008-12-01
+2008M12,Turismo Rural,Espańa,26.40,2008-12-01
+2008M12,Apartamentos,La Rioja,26.50,2008-12-01
+2008M12,Apartamentos,Espańa,81.90,2008-12-01
+2009M01,Hoteles,La Rioja,16.90,2009-01-01
+2009M01,Hoteles,Espańa,30.10,2009-01-01
+2009M01,Camping,La Rioja,2.40,2009-01-01
+2009M01,Camping,Espańa,85.70,2009-01-01
+2009M01,Turismo Rural,La Rioja,31.80,2009-01-01
+2009M01,Turismo Rural,Espańa,29.60,2009-01-01
+2009M01,Apartamentos,La Rioja,27.10,2009-01-01
+2009M01,Apartamentos,Espańa,93.80,2009-01-01
+2009M02,Hoteles,La Rioja,16.80,2009-02-01
+2009M02,Hoteles,Espańa,28.20,2009-02-01
+2009M02,Camping,La Rioja,20.90,2009-02-01
+2009M02,Camping,Espańa,72.60,2009-02-01
+2009M02,Turismo Rural,La Rioja,20.50,2009-02-01
+2009M02,Turismo Rural,Espańa,22.10,2009-02-01
+2009M02,Apartamentos,La Rioja,20.20,2009-02-01
+2009M02,Apartamentos,Espańa,82.50,2009-02-01
+2009M03,Hoteles,La Rioja,17.40,2009-03-01
+2009M03,Hoteles,Espańa,29.30,2009-03-01
+2009M03,Camping,La Rioja,2.10,2009-03-01
+2009M03,Camping,Espańa,52.30,2009-03-01
+2009M03,Turismo Rural,La Rioja,22.90,2009-03-01
+2009M03,Turismo Rural,Espańa,2.40,2009-03-01
+2009M03,Apartamentos,La Rioja,2.10,2009-03-01
+2009M03,Apartamentos,Espańa,84.60,2009-03-01
+2009M04,Hoteles,La Rioja,18.20,2009-04-01
+2009M04,Hoteles,Espańa,29.90,2009-04-01
+2009M04,Camping,La Rioja,28.20,2009-04-01
+2009M04,Camping,Espańa,3.80,2009-04-01
+2009M04,Turismo Rural,La Rioja,28.40,2009-04-01
+2009M04,Turismo Rural,Espańa,28.40,2009-04-01
+2009M04,Apartamentos,La Rioja,28.20,2009-04-01
+2009M04,Apartamentos,Espańa,6.90,2009-04-01
+2009M05,Hoteles,La Rioja,16.50,2009-05-01
+2009M05,Hoteles,Espańa,30.70,2009-05-01
+2009M05,Camping,La Rioja,20.90,2009-05-01
+2009M05,Camping,Espańa,39.30,2009-05-01
+2009M05,Turismo Rural,La Rioja,20.40,2009-05-01
+2009M05,Turismo Rural,Espańa,24.10,2009-05-01
+2009M05,Apartamentos,La Rioja,20.40,2009-05-01
+2009M05,Apartamentos,Espańa,64.10,2009-05-01
+2009M06,Hoteles,La Rioja,17.60,2009-06-01
+2009M06,Hoteles,Espańa,34.20,2009-06-01
+2009M06,Camping,La Rioja,22.20,2009-06-01
+2009M06,Camping,Espańa,40.70,2009-06-01
+2009M06,Turismo Rural,La Rioja,21.70,2009-06-01
+2009M06,Turismo Rural,Espańa,25.30,2009-06-01
+2009M06,Apartamentos,La Rioja,21.90,2009-06-01
+2009M06,Apartamentos,Espańa,69.30,2009-06-01
+2009M07,Hoteles,La Rioja,18.30,2009-07-01
+2009M07,Hoteles,Espańa,37.60,2009-07-01
+2009M07,Camping,La Rioja,27.10,2009-07-01
+2009M07,Camping,Espańa,4.90,2009-07-01
+2009M07,Turismo Rural,La Rioja,2.30,2009-07-01
+2009M07,Turismo Rural,Espańa,33.20,2009-07-01
+2009M07,Apartamentos,La Rioja,30.90,2009-07-01
+2009M07,Apartamentos,Espańa,81.80,2009-07-01
+2009M08,Hoteles,La Rioja,19.20,2009-08-01
+2009M08,Hoteles,Espańa,38.40,2009-08-01
+2009M08,Camping,La Rioja,47.10,2009-08-01
+2009M08,Camping,Espańa,53.50,2009-08-01
+2009M08,Turismo Rural,La Rioja,36.10,2009-08-01
+2009M08,Turismo Rural,Espańa,46.60,2009-08-01
+2009M08,Apartamentos,La Rioja,40.80,2009-08-01
+2009M08,Apartamentos,Espańa,8.40,2009-08-01
+2009M09,Hoteles,La Rioja,18.20,2009-09-01
+2009M09,Hoteles,Espańa,3.50,2009-09-01
+2009M09,Camping,La Rioja,20.60,2009-09-01
+2009M09,Camping,Espańa,4.80,2009-09-01
+2009M09,Turismo Rural,La Rioja,22.50,2009-09-01
+2009M09,Turismo Rural,Espańa,27.20,2009-09-01
+2009M09,Apartamentos,La Rioja,25.80,2009-09-01
+2009M09,Apartamentos,Espańa,75.10,2009-09-01
+2009M10,Hoteles,La Rioja,18.50,2009-10-01
+2009M10,Hoteles,Espańa,3.10,2009-10-01
+2009M10,Camping,La Rioja,2.20,2009-10-01
+2009M10,Camping,Espańa,45.20,2009-10-01
+2009M10,Turismo Rural,La Rioja,23.70,2009-10-01
+2009M10,Turismo Rural,Espańa,24.60,2009-10-01
+2009M10,Apartamentos,La Rioja,22.80,2009-10-01
+2009M10,Apartamentos,Espańa,70.70,2009-10-01
+2009M11,Hoteles,La Rioja,18.60,2009-11-01
+2009M11,Hoteles,Espańa,28.10,2009-11-01
+2009M11,Camping,La Rioja,20.80,2009-11-01
+2009M11,Camping,Espańa,64.70,2009-11-01
+2009M11,Turismo Rural,La Rioja,20.10,2009-11-01
+2009M11,Turismo Rural,Espańa,21.80,2009-11-01
+2009M11,Apartamentos,La Rioja,20.20,2009-11-01
+2009M11,Apartamentos,Espańa,80.90,2009-11-01
+2009M12,Hoteles,La Rioja,18.50,2009-12-01
+2009M12,Hoteles,Espańa,27.10,2009-12-01
+2009M12,Camping,La Rioja,23.70,2009-12-01
+2009M12,Camping,Espańa,74.20,2009-12-01
+2009M12,Turismo Rural,La Rioja,27.80,2009-12-01
+2009M12,Turismo Rural,Espańa,26.80,2009-12-01
+2009M12,Apartamentos,La Rioja,27.20,2009-12-01
+2009M12,Apartamentos,Espańa,74.30,2009-12-01
+2010M01,Hoteles,La Rioja,16.70,2010-01-01
+2010M01,Hoteles,Espańa,0.30,2010-01-01
+2010M01,Camping,La Rioja,23.70,2010-01-01
+2010M01,Camping,Espańa,89.40,2010-01-01
+2010M01,Turismo Rural,La Rioja,24.90,2010-01-01
+2010M01,Turismo Rural,Espańa,27.80,2010-01-01
+2010M01,Apartamentos,La Rioja,28.70,2010-01-01
+2010M01,Apartamentos,Espańa,84.40,2010-01-01
+2010M02,Hoteles,La Rioja,16.20,2010-02-01
+2010M02,Hoteles,Espańa,28.40,2010-02-01
+2010M02,Camping,La Rioja,20.90,2010-02-01
+2010M02,Camping,Espańa,79.60,2010-02-01
+2010M02,Turismo Rural,La Rioja,19.20,2010-02-01
+2010M02,Turismo Rural,Espańa,22.40,2010-02-01
+2010M02,Apartamentos,La Rioja,19.90,2010-02-01
+2010M02,Apartamentos,Espańa,7.80,2010-02-01
+2010M03,Hoteles,La Rioja,17.90,2010-03-01
+2010M03,Hoteles,Espańa,29.40,2010-03-01
+2010M03,Camping,La Rioja,19.60,2010-03-01
+2010M03,Camping,Espańa,50.30,2010-03-01
+2010M03,Turismo Rural,La Rioja,20.80,2010-03-01
+2010M03,Turismo Rural,Espańa,23.10,2010-03-01
+2010M03,Apartamentos,La Rioja,22.30,2010-03-01
+2010M03,Apartamentos,Espańa,75.60,2010-03-01
+2010M04,Hoteles,La Rioja,17.70,2010-04-01
+2010M04,Hoteles,Espańa,29.20,2010-04-01
+2010M04,Camping,La Rioja,29.90,2010-04-01
+2010M04,Camping,Espańa,40.20,2010-04-01
+2010M04,Turismo Rural,La Rioja,28.10,2010-04-01
+2010M04,Turismo Rural,Espańa,28.70,2010-04-01
+2010M04,Apartamentos,La Rioja,31.80,2010-04-01
+2010M04,Apartamentos,Espańa,59.90,2010-04-01
+2010M05,Hoteles,La Rioja,16.30,2010-05-01
+2010M05,Hoteles,Espańa,30.70,2010-05-01
+2010M05,Camping,La Rioja,20.40,2010-05-01
+2010M05,Camping,Espańa,40.80,2010-05-01
+2010M05,Turismo Rural,La Rioja,21.60,2010-05-01
+2010M05,Turismo Rural,Espańa,21.70,2010-05-01
+2010M05,Apartamentos,La Rioja,21.40,2010-05-01
+2010M05,Apartamentos,Espańa,60.60,2010-05-01
+2010M06,Hoteles,La Rioja,17.40,2010-06-01
+2010M06,Hoteles,Espańa,33.80,2010-06-01
+2010M06,Camping,La Rioja,24.10,2010-06-01
+2010M06,Camping,Espańa,42.40,2010-06-01
+2010M06,Turismo Rural,La Rioja,19.90,2010-06-01
+2010M06,Turismo Rural,Espańa,24.20,2010-06-01
+2010M06,Apartamentos,La Rioja,25.90,2010-06-01
+2010M06,Apartamentos,Espańa,65.10,2010-06-01
+2010M07,Hoteles,La Rioja,17.30,2010-07-01
+2010M07,Hoteles,Espańa,37.10,2010-07-01
+2010M07,Camping,La Rioja,31.70,2010-07-01
+2010M07,Camping,Espańa,49.50,2010-07-01
+2010M07,Turismo Rural,La Rioja,23.90,2010-07-01
+2010M07,Turismo Rural,Espańa,33.90,2010-07-01
+2010M07,Apartamentos,La Rioja,30.60,2010-07-01
+2010M07,Apartamentos,Espańa,75.40,2010-07-01
+2010M08,Hoteles,La Rioja,18.30,2010-08-01
+2010M08,Hoteles,Espańa,3.90,2010-08-01
+2010M08,Camping,La Rioja,4.60,2010-08-01
+2010M08,Camping,Espańa,54.10,2010-08-01
+2010M08,Turismo Rural,La Rioja,41.90,2010-08-01
+2010M08,Turismo Rural,Espańa,45.90,2010-08-01
+2010M08,Apartamentos,La Rioja,45.20,2010-08-01
+2010M08,Apartamentos,Espańa,82.10,2010-08-01
+2010M09,Hoteles,La Rioja,1.70,2010-09-01
+2010M09,Hoteles,Espańa,35.40,2010-09-01
+2010M09,Camping,La Rioja,19.60,2010-09-01
+2010M09,Camping,Espańa,46.60,2010-09-01
+2010M09,Turismo Rural,La Rioja,21.50,2010-09-01
+2010M09,Turismo Rural,Espańa,26.20,2010-09-01
+2010M09,Apartamentos,La Rioja,24.90,2010-09-01
+2010M09,Apartamentos,Espańa,73.40,2010-09-01
+2010M10,Hoteles,La Rioja,18.50,2010-10-01
+2010M10,Hoteles,Espańa,31.20,2010-10-01
+2010M10,Camping,La Rioja,22.80,2010-10-01
+2010M10,Camping,Espańa,48.30,2010-10-01
+2010M10,Turismo Rural,La Rioja,24.40,2010-10-01
+2010M10,Turismo Rural,Espańa,24.80,2010-10-01
+2010M10,Apartamentos,La Rioja,25.40,2010-10-01
+2010M10,Apartamentos,Espańa,67.30,2010-10-01
+2010M11,Hoteles,La Rioja,17.70,2010-11-01
+2010M11,Hoteles,Espańa,28.90,2010-11-01
+2010M11,Camping,La Rioja,1.80,2010-11-01
+2010M11,Camping,Espańa,71.80,2010-11-01
+2010M11,Turismo Rural,La Rioja,21.90,2010-11-01
+2010M11,Turismo Rural,Espańa,22.10,2010-11-01
+2010M11,Apartamentos,La Rioja,23.10,2010-11-01
+2010M11,Apartamentos,Espańa,78.60,2010-11-01
+2010M12,Hoteles,La Rioja,18.50,2010-12-01
+2010M12,Hoteles,Espańa,27.50,2010-12-01
+2010M12,Camping,La Rioja,25.10,2010-12-01
+2010M12,Camping,Espańa,74.60,2010-12-01
+2010M12,Turismo Rural,La Rioja,33.90,2010-12-01
+2010M12,Turismo Rural,Espańa,28.10,2010-12-01
+2010M12,Apartamentos,La Rioja,2.70,2010-12-01
+2010M12,Apartamentos,Espańa,71.10,2010-12-01
+2011M01,Hoteles,La Rioja,16.80,2011-01-01
+2011M01,Hoteles,Espańa,3.10,2011-01-01
+2011M01,Camping,La Rioja,0.20,2011-01-01
+2011M01,Camping,Espańa,88.90,2011-01-01
+2011M01,Turismo Rural,La Rioja,22.50,2011-01-01
+2011M01,Turismo Rural,Espańa,2.60,2011-01-01
+2011M01,Apartamentos,La Rioja,2.80,2011-01-01
+2011M01,Apartamentos,Espańa,8.50,2011-01-01
+2011M02,Hoteles,La Rioja,16.10,2011-02-01
+2011M02,Hoteles,Espańa,29.50,2011-02-01
+2011M02,Camping,La Rioja,20.70,2011-02-01
+2011M02,Camping,Espańa,74.20,2011-02-01
+2011M02,Turismo Rural,La Rioja,1.90,2011-02-01
+2011M02,Turismo Rural,Espańa,22.80,2011-02-01
+2011M02,Apartamentos,La Rioja,22.20,2011-02-01
+2011M02,Apartamentos,Espańa,77.40,2011-02-01
+2011M03,Hoteles,La Rioja,17.70,2011-03-01
+2011M03,Hoteles,Espańa,3.10,2011-03-01
+2011M03,Camping,La Rioja,19.10,2011-03-01
+2011M03,Camping,Espańa,55.30,2011-03-01
+2011M03,Turismo Rural,La Rioja,20.20,2011-03-01
+2011M03,Turismo Rural,Espańa,23.30,2011-03-01
+2011M03,Apartamentos,La Rioja,22.60,2011-03-01
+2011M03,Apartamentos,Espańa,77.10,2011-03-01
+2011M04,Hoteles,La Rioja,17.90,2011-04-01
+2011M04,Hoteles,Espańa,30.50,2011-04-01
+2011M04,Camping,La Rioja,29.70,2011-04-01
+2011M04,Camping,Espańa,39.90,2011-04-01
+2011M04,Turismo Rural,La Rioja,27.20,2011-04-01
+2011M04,Turismo Rural,Espańa,26.60,2011-04-01
+2011M04,Apartamentos,La Rioja,26.40,2011-04-01
+2011M04,Apartamentos,Espańa,61.50,2011-04-01
+2011M05,Hoteles,La Rioja,16.80,2011-05-01
+2011M05,Hoteles,Espańa,31.60,2011-05-01
+2011M05,Camping,La Rioja,19.90,2011-05-01
+2011M05,Camping,Espańa,43.70,2011-05-01
+2011M05,Turismo Rural,La Rioja,21.70,2011-05-01
+2011M05,Turismo Rural,Espańa,22.80,2011-05-01
+2011M05,Apartamentos,La Rioja,24.10,2011-05-01
+2011M05,Apartamentos,Espańa,61.70,2011-05-01
+2011M06,Hoteles,La Rioja,1.70,2011-06-01
+2011M06,Hoteles,Espańa,34.90,2011-06-01
+2011M06,Camping,La Rioja,22.10,2011-06-01
+2011M06,Camping,Espańa,43.40,2011-06-01
+2011M06,Turismo Rural,La Rioja,19.90,2011-06-01
+2011M06,Turismo Rural,Espańa,24.20,2011-06-01
+2011M06,Apartamentos,La Rioja,24.80,2011-06-01
+2011M06,Apartamentos,Espańa,63.90,2011-06-01
+2011M07,Hoteles,La Rioja,1.80,2011-07-01
+2011M07,Hoteles,Espańa,37.80,2011-07-01
+2011M07,Camping,La Rioja,35.30,2011-07-01
+2011M07,Camping,Espańa,50.30,2011-07-01
+2011M07,Turismo Rural,La Rioja,27.60,2011-07-01
+2011M07,Turismo Rural,Espańa,34.10,2011-07-01
+2011M07,Apartamentos,La Rioja,33.20,2011-07-01
+2011M07,Apartamentos,Espańa,73.10,2011-07-01
+2011M08,Hoteles,La Rioja,18.70,2011-08-01
+2011M08,Hoteles,Espańa,39.30,2011-08-01
+2011M08,Camping,La Rioja,44.60,2011-08-01
+2011M08,Camping,Espańa,56.30,2011-08-01
+2011M08,Turismo Rural,La Rioja,45.90,2011-08-01
+2011M08,Turismo Rural,Espańa,44.30,2011-08-01
+2011M08,Apartamentos,La Rioja,0.50,2011-08-01
+2011M08,Apartamentos,Espańa,78.60,2011-08-01
+2011M09,Hoteles,La Rioja,16.70,2011-09-01
+2011M09,Hoteles,Espańa,3.60,2011-09-01
+2011M09,Camping,La Rioja,18.80,2011-09-01
+2011M09,Camping,Espańa,47.70,2011-09-01
+2011M09,Turismo Rural,La Rioja,21.90,2011-09-01
+2011M09,Turismo Rural,Espańa,25.80,2011-09-01
+2011M09,Apartamentos,La Rioja,22.90,2011-09-01
+2011M09,Apartamentos,Espańa,69.90,2011-09-01
+2011M10,Hoteles,La Rioja,18.10,2011-10-01
+2011M10,Hoteles,Espańa,32.30,2011-10-01
+2011M10,Camping,La Rioja,2.20,2011-10-01
+2011M10,Camping,Espańa,49.10,2011-10-01
+2011M10,Turismo Rural,La Rioja,22.70,2011-10-01
+2011M10,Turismo Rural,Espańa,24.20,2011-10-01
+2011M10,Apartamentos,La Rioja,25.70,2011-10-01
+2011M10,Apartamentos,Espańa,69.10,2011-10-01
+2011M11,Hoteles,La Rioja,17.70,2011-11-01
+2011M11,Hoteles,Espańa,29.90,2011-11-01
+2011M11,Camping,La Rioja,18.20,2011-11-01
+2011M11,Camping,Espańa,65.60,2011-11-01
+2011M11,Turismo Rural,La Rioja,24.10,2011-11-01
+2011M11,Turismo Rural,Espańa,22.40,2011-11-01
+2011M11,Apartamentos,La Rioja,18.80,2011-11-01
+2011M11,Apartamentos,Espańa,80.10,2011-11-01
+2011M12,Hoteles,La Rioja,17.80,2011-12-01
+2011M12,Hoteles,Espańa,28.40,2011-12-01
+2011M12,Camping,La Rioja,25.40,2011-12-01
+2011M12,Camping,Espańa,75.20,2011-12-01
+2011M12,Turismo Rural,La Rioja,26.30,2011-12-01
+2011M12,Turismo Rural,Espańa,24.70,2011-12-01
+2011M12,Apartamentos,La Rioja,26.30,2011-12-01
+2011M12,Apartamentos,Espańa,73.50,2011-12-01
+2012M01,Hoteles,La Rioja,16.50,2012-01-01
+2012M01,Hoteles,Espańa,31.20,2012-01-01
+2012M01,Camping,La Rioja,17.50,2012-01-01
+2012M01,Camping,Espańa,92.10,2012-01-01
+2012M01,Turismo Rural,La Rioja,26.20,2012-01-01
+2012M01,Turismo Rural,Espańa,25.90,2012-01-01
+2012M01,Apartamentos,La Rioja,20.50,2012-01-01
+2012M01,Apartamentos,Espańa,86.30,2012-01-01
+2012M02,Hoteles,La Rioja,16.60,2012-02-01
+2012M02,Hoteles,Espańa,29.70,2012-02-01
+2012M02,Camping,La Rioja,1.90,2012-02-01
+2012M02,Camping,Espańa,83.90,2012-02-01
+2012M02,Turismo Rural,La Rioja,19.60,2012-02-01
+2012M02,Turismo Rural,Espańa,23.30,2012-02-01
+2012M02,Apartamentos,La Rioja,18.60,2012-02-01
+2012M02,Apartamentos,Espańa,80.20,2012-02-01
+2012M03,Hoteles,La Rioja,17.60,2012-03-01
+2012M03,Hoteles,Espańa,30.10,2012-03-01
+2012M03,Camping,La Rioja,18.40,2012-03-01
+2012M03,Camping,Espańa,52.40,2012-03-01
+2012M03,Turismo Rural,La Rioja,21.70,2012-03-01
+2012M03,Turismo Rural,Espańa,22.10,2012-03-01
+2012M03,Apartamentos,La Rioja,20.40,2012-03-01
+2012M03,Apartamentos,Espańa,73.20,2012-03-01
+2012M04,Hoteles,La Rioja,17.60,2012-04-01
+2012M04,Hoteles,Espańa,30.20,2012-04-01
+2012M04,Camping,La Rioja,30.40,2012-04-01
+2012M04,Camping,Espańa,41.10,2012-04-01
+2012M04,Turismo Rural,La Rioja,31.30,2012-04-01
+2012M04,Turismo Rural,Espańa,28.10,2012-04-01
+2012M04,Apartamentos,La Rioja,30.30,2012-04-01
+2012M04,Apartamentos,Espańa,61.40,2012-04-01
+2012M05,Hoteles,La Rioja,16.60,2012-05-01
+2012M05,Hoteles,Espańa,31.90,2012-05-01
+2012M05,Camping,La Rioja,19.80,2012-05-01
+2012M05,Camping,Espańa,43.60,2012-05-01
+2012M05,Turismo Rural,La Rioja,18.60,2012-05-01
+2012M05,Turismo Rural,Espańa,23.10,2012-05-01
+2012M05,Apartamentos,La Rioja,2.50,2012-05-01
+2012M05,Apartamentos,Espańa,59.80,2012-05-01
+2012M06,Hoteles,La Rioja,17.30,2012-06-01
+2012M06,Hoteles,Espańa,35.20,2012-06-01
+2012M06,Camping,La Rioja,21.30,2012-06-01
+2012M06,Camping,Espańa,42.20,2012-06-01
+2012M06,Turismo Rural,La Rioja,18.10,2012-06-01
+2012M06,Turismo Rural,Espańa,2.40,2012-06-01
+2012M06,Apartamentos,La Rioja,20.90,2012-06-01
+2012M06,Apartamentos,Espańa,60.90,2012-06-01
+2012M07,Hoteles,La Rioja,17.70,2012-07-01
+2012M07,Hoteles,Espańa,38.90,2012-07-01
+2012M07,Camping,La Rioja,36.80,2012-07-01
+2012M07,Camping,Espańa,54.10,2012-07-01
+2012M07,Turismo Rural,La Rioja,23.60,2012-07-01
+2012M07,Turismo Rural,Espańa,33.50,2012-07-01
+2012M07,Apartamentos,La Rioja,32.60,2012-07-01
+2012M07,Apartamentos,Espańa,73.20,2012-07-01
+2012M08,Hoteles,La Rioja,18.50,2012-08-01
+2012M08,Hoteles,Espańa,39.60,2012-08-01
+2012M08,Camping,La Rioja,44.20,2012-08-01
+2012M08,Camping,Espańa,57.40,2012-08-01
+2012M08,Turismo Rural,La Rioja,28.80,2012-08-01
+2012M08,Turismo Rural,Espańa,4.20,2012-08-01
+2012M08,Apartamentos,La Rioja,41.40,2012-08-01
+2012M08,Apartamentos,Espańa,76.80,2012-08-01
+2012M09,Hoteles,La Rioja,17.30,2012-09-01
+2012M09,Hoteles,Espańa,36.60,2012-09-01
+2012M09,Camping,La Rioja,18.50,2012-09-01
+2012M09,Camping,Espańa,48.70,2012-09-01
+2012M09,Turismo Rural,La Rioja,19.20,2012-09-01
+2012M09,Turismo Rural,Espańa,26.50,2012-09-01
+2012M09,Apartamentos,La Rioja,25.10,2012-09-01
+2012M09,Apartamentos,Espańa,69.20,2012-09-01
+2012M10,Hoteles,La Rioja,17.90,2012-10-01
+2012M10,Hoteles,Espańa,32.90,2012-10-01
+2012M10,Camping,La Rioja,22.10,2012-10-01
+2012M10,Camping,Espańa,52.10,2012-10-01
+2012M10,Turismo Rural,La Rioja,24.10,2012-10-01
+2012M10,Turismo Rural,Espańa,24.20,2012-10-01
+2012M10,Apartamentos,La Rioja,21.40,2012-10-01
+2012M10,Apartamentos,Espańa,70.30,2012-10-01
+2012M11,Hoteles,La Rioja,18.20,2012-11-01
+2012M11,Hoteles,Espańa,2.90,2012-11-01
+2012M11,Camping,La Rioja,19.80,2012-11-01
+2012M11,Camping,Espańa,66.20,2012-11-01
+2012M11,Turismo Rural,La Rioja,25.20,2012-11-01
+2012M11,Turismo Rural,Espańa,24.50,2012-11-01
+2012M11,Apartamentos,La Rioja,22.40,2012-11-01
+2012M11,Apartamentos,Espańa,78.10,2012-11-01
+2012M12,Hoteles,La Rioja,17.70,2012-12-01
+2012M12,Hoteles,Espańa,28.60,2012-12-01
+2012M12,Camping,La Rioja,22.90,2012-12-01
+2012M12,Camping,Espańa,77.30,2012-12-01
+2012M12,Turismo Rural,La Rioja,24.90,2012-12-01
+2012M12,Turismo Rural,Espańa,24.80,2012-12-01
+2012M12,Apartamentos,La Rioja,27.70,2012-12-01
+2012M12,Apartamentos,Espańa,73.20,2012-12-01
+2013M01,Hoteles,La Rioja,16.40,2013-01-01
+2013M01,Hoteles,Espańa,32.20,2013-01-01
+2013M01,Camping,La Rioja,19.10,2013-01-01
+2013M01,Camping,Espańa,95.70,2013-01-01
+2013M01,Turismo Rural,La Rioja,21.30,2013-01-01
+2013M01,Turismo Rural,Espańa,25.40,2013-01-01
+2013M01,Apartamentos,La Rioja,23.80,2013-01-01
+2013M01,Apartamentos,Espańa,87.20,2013-01-01
+2013M02,Hoteles,La Rioja,17.40,2013-02-01
+2013M02,Hoteles,Espańa,30.10,2013-02-01
+2013M02,Camping,La Rioja,19.40,2013-02-01
+2013M02,Camping,Espańa,8.20,2013-02-01
+2013M02,Turismo Rural,La Rioja,19.50,2013-02-01
+2013M02,Turismo Rural,Espańa,22.10,2013-02-01
+2013M02,Apartamentos,La Rioja,20.40,2013-02-01
+2013M02,Apartamentos,Espańa,77.20,2013-02-01
+2013M03,Hoteles,La Rioja,17.70,2013-03-01
+2013M03,Hoteles,Espańa,30.50,2013-03-01
+2013M03,Camping,La Rioja,22.90,2013-03-01
+2013M03,Camping,Espańa,46.70,2013-03-01
+2013M03,Turismo Rural,La Rioja,2.70,2013-03-01
+2013M03,Turismo Rural,Espańa,26.80,2013-03-01
+2013M03,Apartamentos,La Rioja,28.40,2013-03-01
+2013M03,Apartamentos,Espańa,66.70,2013-03-01
+2013M04,Hoteles,La Rioja,18.30,2013-04-01
+2013M04,Hoteles,Espańa,30.50,2013-04-01
+2013M04,Camping,La Rioja,20.50,2013-04-01
+2013M04,Camping,Espańa,41.30,2013-04-01
+2013M04,Turismo Rural,La Rioja,22.10,2013-04-01
+2013M04,Turismo Rural,Espańa,23.80,2013-04-01
+2013M04,Apartamentos,La Rioja,22.70,2013-04-01
+2013M04,Apartamentos,Espańa,64.60,2013-04-01
+2013M05,Hoteles,La Rioja,1.70,2013-05-01
+2013M05,Hoteles,Espańa,32.50,2013-05-01
+2013M05,Camping,La Rioja,19.10,2013-05-01
+2013M05,Camping,Espańa,42.50,2013-05-01
+2013M05,Turismo Rural,La Rioja,20.50,2013-05-01
+2013M05,Turismo Rural,Espańa,24.10,2013-05-01
+2013M05,Apartamentos,La Rioja,22.60,2013-05-01
+2013M05,Apartamentos,Espańa,60.10,2013-05-01
+2013M06,Hoteles,La Rioja,17.20,2013-06-01
+2013M06,Hoteles,Espańa,35.30,2013-06-01
+2013M06,Camping,La Rioja,21.80,2013-06-01
+2013M06,Camping,Espańa,4.20,2013-06-01
+2013M06,Turismo Rural,La Rioja,22.80,2013-06-01
+2013M06,Turismo Rural,Espańa,23.90,2013-06-01
+2013M06,Apartamentos,La Rioja,21.20,2013-06-01
+2013M06,Apartamentos,Espańa,61.70,2013-06-01
+2013M07,Hoteles,La Rioja,17.30,2013-07-01
+2013M07,Hoteles,Espańa,39.10,2013-07-01
+2013M07,Camping,La Rioja,37.40,2013-07-01
+2013M07,Camping,Espańa,53.50,2013-07-01
+2013M07,Turismo Rural,La Rioja,24.60,2013-07-01
+2013M07,Turismo Rural,Espańa,33.80,2013-07-01
+2013M07,Apartamentos,La Rioja,29.20,2013-07-01
+2013M07,Apartamentos,Espańa,71.30,2013-07-01
+2013M08,Hoteles,La Rioja,17.60,2013-08-01
+2013M08,Hoteles,Espańa,39.10,2013-08-01
+2013M08,Camping,La Rioja,4.20,2013-08-01
+2013M08,Camping,Espańa,55.10,2013-08-01
+2013M08,Turismo Rural,La Rioja,33.50,2013-08-01
+2013M08,Turismo Rural,Espańa,40.10,2013-08-01
+2013M08,Apartamentos,La Rioja,43.20,2013-08-01
+2013M08,Apartamentos,Espańa,73.50,2013-08-01
+2013M09,Hoteles,La Rioja,17.30,2013-09-01
+2013M09,Hoteles,Espańa,36.70,2013-09-01
+2013M09,Camping,La Rioja,18.90,2013-09-01
+2013M09,Camping,Espańa,48.60,2013-09-01
+2013M09,Turismo Rural,La Rioja,20.40,2013-09-01
+2013M09,Turismo Rural,Espańa,25.80,2013-09-01
+2013M09,Apartamentos,La Rioja,24.90,2013-09-01
+2013M09,Apartamentos,Espańa,69.40,2013-09-01
+2013M10,Hoteles,La Rioja,17.90,2013-10-01
+2013M10,Hoteles,Espańa,33.50,2013-10-01
+2013M10,Camping,La Rioja,20.30,2013-10-01
+2013M10,Camping,Espańa,4.90,2013-10-01
+2013M10,Turismo Rural,La Rioja,1.90,2013-10-01
+2013M10,Turismo Rural,Espańa,22.50,2013-10-01
+2013M10,Apartamentos,La Rioja,20.80,2013-10-01
+2013M10,Apartamentos,Espańa,68.60,2013-10-01
+2013M11,Hoteles,La Rioja,17.30,2013-11-01
+2013M11,Hoteles,Espańa,29.50,2013-11-01
+2013M11,Camping,La Rioja,19.30,2013-11-01
+2013M11,Camping,Espańa,62.30,2013-11-01
+2013M11,Turismo Rural,La Rioja,20.40,2013-11-01
+2013M11,Turismo Rural,Espańa,21.70,2013-11-01
+2013M11,Apartamentos,La Rioja,21.60,2013-11-01
+2013M11,Apartamentos,Espańa,7.50,2013-11-01
+2013M12,Hoteles,La Rioja,17.30,2013-12-01
+2013M12,Hoteles,Espańa,29.20,2013-12-01
+2013M12,Camping,La Rioja,19.30,2013-12-01
+2013M12,Camping,Espańa,75.90,2013-12-01
+2013M12,Turismo Rural,La Rioja,28.60,2013-12-01
+2013M12,Turismo Rural,Espańa,2.50,2013-12-01
+2013M12,Apartamentos,La Rioja,26.30,2013-12-01
+2013M12,Apartamentos,Espańa,72.60,2013-12-01
+2014M01,Hoteles,La Rioja,15.80,2014-01-01
+2014M01,Hoteles,Espańa,32.50,2014-01-01
+2014M01,Camping,La Rioja,20.60,2014-01-01
+2014M01,Camping,Espańa,93.80,2014-01-01
+2014M01,Turismo Rural,La Rioja,21.90,2014-01-01
+2014M01,Turismo Rural,Espańa,24.50,2014-01-01
+2014M01,Apartamentos,La Rioja,21.40,2014-01-01
+2014M01,Apartamentos,Espańa,87.40,2014-01-01
+2014M01,Albergues,La Rioja,16.70,2014-01-01
+2014M01,Albergues,Espańa,25.40,2014-01-01
+2014M02,Hoteles,La Rioja,17.50,2014-02-01
+2014M02,Hoteles,Espańa,29.80,2014-02-01
+2014M02,Camping,La Rioja,18.70,2014-02-01
+2014M02,Camping,Espańa,78.90,2014-02-01
+2014M02,Turismo Rural,La Rioja,18.30,2014-02-01
+2014M02,Turismo Rural,Espańa,21.70,2014-02-01
+2014M02,Apartamentos,La Rioja,18.40,2014-02-01
+2014M02,Apartamentos,Espańa,78.50,2014-02-01
+2014M02,Albergues,La Rioja,1.40,2014-02-01
+2014M02,Albergues,Espańa,22.50,2014-02-01
+2014M03,Hoteles,La Rioja,17.60,2014-03-01
+2014M03,Hoteles,Espańa,31.40,2014-03-01
+2014M03,Camping,La Rioja,19.40,2014-03-01
+2014M03,Camping,Espańa,54.40,2014-03-01
+2014M03,Turismo Rural,La Rioja,18.60,2014-03-01
+2014M03,Turismo Rural,Espańa,22.60,2014-03-01
+2014M03,Apartamentos,La Rioja,21.10,2014-03-01
+2014M03,Apartamentos,Espańa,74.20,2014-03-01
+2014M03,Albergues,La Rioja,18.20,2014-03-01
+2014M03,Albergues,Espańa,20.60,2014-03-01
+2014M04,Hoteles,La Rioja,1.80,2014-04-01
+2014M04,Hoteles,Espańa,30.50,2014-04-01
+2014M04,Camping,La Rioja,25.60,2014-04-01
+2014M04,Camping,Espańa,39.90,2014-04-01
+2014M04,Turismo Rural,La Rioja,25.80,2014-04-01
+2014M04,Turismo Rural,Espańa,27.50,2014-04-01
+2014M04,Apartamentos,La Rioja,25.60,2014-04-01
+2014M04,Apartamentos,Espańa,59.60,2014-04-01
+2014M04,Albergues,La Rioja,12.90,2014-04-01
+2014M04,Albergues,Espańa,21.70,2014-04-01
+2014M05,Hoteles,La Rioja,17.40,2014-05-01
+2014M05,Hoteles,Espańa,31.30,2014-05-01
+2014M05,Camping,La Rioja,21.10,2014-05-01
+2014M05,Camping,Espańa,40.50,2014-05-01
+2014M05,Turismo Rural,La Rioja,22.50,2014-05-01
+2014M05,Turismo Rural,Espańa,23.40,2014-05-01
+2014M05,Apartamentos,La Rioja,21.80,2014-05-01
+2014M05,Apartamentos,Espańa,5.70,2014-05-01
+2014M05,Albergues,La Rioja,18.10,2014-05-01
+2014M05,Albergues,Espańa,19.50,2014-05-01
+2014M06,Hoteles,La Rioja,16.60,2014-06-01
+2014M06,Hoteles,Espańa,34.90,2014-06-01
+2014M06,Camping,La Rioja,22.60,2014-06-01
+2014M06,Camping,Espańa,42.40,2014-06-01
+2014M06,Turismo Rural,La Rioja,20.50,2014-06-01
+2014M06,Turismo Rural,Espańa,25.10,2014-06-01
+2014M06,Apartamentos,La Rioja,22.20,2014-06-01
+2014M06,Apartamentos,Espańa,62.40,2014-06-01
+2014M06,Albergues,La Rioja,18.60,2014-06-01
+2014M06,Albergues,Espańa,21.40,2014-06-01
+2014M07,Hoteles,La Rioja,17.10,2014-07-01
+2014M07,Hoteles,Espańa,38.10,2014-07-01
+2014M07,Camping,La Rioja,28.90,2014-07-01
+2014M07,Camping,Espańa,52.10,2014-07-01
+2014M07,Turismo Rural,La Rioja,2.50,2014-07-01
+2014M07,Turismo Rural,Espańa,3.30,2014-07-01
+2014M07,Apartamentos,La Rioja,26.20,2014-07-01
+2014M07,Apartamentos,Espańa,69.90,2014-07-01
+2014M07,Albergues,La Rioja,123.80,2014-07-01
+2014M07,Albergues,Espańa,40.20,2014-07-01
+2014M08,Hoteles,La Rioja,17.80,2014-08-01
+2014M08,Hoteles,Espańa,38.30,2014-08-01
+2014M08,Camping,La Rioja,46.70,2014-08-01
+2014M08,Camping,Espańa,5.40,2014-08-01
+2014M08,Turismo Rural,La Rioja,3.30,2014-08-01
+2014M08,Turismo Rural,Espańa,38.40,2014-08-01
+2014M08,Apartamentos,La Rioja,38.90,2014-08-01
+2014M08,Apartamentos,Espańa,73.20,2014-08-01
+2014M08,Albergues,La Rioja,50.20,2014-08-01
+2014M08,Albergues,Espańa,30.60,2014-08-01
+2014M09,Hoteles,La Rioja,17.50,2014-09-01
+2014M09,Hoteles,Espańa,36.20,2014-09-01
+2014M09,Camping,La Rioja,20.70,2014-09-01
+2014M09,Camping,Espańa,49.80,2014-09-01
+2014M09,Turismo Rural,La Rioja,19.60,2014-09-01
+2014M09,Turismo Rural,Espańa,26.20,2014-09-01
+2014M09,Apartamentos,La Rioja,23.60,2014-09-01
+2014M09,Apartamentos,Espańa,65.90,2014-09-01
+2014M09,Albergues,La Rioja,16.50,2014-09-01
+2014M09,Albergues,Espańa,22.90,2014-09-01
+2014M10,Hoteles,La Rioja,18.10,2014-10-01
+2014M10,Hoteles,Espańa,32.90,2014-10-01
+2014M10,Camping,La Rioja,0.20,2014-10-01
+2014M10,Camping,Espańa,50.20,2014-10-01
+2014M10,Turismo Rural,La Rioja,19.50,2014-10-01
+2014M10,Turismo Rural,Espańa,22.50,2014-10-01
+2014M10,Apartamentos,La Rioja,21.60,2014-10-01
+2014M10,Apartamentos,Espańa,65.90,2014-10-01
+2014M10,Albergues,La Rioja,13.40,2014-10-01
+2014M10,Albergues,Espańa,20.70,2014-10-01
+2014M11,Hoteles,La Rioja,17.90,2014-11-01
+2014M11,Hoteles,Espańa,29.40,2014-11-01
+2014M11,Camping,La Rioja,17.80,2014-11-01
+2014M11,Camping,Espańa,61.20,2014-11-01
+2014M11,Turismo Rural,La Rioja,24.60,2014-11-01
+2014M11,Turismo Rural,Espańa,21.80,2014-11-01
+2014M11,Apartamentos,La Rioja,20.90,2014-11-01
+2014M11,Apartamentos,Espańa,72.60,2014-11-01
+2014M11,Albergues,La Rioja,17.80,2014-11-01
+2014M11,Albergues,Espańa,20.40,2014-11-01
+2014M12,Hoteles,La Rioja,17.20,2014-12-01
+2014M12,Hoteles,Espańa,28.10,2014-12-01
+2014M12,Camping,La Rioja,18.60,2014-12-01
+2014M12,Camping,Espańa,6.80,2014-12-01
+2014M12,Turismo Rural,La Rioja,24.50,2014-12-01
+2014M12,Turismo Rural,Espańa,24.90,2014-12-01
+2014M12,Apartamentos,La Rioja,25.50,2014-12-01
+2014M12,Apartamentos,Espańa,0.70,2014-12-01
+2014M12,Albergues,La Rioja,21.80,2014-12-01
+2014M12,Albergues,Espańa,21.30,2014-12-01
+2015M01,Hoteles,La Rioja,16.50,2015-01-01
+2015M01,Hoteles,Espańa,31.40,2015-01-01
+2015M01,Camping,La Rioja,0.20,2015-01-01
+2015M01,Camping,Espańa,8.60,2015-01-01
+2015M01,Turismo Rural,La Rioja,27.20,2015-01-01
+2015M01,Turismo Rural,Espańa,25.20,2015-01-01
+2015M01,Apartamentos,La Rioja,21.30,2015-01-01
+2015M01,Apartamentos,Espańa,79.70,2015-01-01
+2015M01,Albergues,La Rioja,1.20,2015-01-01
+2015M01,Albergues,Espańa,25.30,2015-01-01
+2015M02,Hoteles,La Rioja,16.40,2015-02-01
+2015M02,Hoteles,Espańa,29.40,2015-02-01
+2015M02,Camping,La Rioja,18.90,2015-02-01
+2015M02,Camping,Espańa,79.50,2015-02-01
+2015M02,Turismo Rural,La Rioja,17.90,2015-02-01
+2015M02,Turismo Rural,Espańa,22.20,2015-02-01
+2015M02,Apartamentos,La Rioja,20.40,2015-02-01
+2015M02,Apartamentos,Espańa,72.90,2015-02-01
+2015M02,Albergues,La Rioja,17.80,2015-02-01
+2015M02,Albergues,Espańa,22.30,2015-02-01
+2015M03,Hoteles,La Rioja,16.20,2015-03-01
+2015M03,Hoteles,Espańa,30.30,2015-03-01
+2015M03,Camping,La Rioja,21.30,2015-03-01
+2015M03,Camping,Espańa,51.60,2015-03-01
+2015M03,Turismo Rural,La Rioja,20.20,2015-03-01
+2015M03,Turismo Rural,Espańa,22.70,2015-03-01
+2015M03,Apartamentos,La Rioja,21.20,2015-03-01
+2015M03,Apartamentos,Espańa,70.50,2015-03-01
+2015M03,Albergues,La Rioja,13.10,2015-03-01
+2015M03,Albergues,Espańa,21.50,2015-03-01
+2015M04,Hoteles,La Rioja,17.10,2015-04-01
+2015M04,Hoteles,Espańa,30.10,2015-04-01
+2015M04,Camping,La Rioja,24.60,2015-04-01
+2015M04,Camping,Espańa,41.40,2015-04-01
+2015M04,Turismo Rural,La Rioja,25.40,2015-04-01
+2015M04,Turismo Rural,Espańa,25.40,2015-04-01
+2015M04,Apartamentos,La Rioja,23.60,2015-04-01
+2015M04,Apartamentos,Espańa,57.10,2015-04-01
+2015M04,Albergues,La Rioja,22.80,2015-04-01
+2015M04,Albergues,Espańa,21.20,2015-04-01
+2015M05,Hoteles,La Rioja,16.50,2015-05-01
+2015M05,Hoteles,Espańa,30.90,2015-05-01
+2015M05,Camping,La Rioja,20.80,2015-05-01
+2015M05,Camping,Espańa,41.20,2015-05-01
+2015M05,Turismo Rural,La Rioja,20.70,2015-05-01
+2015M05,Turismo Rural,Espańa,22.80,2015-05-01
+2015M05,Apartamentos,La Rioja,23.30,2015-05-01
+2015M05,Apartamentos,Espańa,54.10,2015-05-01
+2015M05,Albergues,La Rioja,21.30,2015-05-01
+2015M05,Albergues,Espańa,20.10,2015-05-01
+2015M06,Hoteles,La Rioja,16.70,2015-06-01
+2015M06,Hoteles,Espańa,33.80,2015-06-01
+2015M06,Camping,La Rioja,23.20,2015-06-01
+2015M06,Camping,Espańa,41.30,2015-06-01
+2015M06,Turismo Rural,La Rioja,20.40,2015-06-01
+2015M06,Turismo Rural,Espańa,23.90,2015-06-01
+2015M06,Apartamentos,La Rioja,21.60,2015-06-01
+2015M06,Apartamentos,Espańa,60.40,2015-06-01
+2015M06,Albergues,La Rioja,0.20,2015-06-01
+2015M06,Albergues,Espańa,22.10,2015-06-01
+2015M07,Hoteles,La Rioja,16.50,2015-07-01
+2015M07,Hoteles,Espańa,37.50,2015-07-01
+2015M07,Camping,La Rioja,30.10,2015-07-01
+2015M07,Camping,Espańa,51.60,2015-07-01
+2015M07,Turismo Rural,La Rioja,23.30,2015-07-01
+2015M07,Turismo Rural,Espańa,32.20,2015-07-01
+2015M07,Apartamentos,La Rioja,23.20,2015-07-01
+2015M07,Apartamentos,Espańa,69.10,2015-07-01
+2015M07,Albergues,La Rioja,93.70,2015-07-01
+2015M07,Albergues,Espańa,39.40,2015-07-01
+2015M08,Hoteles,La Rioja,17.60,2015-08-01
+2015M08,Hoteles,Espańa,38.10,2015-08-01
+2015M08,Camping,La Rioja,4.20,2015-08-01
+2015M08,Camping,Espańa,55.10,2015-08-01
+2015M08,Turismo Rural,La Rioja,32.80,2015-08-01
+2015M08,Turismo Rural,Espańa,38.50,2015-08-01
+2015M08,Apartamentos,La Rioja,34.70,2015-08-01
+2015M08,Apartamentos,Espańa,72.50,2015-08-01
+2015M08,Albergues,La Rioja,48.10,2015-08-01
+2015M08,Albergues,Espańa,31.80,2015-08-01
+2015M09,Hoteles,La Rioja,1.70,2015-09-01
+2015M09,Hoteles,Espańa,35.80,2015-09-01
+2015M09,Camping,La Rioja,18.80,2015-09-01
+2015M09,Camping,Espańa,50.50,2015-09-01
+2015M09,Turismo Rural,La Rioja,20.60,2015-09-01
+2015M09,Turismo Rural,Espańa,25.20,2015-09-01
+2015M09,Apartamentos,La Rioja,21.50,2015-09-01
+2015M09,Apartamentos,Espańa,66.20,2015-09-01
+2015M09,Albergues,La Rioja,18.60,2015-09-01
+2015M09,Albergues,Espańa,22.80,2015-09-01
+2015M10,Hoteles,La Rioja,17.80,2015-10-01
+2015M10,Hoteles,Espańa,32.30,2015-10-01
+2015M10,Camping,La Rioja,21.70,2015-10-01
+2015M10,Camping,Espańa,48.80,2015-10-01
+2015M10,Turismo Rural,La Rioja,21.50,2015-10-01
+2015M10,Turismo Rural,Espańa,23.50,2015-10-01
+2015M10,Apartamentos,La Rioja,20.40,2015-10-01
+2015M10,Apartamentos,Espańa,61.70,2015-10-01
+2015M10,Albergues,La Rioja,17.20,2015-10-01
+2015M10,Albergues,Espańa,21.60,2015-10-01
+2015M11,Hoteles,La Rioja,17.90,2015-11-01
+2015M11,Hoteles,Espańa,28.80,2015-11-01
+2015M11,Camping,La Rioja,19.20,2015-11-01
+2015M11,Camping,Espańa,64.60,2015-11-01
+2015M11,Turismo Rural,La Rioja,20.80,2015-11-01
+2015M11,Turismo Rural,Espańa,22.20,2015-11-01
+2015M11,Apartamentos,La Rioja,19.50,2015-11-01
+2015M11,Apartamentos,Espańa,69.90,2015-11-01
+2015M11,Albergues,La Rioja,15.60,2015-11-01
+2015M11,Albergues,Espańa,20.30,2015-11-01
+2015M12,Hoteles,La Rioja,17.20,2015-12-01
+2015M12,Hoteles,Espańa,28.30,2015-12-01
+2015M12,Camping,La Rioja,15.90,2015-12-01
+2015M12,Camping,Espańa,69.90,2015-12-01
+2015M12,Turismo Rural,La Rioja,23.30,2015-12-01
+2015M12,Turismo Rural,Espańa,25.10,2015-12-01
+2015M12,Apartamentos,La Rioja,24.30,2015-12-01
+2015M12,Apartamentos,Espańa,6.60,2015-12-01
+2015M12,Albergues,La Rioja,23.60,2015-12-01
+2015M12,Albergues,Espańa,2.30,2015-12-01
+2016M01,Hoteles,La Rioja,17.50,2016-01-01
+2016M01,Hoteles,Espańa,30.90,2016-01-01
+2016M01,Camping,La Rioja,21.10,2016-01-01
+2016M01,Camping,Espańa,77.80,2016-01-01
+2016M01,Turismo Rural,La Rioja,25.40,2016-01-01
+2016M01,Turismo Rural,Espańa,25.50,2016-01-01
+2016M01,Apartamentos,La Rioja,2.90,2016-01-01
+2016M01,Apartamentos,Espańa,7.40,2016-01-01
+2016M01,Albergues,La Rioja,18.30,2016-01-01
+2016M01,Albergues,Espańa,2.30,2016-01-01
+2016M02,Hoteles,La Rioja,17.50,2016-02-01
+2016M02,Hoteles,Espańa,29.50,2016-02-01
+2016M02,Camping,La Rioja,20.20,2016-02-01
+2016M02,Camping,Espańa,72.10,2016-02-01
+2016M02,Turismo Rural,La Rioja,20.20,2016-02-01
+2016M02,Turismo Rural,Espańa,22.30,2016-02-01
+2016M02,Apartamentos,La Rioja,20.30,2016-02-01
+2016M02,Apartamentos,Espańa,0.70,2016-02-01
+2016M02,Albergues,La Rioja,16.10,2016-02-01
+2016M02,Albergues,Espańa,22.60,2016-02-01
+2016M03,Hoteles,La Rioja,18.70,2016-03-01
+2016M03,Hoteles,Espańa,30.50,2016-03-01
+2016M03,Camping,La Rioja,27.80,2016-03-01
+2016M03,Camping,Espańa,45.40,2016-03-01
+2016M03,Turismo Rural,La Rioja,2.60,2016-03-01
+2016M03,Turismo Rural,Espańa,26.90,2016-03-01
+2016M03,Apartamentos,La Rioja,26.10,2016-03-01
+2016M03,Apartamentos,Espańa,63.70,2016-03-01
+2016M03,Albergues,La Rioja,18.50,2016-03-01
+2016M03,Albergues,Espańa,23.40,2016-03-01
+2016M04,Hoteles,La Rioja,16.60,2016-04-01
+2016M04,Hoteles,Espańa,29.80,2016-04-01
+2016M04,Camping,La Rioja,24.10,2016-04-01
+2016M04,Camping,Espańa,42.40,2016-04-01
+2016M04,Turismo Rural,La Rioja,19.70,2016-04-01
+2016M04,Turismo Rural,Espańa,22.50,2016-04-01
+2016M04,Apartamentos,La Rioja,20.50,2016-04-01
+2016M04,Apartamentos,Espańa,55.20,2016-04-01
+2016M04,Albergues,La Rioja,17.50,2016-04-01
+2016M04,Albergues,Espańa,2.10,2016-04-01
+2016M05,Hoteles,La Rioja,1.60,2016-05-01
+2016M05,Hoteles,Espańa,31.80,2016-05-01
+2016M05,Camping,La Rioja,22.70,2016-05-01
+2016M05,Camping,Espańa,43.10,2016-05-01
+2016M05,Turismo Rural,La Rioja,20.30,2016-05-01
+2016M05,Turismo Rural,Espańa,23.50,2016-05-01
+2016M05,Apartamentos,La Rioja,20.60,2016-05-01
+2016M05,Apartamentos,Espańa,54.60,2016-05-01
+2016M05,Albergues,La Rioja,15.50,2016-05-01
+2016M05,Albergues,Espańa,20.30,2016-05-01
+2016M06,Hoteles,La Rioja,16.30,2016-06-01
+2016M06,Hoteles,Espańa,33.80,2016-06-01
+2016M06,Camping,La Rioja,23.20,2016-06-01
+2016M06,Camping,Espańa,4.10,2016-06-01
+2016M06,Turismo Rural,La Rioja,19.70,2016-06-01
+2016M06,Turismo Rural,Espańa,24.30,2016-06-01
+2016M06,Apartamentos,La Rioja,19.80,2016-06-01
+2016M06,Apartamentos,Espańa,59.10,2016-06-01
+2016M06,Albergues,La Rioja,25.80,2016-06-01
+2016M06,Albergues,Espańa,22.30,2016-06-01
+2016M07,Hoteles,La Rioja,17.80,2016-07-01
+2016M07,Hoteles,Espańa,3.70,2016-07-01
+2016M07,Camping,La Rioja,29.60,2016-07-01
+2016M07,Camping,Espańa,47.90,2016-07-01
+2016M07,Turismo Rural,La Rioja,21.90,2016-07-01
+2016M07,Turismo Rural,Espańa,31.70,2016-07-01
+2016M07,Apartamentos,La Rioja,28.90,2016-07-01
+2016M07,Apartamentos,Espańa,65.90,2016-07-01
+2016M07,Albergues,La Rioja,6.30,2016-07-01
+2016M07,Albergues,Espańa,39.20,2016-07-01
+2016M08,Hoteles,La Rioja,18.70,2016-08-01
+2016M08,Hoteles,Espańa,38.20,2016-08-01
+2016M08,Camping,La Rioja,42.30,2016-08-01
+2016M08,Camping,Espańa,54.10,2016-08-01
+2016M08,Turismo Rural,La Rioja,28.50,2016-08-01
+2016M08,Turismo Rural,Espańa,38.70,2016-08-01
+2016M08,Apartamentos,La Rioja,33.40,2016-08-01
+2016M08,Apartamentos,Espańa,7.20,2016-08-01
+2016M08,Albergues,La Rioja,41.20,2016-08-01
+2016M08,Albergues,Espańa,32.90,2016-08-01
+2016M09,Hoteles,La Rioja,17.60,2016-09-01
+2016M09,Hoteles,Espańa,35.50,2016-09-01
+2016M09,Camping,La Rioja,19.20,2016-09-01
+2016M09,Camping,Espańa,45.60,2016-09-01
+2016M09,Turismo Rural,La Rioja,19.40,2016-09-01
+2016M09,Turismo Rural,Espańa,25.40,2016-09-01
+2016M09,Apartamentos,La Rioja,20.50,2016-09-01
+2016M09,Apartamentos,Espańa,62.40,2016-09-01
+2016M09,Albergues,La Rioja,14.60,2016-09-01
+2016M09,Albergues,Espańa,21.60,2016-09-01
+2016M10,Hoteles,La Rioja,18.80,2016-10-01
+2016M10,Hoteles,Espańa,3.30,2016-10-01
+2016M10,Camping,La Rioja,24.20,2016-10-01
+2016M10,Camping,Espańa,48.70,2016-10-01
+2016M10,Turismo Rural,La Rioja,20.80,2016-10-01
+2016M10,Turismo Rural,Espańa,24.10,2016-10-01
+2016M10,Apartamentos,La Rioja,21.70,2016-10-01
+2016M10,Apartamentos,Espańa,61.70,2016-10-01
+2016M10,Albergues,La Rioja,12.60,2016-10-01
+2016M10,Albergues,Espańa,21.40,2016-10-01
+2016M11,Hoteles,La Rioja,17.30,2016-11-01
+2016M11,Hoteles,Espańa,29.60,2016-11-01
+2016M11,Camping,La Rioja,19.90,2016-11-01
+2016M11,Camping,Espańa,64.40,2016-11-01
+2016M11,Turismo Rural,La Rioja,19.10,2016-11-01
+2016M11,Turismo Rural,Espańa,22.10,2016-11-01
+2016M11,Apartamentos,La Rioja,18.50,2016-11-01
+2016M11,Apartamentos,Espańa,67.90,2016-11-01
+2016M11,Albergues,La Rioja,15.10,2016-11-01
+2016M11,Albergues,Espańa,20.70,2016-11-01
+2016M12,Hoteles,La Rioja,18.10,2016-12-01
+2016M12,Hoteles,Espańa,28.90,2016-12-01
+2016M12,Camping,La Rioja,19.40,2016-12-01
+2016M12,Camping,Espańa,69.30,2016-12-01
+2016M12,Turismo Rural,La Rioja,23.30,2016-12-01
+2016M12,Turismo Rural,Espańa,24.80,2016-12-01
+2016M12,Apartamentos,La Rioja,23.70,2016-12-01
+2016M12,Apartamentos,Espańa,61.10,2016-12-01
+2016M12,Albergues,La Rioja,16.40,2016-12-01
+2016M12,Albergues,Espańa,22.40,2016-12-01
+2017M01,Hoteles,La Rioja,17.30,2017-01-01
+2017M01,Hoteles,Espańa,30.50,2017-01-01
+2017M01,Camping,La Rioja,21.40,2017-01-01
+2017M01,Camping,Espańa,84.50,2017-01-01
+2017M01,Turismo Rural,La Rioja,18.50,2017-01-01
+2017M01,Turismo Rural,Espańa,24.30,2017-01-01
+2017M01,Apartamentos,La Rioja,21.60,2017-01-01
+2017M01,Apartamentos,Espańa,73.60,2017-01-01
+2017M01,Albergues,Espańa,25.10,2017-01-01
+2017M02,Hoteles,La Rioja,16.60,2017-02-01
+2017M02,Hoteles,Espańa,28.70,2017-02-01
+2017M02,Camping,La Rioja,20.60,2017-02-01
+2017M02,Camping,Espańa,72.20,2017-02-01
+2017M02,Turismo Rural,La Rioja,1.80,2017-02-01
+2017M02,Turismo Rural,Espańa,2.20,2017-02-01
+2017M02,Apartamentos,La Rioja,21.20,2017-02-01
+2017M02,Apartamentos,Espańa,67.20,2017-02-01
+2017M02,Albergues,La Rioja,22.10,2017-02-01
+2017M02,Albergues,Espańa,25.50,2017-02-01
+2017M03,Hoteles,La Rioja,17.70,2017-03-01
+2017M03,Hoteles,Espańa,29.60,2017-03-01
+2017M03,Camping,La Rioja,23.10,2017-03-01
+2017M03,Camping,Espańa,51.80,2017-03-01
+2017M03,Turismo Rural,La Rioja,18.10,2017-03-01
+2017M03,Turismo Rural,Espańa,21.50,2017-03-01
+2017M03,Apartamentos,La Rioja,21.40,2017-03-01
+2017M03,Apartamentos,Espańa,63.90,2017-03-01
+2017M03,Albergues,La Rioja,14.60,2017-03-01
+2017M03,Albergues,Espańa,22.70,2017-03-01
+2017M04,Hoteles,La Rioja,17.50,2017-04-01
+2017M04,Hoteles,Espańa,29.90,2017-04-01
+2017M04,Camping,La Rioja,29.10,2017-04-01
+2017M04,Camping,Espańa,38.80,2017-04-01
+2017M04,Turismo Rural,La Rioja,26.70,2017-04-01
+2017M04,Turismo Rural,Espańa,26.40,2017-04-01
+2017M04,Apartamentos,La Rioja,27.80,2017-04-01
+2017M04,Apartamentos,Espańa,51.30,2017-04-01
+2017M04,Albergues,La Rioja,20.70,2017-04-01
+2017M04,Albergues,Espańa,23.10,2017-04-01
+2017M05,Hoteles,La Rioja,1.70,2017-05-01
+2017M05,Hoteles,Espańa,31.90,2017-05-01
+2017M05,Camping,La Rioja,21.30,2017-05-01
+2017M05,Camping,Espańa,4.20,2017-05-01
+2017M05,Turismo Rural,La Rioja,20.30,2017-05-01
+2017M05,Turismo Rural,Espańa,23.10,2017-05-01
+2017M05,Apartamentos,La Rioja,21.60,2017-05-01
+2017M05,Apartamentos,Espańa,53.50,2017-05-01
+2017M05,Albergues,La Rioja,18.10,2017-05-01
+2017M05,Albergues,Espańa,21.70,2017-05-01
+2017M06,Hoteles,La Rioja,18.20,2017-06-01
+2017M06,Hoteles,Espańa,34.40,2017-06-01
+2017M06,Camping,La Rioja,20.90,2017-06-01
+2017M06,Camping,Espańa,39.40,2017-06-01
+2017M06,Turismo Rural,La Rioja,19.20,2017-06-01
+2017M06,Turismo Rural,Espańa,23.90,2017-06-01
+2017M06,Apartamentos,La Rioja,21.40,2017-06-01
+2017M06,Apartamentos,Espańa,56.10,2017-06-01
+2017M06,Albergues,La Rioja,1.90,2017-06-01
+2017M06,Albergues,Espańa,23.30,2017-06-01
+2017M07,Hoteles,La Rioja,17.70,2017-07-01
+2017M07,Hoteles,Espańa,36.60,2017-07-01
+2017M07,Camping,La Rioja,27.50,2017-07-01
+2017M07,Camping,Espańa,49.40,2017-07-01
+2017M07,Turismo Rural,La Rioja,21.70,2017-07-01
+2017M07,Turismo Rural,Espańa,31.60,2017-07-01
+2017M07,Apartamentos,La Rioja,24.90,2017-07-01
+2017M07,Apartamentos,Espańa,64.70,2017-07-01
+2017M07,Albergues,La Rioja,40.70,2017-07-01
+2017M07,Albergues,Espańa,39.20,2017-07-01
+2017M08,Hoteles,La Rioja,18.60,2017-08-01
+2017M08,Hoteles,Espańa,37.80,2017-08-01
+2017M08,Camping,La Rioja,34.50,2017-08-01
+2017M08,Camping,Espańa,54.60,2017-08-01
+2017M08,Turismo Rural,La Rioja,27.60,2017-08-01
+2017M08,Turismo Rural,Espańa,38.90,2017-08-01
+2017M08,Apartamentos,La Rioja,31.90,2017-08-01
+2017M08,Apartamentos,Espańa,70.50,2017-08-01
+2017M08,Albergues,La Rioja,22.50,2017-08-01
+2017M08,Albergues,Espańa,34.20,2017-08-01
+2017M09,Hoteles,La Rioja,17.90,2017-09-01
+2017M09,Hoteles,Espańa,34.70,2017-09-01
+2017M09,Camping,La Rioja,18.40,2017-09-01
+2017M09,Camping,Espańa,44.90,2017-09-01
+2017M09,Turismo Rural,La Rioja,2.10,2017-09-01
+2017M09,Turismo Rural,Espańa,25.40,2017-09-01
+2017M09,Apartamentos,La Rioja,22.20,2017-09-01
+2017M09,Apartamentos,Espańa,59.30,2017-09-01
+2017M09,Albergues,La Rioja,15.20,2017-09-01
+2017M09,Albergues,Espańa,24.40,2017-09-01
+2017M10,Hoteles,La Rioja,18.10,2017-10-01
+2017M10,Hoteles,Espańa,32.70,2017-10-01
+2017M10,Camping,La Rioja,24.10,2017-10-01
+2017M10,Camping,Espańa,48.30,2017-10-01
+2017M10,Turismo Rural,La Rioja,21.80,2017-10-01
+2017M10,Turismo Rural,Espańa,24.80,2017-10-01
+2017M10,Apartamentos,La Rioja,22.50,2017-10-01
+2017M10,Apartamentos,Espańa,59.70,2017-10-01
+2017M10,Albergues,La Rioja,16.40,2017-10-01
+2017M10,Albergues,Espańa,23.70,2017-10-01
+2017M11,Hoteles,La Rioja,17.80,2017-11-01
+2017M11,Hoteles,Espańa,28.90,2017-11-01
+2017M11,Camping,La Rioja,20.50,2017-11-01
+2017M11,Camping,Espańa,64.20,2017-11-01
+2017M11,Turismo Rural,La Rioja,18.90,2017-11-01
+2017M11,Turismo Rural,Espańa,21.60,2017-11-01
+2017M11,Apartamentos,La Rioja,23.30,2017-11-01
+2017M11,Apartamentos,Espańa,65.50,2017-11-01
+2017M11,Albergues,La Rioja,17.50,2017-11-01
+2017M11,Albergues,Espańa,23.90,2017-11-01
+2017M12,Hoteles,La Rioja,1.80,2017-12-01
+2017M12,Hoteles,Espańa,27.90,2017-12-01
+2017M12,Camping,La Rioja,17.70,2017-12-01
+2017M12,Camping,Espańa,69.40,2017-12-01
+2017M12,Turismo Rural,La Rioja,2.60,2017-12-01
+2017M12,Turismo Rural,Espańa,26.20,2017-12-01
+2017M12,Apartamentos,La Rioja,25.80,2017-12-01
+2017M12,Apartamentos,Espańa,59.80,2017-12-01
+2017M12,Albergues,La Rioja,24.80,2017-12-01
+2017M12,Albergues,Espańa,25.20,2017-12-01
+2018M01,Hoteles,La Rioja,16.50,2018-01-01
+2018M01,Hoteles,Espańa,0.30,2018-01-01
+2018M01,Camping,La Rioja,21.60,2018-01-01
+2018M01,Camping,Espańa,88.10,2018-01-01
+2018M01,Turismo Rural,La Rioja,18.90,2018-01-01
+2018M01,Turismo Rural,Espańa,23.10,2018-01-01
+2018M01,Apartamentos,La Rioja,25.70,2018-01-01
+2018M01,Apartamentos,Espańa,71.70,2018-01-01
+2018M01,Albergues,La Rioja,1.40,2018-01-01
+2018M01,Albergues,Espańa,27.10,2018-01-01
+2018M02,Hoteles,La Rioja,17.10,2018-02-01
+2018M02,Hoteles,Espańa,28.40,2018-02-01
+2018M02,Camping,La Rioja,20.40,2018-02-01
+2018M02,Camping,Espańa,73.90,2018-02-01
+2018M02,Turismo Rural,La Rioja,19.20,2018-02-01
+2018M02,Turismo Rural,Espańa,22.20,2018-02-01
+2018M02,Apartamentos,La Rioja,26.70,2018-02-01
+2018M02,Apartamentos,Espańa,64.60,2018-02-01
+2018M02,Albergues,La Rioja,15.30,2018-02-01
+2018M02,Albergues,Espańa,24.10,2018-02-01
+2018M03,Hoteles,La Rioja,18.30,2018-03-01
+2018M03,Hoteles,Espańa,29.10,2018-03-01
+2018M03,Camping,La Rioja,26.90,2018-03-01
+2018M03,Camping,Espańa,45.40,2018-03-01
+2018M03,Turismo Rural,La Rioja,24.40,2018-03-01
+2018M03,Turismo Rural,Espańa,25.20,2018-03-01
+2018M03,Apartamentos,La Rioja,2.60,2018-03-01
+2018M03,Apartamentos,Espańa,59.20,2018-03-01
+2018M03,Albergues,La Rioja,1.50,2018-03-01
+2018M03,Albergues,Espańa,22.80,2018-03-01
+2018M04,Hoteles,La Rioja,17.80,2018-04-01
+2018M04,Hoteles,Espańa,29.70,2018-04-01
+2018M04,Camping,La Rioja,27.30,2018-04-01
+2018M04,Camping,Espańa,43.20,2018-04-01
+2018M04,Turismo Rural,La Rioja,22.30,2018-04-01
+2018M04,Turismo Rural,Espańa,23.90,2018-04-01
+2018M04,Apartamentos,La Rioja,27.10,2018-04-01
+2018M04,Apartamentos,Espańa,52.40,2018-04-01
+2018M04,Albergues,La Rioja,16.20,2018-04-01
+2018M04,Albergues,Espańa,23.20,2018-04-01
+2018M05,Hoteles,La Rioja,1.70,2018-05-01
+2018M05,Hoteles,Espańa,31.80,2018-05-01
+2018M05,Camping,La Rioja,19.30,2018-05-01
+2018M05,Camping,Espańa,44.30,2018-05-01
+2018M05,Turismo Rural,La Rioja,19.40,2018-05-01
+2018M05,Turismo Rural,Espańa,23.30,2018-05-01
+2018M05,Apartamentos,La Rioja,22.90,2018-05-01
+2018M05,Apartamentos,Espańa,52.40,2018-05-01
+2018M05,Albergues,La Rioja,11.80,2018-05-01
+2018M05,Albergues,Espańa,21.30,2018-05-01
+2018M06,Hoteles,La Rioja,17.70,2018-06-01
+2018M06,Hoteles,Espańa,33.30,2018-06-01
+2018M06,Camping,La Rioja,2.10,2018-06-01
+2018M06,Camping,Espańa,40.30,2018-06-01
+2018M06,Turismo Rural,La Rioja,19.30,2018-06-01
+2018M06,Turismo Rural,Espańa,2.40,2018-06-01
+2018M06,Apartamentos,La Rioja,25.60,2018-06-01
+2018M06,Apartamentos,Espańa,53.80,2018-06-01
+2018M06,Albergues,La Rioja,17.90,2018-06-01
+2018M06,Albergues,Espańa,24.20,2018-06-01
+2018M07,Hoteles,La Rioja,17.90,2018-07-01
+2018M07,Hoteles,Espańa,36.50,2018-07-01
+2018M07,Camping,La Rioja,28.60,2018-07-01
+2018M07,Camping,Espańa,50.30,2018-07-01
+2018M07,Turismo Rural,La Rioja,2.80,2018-07-01
+2018M07,Turismo Rural,Espańa,3.20,2018-07-01
+2018M07,Apartamentos,La Rioja,29.60,2018-07-01
+2018M07,Apartamentos,Espańa,62.20,2018-07-01
+2018M07,Albergues,La Rioja,32.70,2018-07-01
+2018M07,Albergues,Espańa,42.20,2018-07-01
+2018M08,Hoteles,La Rioja,18.20,2018-08-01
+2018M08,Hoteles,Espańa,3.70,2018-08-01
+2018M08,Camping,La Rioja,33.90,2018-08-01
+2018M08,Camping,Espańa,53.60,2018-08-01
+2018M08,Turismo Rural,La Rioja,32.20,2018-08-01
+2018M08,Turismo Rural,Espańa,37.40,2018-08-01
+2018M08,Apartamentos,La Rioja,37.60,2018-08-01
+2018M08,Apartamentos,Espańa,66.90,2018-08-01
+2018M08,Albergues,La Rioja,18.60,2018-08-01
+2018M08,Albergues,Espańa,31.90,2018-08-01
+2018M09,Hoteles,La Rioja,17.70,2018-09-01
+2018M09,Hoteles,Espańa,34.30,2018-09-01
+2018M09,Camping,La Rioja,20.20,2018-09-01
+2018M09,Camping,Espańa,45.20,2018-09-01
+2018M09,Turismo Rural,La Rioja,19.70,2018-09-01
+2018M09,Turismo Rural,Espańa,24.90,2018-09-01
+2018M09,Apartamentos,La Rioja,23.50,2018-09-01
+2018M09,Apartamentos,Espańa,57.50,2018-09-01
+2018M09,Albergues,La Rioja,12.40,2018-09-01
+2018M09,Albergues,Espańa,26.10,2018-09-01
+2018M10,Hoteles,La Rioja,18.20,2018-10-01
+2018M10,Hoteles,Espańa,32.20,2018-10-01
+2018M10,Camping,La Rioja,21.80,2018-10-01
+2018M10,Camping,Espańa,47.80,2018-10-01
+2018M10,Turismo Rural,La Rioja,21.10,2018-10-01
+2018M10,Turismo Rural,Espańa,23.90,2018-10-01
+2018M10,Apartamentos,La Rioja,21.80,2018-10-01
+2018M10,Apartamentos,Espańa,58.80,2018-10-01
+2018M10,Albergues,La Rioja,13.10,2018-10-01
+2018M10,Albergues,Espańa,24.10,2018-10-01
+2018M11,Hoteles,La Rioja,18.30,2018-11-01
+2018M11,Hoteles,Espańa,28.20,2018-11-01
+2018M11,Camping,La Rioja,23.90,2018-11-01
+2018M11,Camping,Espańa,61.30,2018-11-01
+2018M11,Turismo Rural,La Rioja,21.70,2018-11-01
+2018M11,Turismo Rural,Espańa,22.10,2018-11-01
+2018M11,Apartamentos,La Rioja,24.40,2018-11-01
+2018M11,Apartamentos,Espańa,61.90,2018-11-01
+2018M11,Albergues,La Rioja,18.10,2018-11-01
+2018M11,Albergues,Espańa,25.30,2018-11-01
+2018M12,Hoteles,La Rioja,17.70,2018-12-01
+2018M12,Hoteles,Espańa,27.40,2018-12-01
+2018M12,Camping,La Rioja,15.40,2018-12-01
+2018M12,Camping,Espańa,68.40,2018-12-01
+2018M12,Turismo Rural,La Rioja,30.20,2018-12-01
+2018M12,Turismo Rural,Espańa,26.10,2018-12-01
+2018M12,Apartamentos,La Rioja,27.50,2018-12-01
+2018M12,Apartamentos,Espańa,58.40,2018-12-01
+2018M12,Albergues,La Rioja,24.60,2018-12-01
+2018M12,Albergues,Espańa,28.80,2018-12-01
+2019M01,Hoteles,La Rioja,17.30,2019-01-01
+2019M01,Hoteles,Espańa,29.50,2019-01-01
+2019M01,Camping,La Rioja,22.70,2019-01-01
+2019M01,Camping,Espańa,87.80,2019-01-01
+2019M01,Turismo Rural,La Rioja,0.20,2019-01-01
+2019M01,Turismo Rural,Espańa,23.10,2019-01-01
+2019M01,Apartamentos,La Rioja,23.80,2019-01-01
+2019M01,Apartamentos,Espańa,70.50,2019-01-01
+2019M01,Albergues,La Rioja,14.20,2019-01-01
+2019M01,Albergues,Espańa,32.40,2019-01-01
+2019M02,Hoteles,La Rioja,16.60,2019-02-01
+2019M02,Hoteles,Espańa,27.60,2019-02-01
+2019M02,Camping,La Rioja,26.80,2019-02-01
+2019M02,Camping,Espańa,69.20,2019-02-01
+2019M02,Turismo Rural,La Rioja,18.70,2019-02-01
+2019M02,Turismo Rural,Espańa,20.90,2019-02-01
+2019M02,Apartamentos,La Rioja,19.50,2019-02-01
+2019M02,Apartamentos,Espańa,61.50,2019-02-01
+2019M02,Albergues,La Rioja,14.50,2019-02-01
+2019M02,Albergues,Espańa,27.50,2019-02-01
+2019M03,Hoteles,La Rioja,17.60,2019-03-01
+2019M03,Hoteles,Espańa,28.60,2019-03-01
+2019M03,Camping,La Rioja,24.40,2019-03-01
+2019M03,Camping,Espańa,4.80,2019-03-01
+2019M03,Turismo Rural,La Rioja,19.10,2019-03-01
+2019M03,Turismo Rural,Espańa,21.40,2019-03-01
+2019M03,Apartamentos,La Rioja,25.60,2019-03-01
+2019M03,Apartamentos,Espańa,57.30,2019-03-01
+2019M03,Albergues,La Rioja,1.60,2019-03-01
+2019M03,Albergues,Espańa,24.40,2019-03-01
+2019M04,Hoteles,La Rioja,17.90,2019-04-01
+2019M04,Hoteles,Espańa,29.30,2019-04-01
+2019M04,Camping,La Rioja,35.40,2019-04-01
+2019M04,Camping,Espańa,4.20,2019-04-01
+2019M04,Turismo Rural,La Rioja,2.50,2019-04-01
+2019M04,Turismo Rural,Espańa,26.60,2019-04-01
+2019M04,Apartamentos,La Rioja,25.80,2019-04-01
+2019M04,Apartamentos,Espańa,50.90,2019-04-01
+2019M04,Albergues,La Rioja,17.40,2019-04-01
+2019M04,Albergues,Espańa,25.90,2019-04-01
+2019M05,Hoteles,La Rioja,16.90,2019-05-01
+2019M05,Hoteles,Espańa,30.40,2019-05-01
+2019M05,Camping,La Rioja,20.80,2019-05-01
+2019M05,Camping,Espańa,39.70,2019-05-01
+2019M05,Turismo Rural,La Rioja,19.70,2019-05-01
+2019M05,Turismo Rural,Espańa,23.10,2019-05-01
+2019M05,Apartamentos,La Rioja,18.50,2019-05-01
+2019M05,Apartamentos,Espańa,49.70,2019-05-01
+2019M05,Albergues,La Rioja,1.40,2019-05-01
+2019M05,Albergues,Espańa,22.70,2019-05-01
+2019M06,Hoteles,La Rioja,17.40,2019-06-01
+2019M06,Hoteles,Espańa,32.70,2019-06-01
+2019M06,Camping,La Rioja,22.60,2019-06-01
+2019M06,Camping,Espańa,39.80,2019-06-01
+2019M06,Turismo Rural,La Rioja,20.40,2019-06-01
+2019M06,Turismo Rural,Espańa,2.40,2019-06-01
+2019M06,Apartamentos,La Rioja,22.30,2019-06-01
+2019M06,Apartamentos,Espańa,51.80,2019-06-01
+2019M06,Albergues,La Rioja,22.30,2019-06-01
+2019M06,Albergues,Espańa,24.20,2019-06-01
+2019M07,Hoteles,La Rioja,17.50,2019-07-01
+2019M07,Hoteles,Espańa,35.60,2019-07-01
+2019M07,Camping,La Rioja,31.20,2019-07-01
+2019M07,Camping,Espańa,51.30,2019-07-01
+2019M07,Turismo Rural,La Rioja,23.10,2019-07-01
+2019M07,Turismo Rural,Espańa,31.50,2019-07-01
+2019M07,Apartamentos,La Rioja,24.70,2019-07-01
+2019M07,Apartamentos,Espańa,60.30,2019-07-01
+2019M07,Albergues,La Rioja,33.10,2019-07-01
+2019M07,Albergues,Espańa,41.70,2019-07-01
+2019M08,Hoteles,La Rioja,17.40,2019-08-01
+2019M08,Hoteles,Espańa,36.10,2019-08-01
+2019M08,Camping,La Rioja,34.70,2019-08-01
+2019M08,Camping,Espańa,52.50,2019-08-01
+2019M08,Turismo Rural,La Rioja,29.60,2019-08-01
+2019M08,Turismo Rural,Espańa,36.60,2019-08-01
+2019M08,Apartamentos,La Rioja,35.50,2019-08-01
+2019M08,Apartamentos,Espańa,63.10,2019-08-01
+2019M08,Albergues,La Rioja,19.20,2019-08-01
+2019M08,Albergues,Espańa,3.10,2019-08-01
+2019M09,Hoteles,La Rioja,17.60,2019-09-01
+2019M09,Hoteles,Espańa,3.40,2019-09-01
+2019M09,Camping,La Rioja,21.40,2019-09-01
+2019M09,Camping,Espańa,47.90,2019-09-01
+2019M09,Turismo Rural,La Rioja,19.80,2019-09-01
+2019M09,Turismo Rural,Espańa,25.40,2019-09-01
+2019M09,Apartamentos,La Rioja,22.30,2019-09-01
+2019M09,Apartamentos,Espańa,56.60,2019-09-01
+2019M09,Albergues,La Rioja,13.70,2019-09-01
+2019M09,Albergues,Espańa,2.40,2019-09-01
+2019M10,Hoteles,La Rioja,17.70,2019-10-01
+2019M10,Hoteles,Espańa,31.10,2019-10-01
+2019M10,Camping,La Rioja,20.50,2019-10-01
+2019M10,Camping,Espańa,45.70,2019-10-01
+2019M10,Turismo Rural,La Rioja,1.90,2019-10-01
+2019M10,Turismo Rural,Espańa,22.30,2019-10-01
+2019M10,Apartamentos,La Rioja,19.30,2019-10-01
+2019M10,Apartamentos,Espańa,54.10,2019-10-01
+2019M10,Albergues,La Rioja,1.30,2019-10-01
+2019M10,Albergues,Espańa,22.50,2019-10-01
+2019M11,Hoteles,La Rioja,17.70,2019-11-01
+2019M11,Hoteles,Espańa,27.40,2019-11-01
+2019M11,Camping,La Rioja,24.90,2019-11-01
+2019M11,Camping,Espańa,57.60,2019-11-01
+2019M11,Turismo Rural,La Rioja,22.50,2019-11-01
+2019M11,Turismo Rural,Espańa,21.40,2019-11-01
+2019M11,Apartamentos,La Rioja,25.40,2019-11-01
+2019M11,Apartamentos,Espańa,57.40,2019-11-01
+2019M11,Albergues,La Rioja,17.10,2019-11-01
+2019M11,Albergues,Espańa,23.90,2019-11-01
+2019M12,Hoteles,La Rioja,17.70,2019-12-01
+2019M12,Hoteles,Espańa,27.20,2019-12-01
+2019M12,Camping,La Rioja,1.50,2019-12-01
+2019M12,Camping,Espańa,66.30,2019-12-01
+2019M12,Turismo Rural,La Rioja,28.60,2019-12-01
+2019M12,Turismo Rural,Espańa,25.70,2019-12-01
+2019M12,Apartamentos,La Rioja,24.80,2019-12-01
+2019M12,Apartamentos,Espańa,56.30,2019-12-01
+2019M12,Albergues,La Rioja,19.50,2019-12-01
+2019M12,Albergues,Espańa,27.80,2019-12-01
+2020M01,Hoteles,La Rioja,16.30,2020-01-01
+2020M01,Hoteles,Espańa,28.60,2020-01-01
+2020M01,Camping,La Rioja,21.60,2020-01-01
+2020M01,Camping,Espańa,81.80,2020-01-01
+2020M01,Turismo Rural,La Rioja,24.70,2020-01-01
+2020M01,Turismo Rural,Espańa,22.80,2020-01-01
+2020M01,Apartamentos,La Rioja,19.90,2020-01-01
+2020M01,Apartamentos,Espańa,65.90,2020-01-01
+2020M01,Albergues,La Rioja,24.70,2020-01-01
+2020M01,Albergues,Espańa,29.60,2020-01-01
+2020M02,Hoteles,La Rioja,17.40,2020-02-01
+2020M02,Hoteles,Espańa,27.30,2020-02-01
+2020M02,Camping,La Rioja,25.50,2020-02-01
+2020M02,Camping,Espańa,62.40,2020-02-01
+2020M02,Turismo Rural,La Rioja,17.90,2020-02-01
+2020M02,Turismo Rural,Espańa,21.70,2020-02-01
+2020M02,Apartamentos,La Rioja,21.40,2020-02-01
+2020M02,Apartamentos,Espańa,57.90,2020-02-01
+2020M02,Albergues,La Rioja,18.10,2020-02-01
+2020M02,Albergues,Espańa,27.20,2020-02-01
+2020M03,Hoteles,La Rioja,18.90,2020-03-01
+2020M03,Hoteles,Espańa,31.50,2020-03-01
+2020M03,Camping,La Rioja,2.30,2020-03-01
+2020M03,Camping,Espańa,88.30,2020-03-01
+2020M03,Turismo Rural,La Rioja,23.10,2020-03-01
+2020M03,Turismo Rural,Espańa,26.50,2020-03-01
+2020M03,Apartamentos,La Rioja,39.90,2020-03-01
+2020M03,Apartamentos,Espańa,83.20,2020-03-01
+2020M03,Albergues,La Rioja,1.80,2020-03-01
+2020M03,Albergues,Espańa,31.80,2020-03-01
+2020M05,Hoteles,La Rioja,1.90,2020-05-01
+2020M05,Hoteles,Espańa,27.50,2020-05-01
+2020M05,Camping,Espańa,59.90,2020-05-01
+2020M05,Turismo Rural,La Rioja,36.70,2020-05-01
+2020M05,Turismo Rural,Espańa,45.10,2020-05-01
+2020M05,Apartamentos,La Rioja,50.20,2020-05-01
+2020M05,Apartamentos,Espańa,9.30,2020-05-01
+2020M05,Albergues,Espańa,212.90,2020-05-01
+2020M06,Hoteles,La Rioja,17.50,2020-06-01
+2020M06,Hoteles,Espańa,19.80,2020-06-01
+2020M06,Camping,La Rioja,31.50,2020-06-01
+2020M06,Camping,Espańa,35.10,2020-06-01
+2020M06,Turismo Rural,La Rioja,22.60,2020-06-01
+2020M06,Turismo Rural,Espańa,23.90,2020-06-01
+2020M06,Apartamentos,La Rioja,30.50,2020-06-01
+2020M06,Apartamentos,Espańa,39.50,2020-06-01
+2020M06,Albergues,Espańa,42.70,2020-06-01
+2020M07,Hoteles,La Rioja,17.50,2020-07-01
+2020M07,Hoteles,Espańa,26.60,2020-07-01
+2020M07,Camping,La Rioja,39.20,2020-07-01
+2020M07,Camping,Espańa,4.30,2020-07-01
+2020M07,Turismo Rural,La Rioja,23.70,2020-07-01
+2020M07,Turismo Rural,Espańa,33.80,2020-07-01
+2020M07,Apartamentos,La Rioja,0.30,2020-07-01
+2020M07,Apartamentos,Espańa,50.20,2020-07-01
+2020M07,Albergues,La Rioja,43.60,2020-07-01
+2020M07,Albergues,Espańa,41.30,2020-07-01
+2020M08,Hoteles,La Rioja,17.60,2020-08-01
+2020M08,Hoteles,Espańa,28.60,2020-08-01
+2020M08,Camping,La Rioja,55.30,2020-08-01
+2020M08,Camping,Espańa,48.10,2020-08-01
+2020M08,Turismo Rural,La Rioja,35.20,2020-08-01
+2020M08,Turismo Rural,Espańa,39.40,2020-08-01
+2020M08,Apartamentos,La Rioja,37.50,2020-08-01
+2020M08,Apartamentos,Espańa,55.50,2020-08-01
+2020M08,Albergues,La Rioja,33.50,2020-08-01
+2020M08,Albergues,Espańa,31.40,2020-08-01
+2020M09,Hoteles,La Rioja,17.40,2020-09-01
+2020M09,Hoteles,Espańa,23.40,2020-09-01
+2020M09,Camping,La Rioja,3.40,2020-09-01
+2020M09,Camping,Espańa,40.50,2020-09-01
+2020M09,Turismo Rural,La Rioja,21.30,2020-09-01
+2020M09,Turismo Rural,Espańa,25.90,2020-09-01
+2020M09,Apartamentos,La Rioja,30.60,2020-09-01
+2020M09,Apartamentos,Espańa,46.50,2020-09-01
+2020M09,Albergues,Espańa,27.20,2020-09-01
+2020M10,Hoteles,La Rioja,17.50,2020-10-01
+2020M10,Hoteles,Espańa,21.30,2020-10-01
+2020M10,Camping,La Rioja,33.70,2020-10-01
+2020M10,Camping,Espańa,40.80,2020-10-01
+2020M10,Turismo Rural,La Rioja,23.40,2020-10-01
+2020M10,Turismo Rural,Espańa,24.50,2020-10-01
+2020M10,Apartamentos,La Rioja,29.40,2020-10-01
+2020M10,Apartamentos,Espańa,44.10,2020-10-01
+2020M10,Albergues,La Rioja,55.10,2020-10-01
+2020M10,Albergues,Espańa,33.80,2020-10-01
+2020M11,Hoteles,La Rioja,18.80,2020-11-01
+2020M11,Hoteles,Espańa,24.30,2020-11-01
+2020M11,Camping,Espańa,108.50,2020-11-01
+2020M11,Turismo Rural,La Rioja,30.60,2020-11-01
+2020M11,Turismo Rural,Espańa,31.10,2020-11-01
+2020M11,Apartamentos,La Rioja,7.50,2020-11-01
+2020M11,Apartamentos,Espańa,69.20,2020-11-01
+2020M11,Albergues,Espańa,4.70,2020-11-01
+2020M12,Hoteles,La Rioja,16.50,2020-12-01
+2020M12,Hoteles,Espańa,22.90,2020-12-01
+2020M12,Camping,La Rioja,47.60,2020-12-01
+2020M12,Camping,Espańa,7.70,2020-12-01
+2020M12,Turismo Rural,La Rioja,2.90,2020-12-01
+2020M12,Turismo Rural,Espańa,26.60,2020-12-01
+2020M12,Apartamentos,La Rioja,33.50,2020-12-01
+2020M12,Apartamentos,Espańa,62.30,2020-12-01
+2020M12,Albergues,Espańa,47.50,2020-12-01
+2021M01,Hoteles,La Rioja,18.20,2021-01-01
+2021M01,Hoteles,Espańa,21.90,2021-01-01
+2021M01,Camping,Espańa,121.30,2021-01-01
+2021M01,Turismo Rural,La Rioja,28.40,2021-01-01
+2021M01,Turismo Rural,Espańa,33.60,2021-01-01
+2021M01,Apartamentos,La Rioja,61.80,2021-01-01
+2021M01,Apartamentos,Espańa,67.90,2021-01-01
+2021M01,Albergues,La Rioja,11.70,2021-01-01
+2021M01,Albergues,Espańa,54.90,2021-01-01
+2021M02,Hoteles,La Rioja,18.70,2021-02-01
+2021M02,Hoteles,Espańa,20.70,2021-02-01
+2021M02,Camping,Espańa,97.50,2021-02-01
+2021M02,Turismo Rural,La Rioja,24.10,2021-02-01
+2021M02,Turismo Rural,Espańa,33.40,2021-02-01
+2021M02,Apartamentos,Espańa,65.10,2021-02-01
+2021M02,Albergues,Espańa,47.80,2021-02-01
+2021M03,Hoteles,La Rioja,17.60,2021-03-01
+2021M03,Hoteles,Espańa,20.30,2021-03-01
+2021M03,Camping,La Rioja,23.40,2021-03-01
+2021M03,Camping,Espańa,45.20,2021-03-01
+2021M03,Turismo Rural,La Rioja,20.30,2021-03-01
+2021M03,Turismo Rural,Espańa,25.30,2021-03-01
+2021M03,Apartamentos,La Rioja,36.30,2021-03-01
+2021M03,Apartamentos,Espańa,5.30,2021-03-01
+2021M03,Albergues,La Rioja,11.50,2021-03-01
+2021M03,Albergues,Espańa,32.50,2021-03-01
+2021M04,Hoteles,La Rioja,17.50,2021-04-01
+2021M04,Hoteles,Espańa,21.20,2021-04-01
+2021M04,Camping,Espańa,42.50,2021-04-01
+2021M04,Turismo Rural,La Rioja,22.30,2021-04-01
+2021M04,Turismo Rural,Espańa,2.60,2021-04-01
+2021M04,Apartamentos,La Rioja,31.10,2021-04-01
+2021M04,Apartamentos,Espańa,47.90,2021-04-01
+2021M04,Albergues,La Rioja,12.90,2021-04-01
+2021M04,Albergues,Espańa,28.50,2021-04-01
+2021M05,Hoteles,La Rioja,16.50,2021-05-01
+2021M05,Hoteles,Espańa,21.60,2021-05-01
+2021M05,Camping,La Rioja,24.80,2021-05-01
+2021M05,Camping,Espańa,3.40,2021-05-01
+2021M05,Turismo Rural,La Rioja,2.10,2021-05-01
+2021M05,Turismo Rural,Espańa,23.30,2021-05-01
+2021M05,Apartamentos,La Rioja,28.90,2021-05-01
+2021M05,Apartamentos,Espańa,40.80,2021-05-01
+2021M05,Albergues,La Rioja,12.10,2021-05-01
+2021M05,Albergues,Espańa,22.60,2021-05-01
+2021M06,Hoteles,La Rioja,1.70,2021-06-01
+2021M06,Hoteles,Espańa,25.10,2021-06-01
+2021M06,Camping,La Rioja,2.90,2021-06-01
+2021M06,Camping,Espańa,37.20,2021-06-01
+2021M06,Turismo Rural,La Rioja,29.60,2021-06-01
+2021M06,Turismo Rural,Espańa,25.10,2021-06-01
+2021M06,Apartamentos,La Rioja,29.10,2021-06-01
+2021M06,Apartamentos,Espańa,42.40,2021-06-01
+2021M06,Albergues,La Rioja,15.40,2021-06-01
+2021M06,Albergues,Espańa,18.60,2021-06-01
+2021M07,Hoteles,La Rioja,17.30,2021-07-01
+2021M07,Hoteles,Espańa,30.80,2021-07-01
+2021M07,Camping,La Rioja,36.50,2021-07-01
+2021M07,Camping,Espańa,43.90,2021-07-01
+2021M07,Turismo Rural,La Rioja,28.50,2021-07-01
+2021M07,Turismo Rural,Espańa,32.50,2021-07-01
+2021M07,Apartamentos,La Rioja,30.80,2021-07-01
+2021M07,Apartamentos,Espańa,51.10,2021-07-01
+2021M07,Albergues,La Rioja,24.30,2021-07-01
+2021M07,Albergues,Espańa,22.70,2021-07-01
+2021M08,Hoteles,La Rioja,17.20,2021-08-01
+2021M08,Hoteles,Espańa,33.10,2021-08-01
+2021M08,Camping,La Rioja,60.30,2021-08-01
+2021M08,Camping,Espańa,0.50,2021-08-01
+2021M08,Turismo Rural,La Rioja,35.70,2021-08-01
+2021M08,Turismo Rural,Espańa,38.30,2021-08-01
+2021M08,Apartamentos,La Rioja,30.80,2021-08-01
+2021M08,Apartamentos,Espańa,51.10,2021-08-01
+2021M08,Albergues,La Rioja,16.70,2021-08-01
+2021M08,Albergues,Espańa,20.30,2021-08-01
+2021M09,Hoteles,La Rioja,1.60,2021-09-01
+2021M09,Hoteles,Espańa,31.10,2021-09-01
+2021M09,Camping,La Rioja,31.60,2021-09-01
+2021M09,Camping,Espańa,44.20,2021-09-01
+2021M09,Turismo Rural,La Rioja,28.60,2021-09-01
+2021M09,Turismo Rural,Espańa,26.20,2021-09-01
+2021M09,Apartamentos,La Rioja,29.60,2021-09-01
+2021M09,Apartamentos,Espańa,52.40,2021-09-01
+2021M09,Albergues,La Rioja,1.20,2021-09-01
+2021M09,Albergues,Espańa,15.60,2021-09-01
+2021M10,Hoteles,La Rioja,17.40,2021-10-01
+2021M10,Hoteles,Espańa,29.40,2021-10-01
+2021M10,Camping,La Rioja,28.60,2021-10-01
+2021M10,Camping,Espańa,41.40,2021-10-01
+2021M10,Turismo Rural,La Rioja,28.30,2021-10-01
+2021M10,Turismo Rural,Espańa,24.90,2021-10-01
+2021M10,Apartamentos,La Rioja,26.90,2021-10-01
+2021M10,Apartamentos,Espańa,4.90,2021-10-01
+2021M10,Albergues,La Rioja,15.10,2021-10-01
+2021M10,Albergues,Espańa,16.90,2021-10-01
+2021M11,Hoteles,La Rioja,17.30,2021-11-01
+2021M11,Hoteles,Espańa,27.70,2021-11-01
+2021M11,Camping,La Rioja,25.80,2021-11-01
+2021M11,Camping,Espańa,56.80,2021-11-01
+2021M11,Turismo Rural,La Rioja,27.80,2021-11-01
+2021M11,Turismo Rural,Espańa,22.90,2021-11-01
+2021M11,Apartamentos,La Rioja,28.20,2021-11-01
+2021M11,Apartamentos,Espańa,57.10,2021-11-01
+2021M11,Albergues,La Rioja,13.50,2021-11-01
+2021M11,Albergues,Espańa,20.90,2021-11-01
+2021M12,Hoteles,La Rioja,18.10,2021-12-01
+2021M12,Hoteles,Espańa,27.10,2021-12-01
+2021M12,Camping,La Rioja,32.90,2021-12-01
+2021M12,Camping,Espańa,62.10,2021-12-01
+2021M12,Turismo Rural,La Rioja,32.80,2021-12-01
+2021M12,Turismo Rural,Espańa,26.60,2021-12-01
+2021M12,Apartamentos,La Rioja,28.90,2021-12-01
+2021M12,Apartamentos,Espańa,52.50,2021-12-01
+2021M12,Albergues,Espańa,22.10,2021-12-01
+2022M01,Hoteles,La Rioja,16.50,2022-01-01
+2022M01,Hoteles,Espańa,28.10,2022-01-01
+2022M01,Camping,La Rioja,3.10,2022-01-01
+2022M01,Camping,Espańa,70.70,2022-01-01
+2022M01,Turismo Rural,La Rioja,22.20,2022-01-01
+2022M01,Turismo Rural,Espańa,24.90,2022-01-01
+2022M01,Apartamentos,La Rioja,22.20,2022-01-01
+2022M01,Apartamentos,Espańa,62.30,2022-01-01
+2022M01,Albergues,La Rioja,16.70,2022-01-01
+2022M01,Albergues,Espańa,22.60,2022-01-01
+2022M02,Hoteles,La Rioja,16.50,2022-02-01
+2022M02,Hoteles,Espańa,26.50,2022-02-01
+2022M02,Camping,La Rioja,30.80,2022-02-01
+2022M02,Camping,Espańa,58.90,2022-02-01
+2022M02,Turismo Rural,La Rioja,20.30,2022-02-01
+2022M02,Turismo Rural,Espańa,23.10,2022-02-01
+2022M02,Apartamentos,La Rioja,20.60,2022-02-01
+2022M02,Apartamentos,Espańa,5.40,2022-02-01
+2022M02,Albergues,La Rioja,14.40,2022-02-01
+2022M02,Albergues,Espańa,22.50,2022-02-01
+2022M03,Hoteles,La Rioja,17.20,2022-03-01
+2022M03,Hoteles,Espańa,29.10,2022-03-01
+2022M03,Camping,La Rioja,28.30,2022-03-01
+2022M03,Camping,Espańa,51.80,2022-03-01
+2022M03,Turismo Rural,La Rioja,21.50,2022-03-01
+2022M03,Turismo Rural,Espańa,23.10,2022-03-01
+2022M03,Apartamentos,La Rioja,19.80,2022-03-01
+2022M03,Apartamentos,Espańa,57.50,2022-03-01
+2022M03,Albergues,La Rioja,12.10,2022-03-01
+2022M03,Albergues,Espańa,22.50,2022-03-01
+2022M04,Hoteles,La Rioja,17.40,2022-04-01
+2022M04,Hoteles,Espańa,2.90,2022-04-01
+2022M04,Camping,La Rioja,27.50,2022-04-01
+2022M04,Camping,Espańa,38.90,2022-04-01
+2022M04,Turismo Rural,La Rioja,23.70,2022-04-01
+2022M04,Turismo Rural,Espańa,26.30,2022-04-01
+2022M04,Apartamentos,La Rioja,23.30,2022-04-01
+2022M04,Apartamentos,Espańa,45.30,2022-04-01
+2022M04,Albergues,La Rioja,14.50,2022-04-01
+2022M04,Albergues,Espańa,17.20,2022-04-01
+2022M05,Hoteles,La Rioja,16.50,2022-05-01
+2022M05,Hoteles,Espańa,0.30,2022-05-01
+2022M05,Camping,La Rioja,25.70,2022-05-01
+2022M05,Camping,Espańa,3.90,2022-05-01
+2022M05,Turismo Rural,La Rioja,19.80,2022-05-01
+2022M05,Turismo Rural,Espańa,23.20,2022-05-01
+2022M05,Apartamentos,La Rioja,21.40,2022-05-01
+2022M05,Apartamentos,Espańa,46.30,2022-05-01
+2022M05,Albergues,La Rioja,11.30,2022-05-01
+2022M05,Albergues,Espańa,16.40,2022-05-01
+2022M06,Hoteles,La Rioja,17.10,2022-06-01
+2022M06,Hoteles,Espańa,31.90,2022-06-01
+2022M06,Camping,La Rioja,3.30,2022-06-01
+2022M06,Camping,Espańa,39.50,2022-06-01
+2022M06,Turismo Rural,La Rioja,21.50,2022-06-01
+2022M06,Turismo Rural,Espańa,25.30,2022-06-01
+2022M06,Apartamentos,La Rioja,24.30,2022-06-01
+2022M06,Apartamentos,Espańa,49.10,2022-06-01
+2022M06,Albergues,La Rioja,14.30,2022-06-01
+2022M06,Albergues,Espańa,1.80,2022-06-01
+2022M07,Hoteles,La Rioja,17.20,2022-07-01
+2022M07,Hoteles,Espańa,34.30,2022-07-01
+2022M07,Camping,La Rioja,47.50,2022-07-01
+2022M07,Camping,Espańa,48.10,2022-07-01
+2022M07,Turismo Rural,La Rioja,21.50,2022-07-01
+2022M07,Turismo Rural,Espańa,31.90,2022-07-01
+2022M07,Apartamentos,La Rioja,27.20,2022-07-01
+2022M07,Apartamentos,Espańa,55.20,2022-07-01
+2022M07,Albergues,La Rioja,24.90,2022-07-01
+2022M07,Albergues,Espańa,22.80,2022-07-01
+2022M08,Hoteles,La Rioja,17.90,2022-08-01
+2022M08,Hoteles,Espańa,35.80,2022-08-01
+2022M08,Camping,La Rioja,0.50,2022-08-01
+2022M08,Camping,Espańa,53.30,2022-08-01
+2022M08,Turismo Rural,La Rioja,2.90,2022-08-01
+2022M08,Turismo Rural,Espańa,3.80,2022-08-01
+2022M08,Apartamentos,La Rioja,31.40,2022-08-01
+2022M08,Apartamentos,Espańa,61.70,2022-08-01
+2022M08,Albergues,La Rioja,14.70,2022-08-01
+2022M08,Albergues,Espańa,18.20,2022-08-01
+2022M09,Hoteles,La Rioja,17.40,2022-09-01
+2022M09,Hoteles,Espańa,32.60,2022-09-01
+2022M09,Camping,La Rioja,0.30,2022-09-01
+2022M09,Camping,Espańa,43.80,2022-09-01
+2022M09,Turismo Rural,La Rioja,20.50,2022-09-01
+2022M09,Turismo Rural,Espańa,25.50,2022-09-01
+2022M09,Apartamentos,La Rioja,21.10,2022-09-01
+2022M09,Apartamentos,Espańa,52.40,2022-09-01
+2022M09,Albergues,La Rioja,11.30,2022-09-01
+2022M09,Albergues,Espańa,15.60,2022-09-01
+2022M10,Hoteles,La Rioja,18.10,2022-10-01
+2022M10,Hoteles,Espańa,30.70,2022-10-01
+2022M10,Camping,La Rioja,25.40,2022-10-01
+2022M10,Camping,Espańa,43.40,2022-10-01
+2022M10,Turismo Rural,La Rioja,23.10,2022-10-01
+2022M10,Turismo Rural,Espańa,2.40,2022-10-01
+2022M10,Apartamentos,La Rioja,2.40,2022-10-01
+2022M10,Apartamentos,Espańa,52.50,2022-10-01
+2022M10,Albergues,La Rioja,12.80,2022-10-01
+2022M10,Albergues,Espańa,1.70,2022-10-01
+2022M11,Hoteles,La Rioja,17.40,2022-11-01
+2022M11,Hoteles,Espańa,28.10,2022-11-01
+2022M11,Camping,La Rioja,27.40,2022-11-01
+2022M11,Camping,Espańa,56.50,2022-11-01
+2022M11,Turismo Rural,La Rioja,21.80,2022-11-01
+2022M11,Turismo Rural,Espańa,22.50,2022-11-01
+2022M11,Apartamentos,La Rioja,20.50,2022-11-01
+2022M11,Apartamentos,Espańa,56.50,2022-11-01
+2022M11,Albergues,La Rioja,12.30,2022-11-01
+2022M11,Albergues,Espańa,20.40,2022-11-01
+2022M12,Hoteles,La Rioja,18.30,2022-12-01
+2022M12,Hoteles,Espańa,27.50,2022-12-01
+2022M12,Camping,La Rioja,4.90,2022-12-01
+2022M12,Camping,Espańa,6.30,2022-12-01
+2022M12,Turismo Rural,La Rioja,27.30,2022-12-01
+2022M12,Turismo Rural,Espańa,25.50,2022-12-01
+2022M12,Apartamentos,La Rioja,2.60,2022-12-01
+2022M12,Apartamentos,Espańa,53.40,2022-12-01
+2022M12,Albergues,La Rioja,1.50,2022-12-01
+2022M12,Albergues,Espańa,21.70,2022-12-01
+2023M01,Hoteles,La Rioja,16.60,2023-01-01
+2023M01,Hoteles,Espańa,28.80,2023-01-01
+2023M01,Camping,Espańa,72.40,2023-01-01
+2023M01,Turismo Rural,La Rioja,24.60,2023-01-01
+2023M01,Turismo Rural,Espańa,24.80,2023-01-01
+2023M01,Apartamentos,La Rioja,20.60,2023-01-01
+2023M01,Apartamentos,Espańa,59.60,2023-01-01
+2023M01,Albergues,La Rioja,11.50,2023-01-01
+2023M01,Albergues,Espańa,22.60,2023-01-01
+2023M02,Hoteles,La Rioja,17.60,2023-02-01
+2023M02,Hoteles,Espańa,28.20,2023-02-01
+2023M02,Camping,La Rioja,40.40,2023-02-01
+2023M02,Camping,Espańa,64.10,2023-02-01
+2023M02,Turismo Rural,La Rioja,20.20,2023-02-01
+2023M02,Turismo Rural,Espańa,23.60,2023-02-01
+2023M02,Apartamentos,La Rioja,22.20,2023-02-01
+2023M02,Apartamentos,Espańa,55.50,2023-02-01
+2023M02,Albergues,La Rioja,13.50,2023-02-01
+2023M02,Albergues,Espańa,21.80,2023-02-01
+2023M03,Hoteles,La Rioja,1.80,2023-03-01
+2023M03,Hoteles,Espańa,2.80,2023-03-01
+2023M03,Camping,La Rioja,24.60,2023-03-01
+2023M03,Camping,Espańa,48.70,2023-03-01
+2023M03,Turismo Rural,La Rioja,20.70,2023-03-01
+2023M03,Turismo Rural,Espańa,23.20,2023-03-01
+2023M03,Apartamentos,La Rioja,20.80,2023-03-01
+2023M03,Apartamentos,Espańa,53.20,2023-03-01
+2023M03,Albergues,La Rioja,13.90,2023-03-01
+2023M03,Albergues,Espańa,18.70,2023-03-01
+2023M04,Hoteles,La Rioja,17.90,2023-04-01
+2023M04,Hoteles,Espańa,28.50,2023-04-01
+2023M04,Camping,Espańa,38.90,2023-04-01
+2023M04,Turismo Rural,La Rioja,24.40,2023-04-01
+2023M04,Turismo Rural,Espańa,25.40,2023-04-01
+2023M04,Apartamentos,La Rioja,24.40,2023-04-01
+2023M04,Apartamentos,Espańa,44.40,2023-04-01
+2023M04,Albergues,La Rioja,12.90,2023-04-01
+2023M04,Albergues,Espańa,16.80,2023-04-01
+2023M05,Hoteles,La Rioja,17.70,2023-05-01
+2023M05,Hoteles,Espańa,30.40,2023-05-01
+2023M05,Camping,La Rioja,31.40,2023-05-01
+2023M05,Camping,Espańa,42.90,2023-05-01
+2023M05,Turismo Rural,La Rioja,19.80,2023-05-01
+2023M05,Turismo Rural,Espańa,2.40,2023-05-01
+2023M05,Apartamentos,La Rioja,18.60,2023-05-01
+2023M05,Apartamentos,Espańa,47.70,2023-05-01
+2023M05,Albergues,La Rioja,11.90,2023-05-01
+2023M05,Albergues,Espańa,15.90,2023-05-01
+2023M06,Hoteles,La Rioja,18.30,2023-06-01
+2023M06,Hoteles,Espańa,31.50,2023-06-01
+2023M06,Camping,La Rioja,26.40,2023-06-01
+2023M06,Camping,Espańa,39.90,2023-06-01
+2023M06,Turismo Rural,La Rioja,21.90,2023-06-01
+2023M06,Turismo Rural,Espańa,24.20,2023-06-01
+2023M06,Apartamentos,La Rioja,20.80,2023-06-01
+2023M06,Apartamentos,Espańa,4.80,2023-06-01
+2023M06,Albergues,La Rioja,13.40,2023-06-01
+2023M06,Albergues,Espańa,17.20,2023-06-01
+2023M07,Hoteles,La Rioja,17.80,2023-07-01
+2023M07,Hoteles,Espańa,34.10,2023-07-01
+2023M07,Camping,La Rioja,4.30,2023-07-01
+2023M07,Camping,Espańa,47.90,2023-07-01
+2023M07,Turismo Rural,La Rioja,24.50,2023-07-01
+2023M07,Turismo Rural,Espańa,31.10,2023-07-01
+2023M07,Apartamentos,La Rioja,25.20,2023-07-01
+2023M07,Apartamentos,Espańa,53.60,2023-07-01
+2023M07,Albergues,La Rioja,25.50,2023-07-01
+2023M07,Albergues,Espańa,21.70,2023-07-01
+2023M08,Hoteles,La Rioja,17.10,2023-08-01
+2023M08,Hoteles,Espańa,35.40,2023-08-01
+2023M08,Camping,La Rioja,4.70,2023-08-01
+2023M08,Camping,Espańa,52.60,2023-08-01
+2023M08,Turismo Rural,La Rioja,31.40,2023-08-01
+2023M08,Turismo Rural,Espańa,37.20,2023-08-01
+2023M08,Apartamentos,La Rioja,26.50,2023-08-01
+2023M08,Apartamentos,Espańa,58.50,2023-08-01
+2023M08,Albergues,La Rioja,13.70,2023-08-01
+2023M08,Albergues,Espańa,17.30,2023-08-01
+2023M09,Hoteles,La Rioja,17.70,2023-09-01
+2023M09,Hoteles,Espańa,32.70,2023-09-01
+2023M09,Camping,La Rioja,28.30,2023-09-01
+2023M09,Camping,Espańa,43.80,2023-09-01
+2023M09,Turismo Rural,La Rioja,20.60,2023-09-01
+2023M09,Turismo Rural,Espańa,25.60,2023-09-01
+2023M09,Apartamentos,La Rioja,20.60,2023-09-01
+2023M09,Apartamentos,Espańa,51.20,2023-09-01
+2023M09,Albergues,La Rioja,12.80,2023-09-01
+2023M09,Albergues,Espańa,1.60,2023-09-01
+2023M10,Hoteles,La Rioja,1.80,2023-10-01
+2023M10,Hoteles,Espańa,31.20,2023-10-01
+2023M10,Camping,La Rioja,31.10,2023-10-01
+2023M10,Camping,Espańa,45.90,2023-10-01
+2023M10,Turismo Rural,La Rioja,23.50,2023-10-01
+2023M10,Turismo Rural,Espańa,2.50,2023-10-01
+2023M10,Apartamentos,La Rioja,2.60,2023-10-01
+2023M10,Apartamentos,Espańa,51.70,2023-10-01
+2023M10,Albergues,La Rioja,12.10,2023-10-01
+2023M10,Albergues,Espańa,16.10,2023-10-01
+2023M11,Hoteles,La Rioja,17.70,2023-11-01
+2023M11,Hoteles,Espańa,2.80,2023-11-01
+2023M11,Camping,La Rioja,42.80,2023-11-01
+2023M11,Camping,Espańa,5.60,2023-11-01
+2023M11,Turismo Rural,La Rioja,18.70,2023-11-01
+2023M11,Turismo Rural,Espańa,22.90,2023-11-01
+2023M11,Apartamentos,La Rioja,21.10,2023-11-01
+2023M11,Apartamentos,Espańa,55.70,2023-11-01
+2023M11,Albergues,La Rioja,12.50,2023-11-01
+2023M11,Albergues,Espańa,20.50,2023-11-01
+2023M12,Hoteles,La Rioja,19.70,2023-12-01
+2023M12,Hoteles,Espańa,27.20,2023-12-01
+2023M12,Camping,La Rioja,33.90,2023-12-01
+2023M12,Camping,Espańa,61.80,2023-12-01
+2023M12,Turismo Rural,La Rioja,2.90,2023-12-01
+2023M12,Turismo Rural,Espańa,26.70,2023-12-01
+2023M12,Apartamentos,La Rioja,27.30,2023-12-01
+2023M12,Apartamentos,Espańa,5.20,2023-12-01
+2023M12,Albergues,La Rioja,17.70,2023-12-01
+2023M12,Albergues,Espańa,21.40,2023-12-01
+2024M01,Hoteles,La Rioja,16.30,2024-01-01
+2024M01,Hoteles,Espańa,29.20,2024-01-01
+2024M01,Camping,Espańa,76.20,2024-01-01
+2024M01,Turismo Rural,La Rioja,19.20,2024-01-01
+2024M01,Turismo Rural,Espańa,24.30,2024-01-01
+2024M01,Apartamentos,La Rioja,22.20,2024-01-01
+2024M01,Apartamentos,Espańa,6.10,2024-01-01
+2024M01,Albergues,La Rioja,2.40,2024-01-01
+2024M01,Albergues,Espańa,22.80,2024-01-01
+2024M02,Hoteles,La Rioja,17.30,2024-02-01
+2024M02,Hoteles,Espańa,28.40,2024-02-01
+2024M02,Camping,La Rioja,29.90,2024-02-01
+2024M02,Camping,Espańa,63.50,2024-02-01
+2024M02,Turismo Rural,La Rioja,19.10,2024-02-01
+2024M02,Turismo Rural,Espańa,23.20,2024-02-01
+2024M02,Apartamentos,La Rioja,25.30,2024-02-01
+2024M02,Apartamentos,Espańa,55.60,2024-02-01
+2024M02,Albergues,La Rioja,13.90,2024-02-01
+2024M02,Albergues,Espańa,22.90,2024-02-01
+2024M03,Hoteles,La Rioja,17.40,2024-03-01
+2024M03,Hoteles,Espańa,2.90,2024-03-01
+2024M03,Camping,La Rioja,26.30,2024-03-01
+2024M03,Camping,Espańa,43.20,2024-03-01
+2024M03,Turismo Rural,La Rioja,25.60,2024-03-01
+2024M03,Turismo Rural,Espańa,25.50,2024-03-01
+2024M03,Apartamentos,La Rioja,23.30,2024-03-01
+2024M03,Apartamentos,Espańa,50.30,2024-03-01
+2024M03,Albergues,La Rioja,13.30,2024-03-01
+2024M03,Albergues,Espańa,19.70,2024-03-01
